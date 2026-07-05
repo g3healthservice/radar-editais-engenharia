@@ -99,33 +99,51 @@ def identificar_fonte(objeto, info_complementar):
     return achados or ["Não identificado no texto (conferir edital)"]
 
 
+# Alguns WAFs/servidores tratam o User-Agent padrão do Python (Python-urllib) vindo de
+# IP de datacenter com hostilidade (timeout no connect). Um UA de navegador evita isso.
+HEADERS = {
+    "Accept": "application/json",
+    "User-Agent": ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                   "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"),
+}
+MAX_TENTATIVAS = 6
+# Se mais que esta fração das páginas falhar, abortamos sem publicar (não sobrescreve
+# a última base boa com um resultado parcial enganoso).
+LIMITE_FALHAS = 0.08
+
+
 def buscar_pagina(pagina, data_final):
+    """Retorna o JSON da página, ou None se falhar após todas as tentativas."""
     url = f"{API_BASE}?dataFinal={data_final}&pagina={pagina}&tamanhoPagina={PAGE_SIZE}"
-    req = urllib.request.Request(url, headers={"Accept": "application/json"})
-    for tentativa in range(8):
+    req = urllib.request.Request(url, headers=HEADERS)
+    for tentativa in range(MAX_TENTATIVAS):
+        ultima = tentativa == MAX_TENTATIVAS - 1
         try:
-            with urllib.request.urlopen(req, timeout=30) as resp:
+            with urllib.request.urlopen(req, timeout=45) as resp:
                 return json.load(resp)
         except urllib.error.HTTPError as e:
-            if e.code == 429 and tentativa < 7:
+            if e.code == 429 and not ultima:
                 espera = int(e.headers.get("Retry-After", 5 * (tentativa + 1)))
                 time.sleep(espera)
                 continue
-            if e.code >= 500 and tentativa < 7:
+            if e.code >= 500 and not ultima:
                 time.sleep(3 * (tentativa + 1))
                 continue
-            raise
+            return None
         except (urllib.error.URLError, OSError, TimeoutError, socket.timeout):
-            # OSError/socket.timeout cobrem timeouts de leitura e quedas de conexão
-            # (no Python 3.9 socket.timeout não é subclasse de TimeoutError).
-            if tentativa == 7:
-                raise
-            time.sleep(2 * (tentativa + 1))
+            # cobre timeouts de connect/read e quedas de conexão (no Python 3.9
+            # socket.timeout não é subclasse de TimeoutError).
+            if ultima:
+                return None
+            time.sleep(3 * (tentativa + 1))
+    return None
 
 
 def coletar_tudo():
     data_final = (date.today() + timedelta(days=365 * 3)).strftime("%Y%m%d")
     primeira = buscar_pagina(1, data_final)
+    if primeira is None:
+        raise RuntimeError("Não foi possível obter a primeira página do PNCP (API indisponível).")
     total_paginas = primeira.get("totalPaginas", 1)
     total_registros = primeira.get("totalRegistros", 0)
     print(f"Total de contratações com proposta aberta no Brasil: {total_registros} ({total_paginas} páginas)")
@@ -135,12 +153,25 @@ def coletar_tudo():
     limite = min(limite, total_paginas)
 
     todos = list(primeira.get("data", []))
+    falhas = 0
     for pagina in range(2, limite + 1):
         d = buscar_pagina(pagina, data_final)
-        todos.extend(d.get("data", []))
+        if d is None:
+            falhas += 1
+            print(f"  [aviso] página {pagina} falhou após {MAX_TENTATIVAS} tentativas — pulando")
+        else:
+            todos.extend(d.get("data", []))
         if pagina % 50 == 0:
-            print(f"  ...página {pagina}/{limite}")
+            print(f"  ...página {pagina}/{limite} ({falhas} falhas até aqui)")
         time.sleep(0.35)
+
+    if limite > 1 and falhas / (limite - 1) > LIMITE_FALHAS:
+        raise RuntimeError(
+            f"Muitas páginas falharam ({falhas}/{limite - 1} = "
+            f"{100 * falhas / (limite - 1):.0f}%) — abortando sem publicar para não gerar base parcial."
+        )
+    if falhas:
+        print(f"Concluído com {falhas} página(s) pulada(s) de {limite - 1} — dentro do tolerável.")
     return todos, total_registros
 
 
