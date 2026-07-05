@@ -50,7 +50,7 @@ def main():
     linhas_html = "".join(linha(i) for i in novos[:80])
     aviso_corte = "" if len(novos) <= 80 else f"<p style='color:#9B2226'>Mostrando os 80 primeiros de {len(novos)} novos editais — veja o restante no dashboard.</p>"
 
-    html = f"""<html><body style="font-family:Arial,Helvetica,sans-serif;color:#222;max-width:760px">
+    html = f"""<html><head><meta charset="UTF-8"></head><body style="font-family:Arial,Helvetica,sans-serif;color:#222;max-width:760px">
     <h2 style="color:#1F3A5F">🏗️ Radar de Editais — Engenharia Civil / Reforma Predial (PNCP)</h2>
     <p><b>{len(novos)} editais novos</b> desde a última verificação, de um total de <b>{dataset['totalEngenhariaCivil']}</b> abertos agora no Brasil
     (dentre {dataset['totalAbertoBrasil']:,} contratações com proposta em aberto no PNCP hoje).</p>

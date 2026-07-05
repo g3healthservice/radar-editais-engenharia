@@ -13,7 +13,9 @@ Gera: dataset.json (dados completos), novos.json (itens novos desde a
 última execução, para o e-mail) e atualiza estado.json (para o diff).
 """
 import json
+import os
 import re
+import socket
 import sys
 import time
 import unicodedata
@@ -109,8 +111,13 @@ def buscar_pagina(pagina, data_final):
                 espera = int(e.headers.get("Retry-After", 5 * (tentativa + 1)))
                 time.sleep(espera)
                 continue
+            if e.code >= 500 and tentativa < 7:
+                time.sleep(3 * (tentativa + 1))
+                continue
             raise
-        except (urllib.error.URLError, TimeoutError):
+        except (urllib.error.URLError, OSError, TimeoutError, socket.timeout):
+            # OSError/socket.timeout cobrem timeouts de leitura e quedas de conexão
+            # (no Python 3.9 socket.timeout não é subclasse de TimeoutError).
             if tentativa == 7:
                 raise
             time.sleep(2 * (tentativa + 1))
@@ -123,14 +130,30 @@ def coletar_tudo():
     total_registros = primeira.get("totalRegistros", 0)
     print(f"Total de contratações com proposta aberta no Brasil: {total_registros} ({total_paginas} páginas)")
 
+    # MAX_PAGINAS: override apenas para teste local rápido (não usado em produção).
+    limite = int(os.environ.get("MAX_PAGINAS", "0")) or total_paginas
+    limite = min(limite, total_paginas)
+
     todos = list(primeira.get("data", []))
-    for pagina in range(2, total_paginas + 1):
+    for pagina in range(2, limite + 1):
         d = buscar_pagina(pagina, data_final)
         todos.extend(d.get("data", []))
         if pagina % 50 == 0:
-            print(f"  ...página {pagina}/{total_paginas}")
+            print(f"  ...página {pagina}/{limite}")
         time.sleep(0.35)
     return todos, total_registros
+
+
+# Alguns órgãos preenchem o valor estimado com um sentinela (ex.: 9.999.999.999.999,99)
+# ou valores absurdos. Acima de R$ 1 trilhão para uma única contratação é lixo — trata como
+# "não informado" para não distorcer o total do dashboard.
+LIMITE_VALOR_ABSURDO = 1e12
+
+
+def sanitizar_valor(v):
+    if v is None or v <= 0 or v >= LIMITE_VALOR_ABSURDO:
+        return None
+    return v
 
 
 def classificar(item):
@@ -151,7 +174,7 @@ def classificar(item):
         "objeto": objeto,
         "modalidade": item.get("modalidadeNome"),
         "srp": bool(item.get("srp")),
-        "valorEstimado": item.get("valorTotalEstimado"),
+        "valorEstimado": sanitizar_valor(item.get("valorTotalEstimado")),
         "dataEncerramentoProposta": item.get("dataEncerramentoProposta"),
         "dataPublicacaoPncp": item.get("dataPublicacaoPncp"),
         "fonteRecurso": identificar_fonte(objeto, info),
