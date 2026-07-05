@@ -1,0 +1,65 @@
+name: radar-editais-engenharia
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "15 */4 * * *"   # a cada 4h
+
+permissions:
+  contents: write
+
+concurrency:
+  group: radar-editais
+  cancel-in-progress: false
+
+jobs:
+  radar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Buscar editais no PNCP e filtrar engenharia civil
+        run: python3 pipeline/buscar_editais.py
+
+      - name: Gerar dashboard (app.html + build.txt)
+        run: python3 pipeline/gerar_dashboard.py
+
+      - name: Gerar e-mail com os itens novos
+        id: email
+        run: |
+          python3 pipeline/gerar_email.py
+          if [ -s pipeline/novos.json ] && [ "$(cat pipeline/novos.json)" != "[]" ]; then
+            echo "tem_novos=1" >> "$GITHUB_OUTPUT"
+          else
+            echo "tem_novos=0" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Enviar e-mail (só se houver editais novos)
+        if: steps.email.outputs.tem_novos == '1'
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: ${{ secrets.MAIL_SERVER }}
+          server_port: ${{ secrets.MAIL_PORT }}
+          secure: true
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          subject: "[Radar Editais] Novos editais de engenharia civil/reforma predial (PNCP)"
+          to: g3.healthservice@proton.me
+          from: Radar Editais G3 <${{ secrets.MAIL_USERNAME }}>
+          html_body: file://email_novos.html
+
+      - name: Publicar dashboard e salvar estado
+        run: |
+          git config user.name "radar-editais-bot"
+          git config user.email "actions@github.com"
+          git add app.html build.txt pipeline/dataset.json pipeline/estado.json
+          if git diff --cached --quiet; then
+            echo "Nada novo para publicar."
+          else
+            git commit -m "Atualização automática do radar de editais ($(date -u '+%Y-%m-%d %H:%M UTC'))"
+            git push
+          fi
