@@ -138,7 +138,7 @@ function render(){
     return 0;
   });
 
-  document.getElementById('countInfo').textContent = `Mostrando ${filtrados.length} de ${itens.length} editais filtrados (de ${D.totalAbertoBrasil.toLocaleString('pt-BR')} contratações abertas no Brasil hoje).`;
+  document.getElementById('countInfo').textContent = `Mostrando ${filtrados.length} de ${itens.length} editais de engenharia civil em aberto no Brasil.`;
 
   document.getElementById('cTotal').textContent = filtrados.length;
   document.getElementById('cValor').textContent = fmtMoeda(filtrados.reduce((s,i)=>s+(i.valorEstimado||0),0));

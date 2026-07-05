@@ -52,8 +52,7 @@ def main():
 
     html = f"""<html><head><meta charset="UTF-8"></head><body style="font-family:Arial,Helvetica,sans-serif;color:#222;max-width:760px">
     <h2 style="color:#1F3A5F">🏗️ Radar de Editais — Engenharia Civil / Reforma Predial (PNCP)</h2>
-    <p><b>{len(novos)} editais novos</b> desde a última verificação, de um total de <b>{dataset['totalEngenhariaCivil']}</b> abertos agora no Brasil
-    (dentre {dataset['totalAbertoBrasil']:,} contratações com proposta em aberto no PNCP hoje).</p>
+    <p><b>{len(novos)} editais novos</b> desde a última verificação, de um total de <b>{dataset['totalEngenhariaCivil']}</b> editais de engenharia civil em aberto no Brasil.</p>
     <p style="font-size:13px;color:#555">Por esfera (total atual em aberto): {' · '.join(f"{k}: {v}" for k,v in resumo_esfera.items())}</p>
     <p><a href="{DASHBOARD_URL}" style="background:#1F3A5F;color:#fff;padding:8px 14px;border-radius:6px;text-decoration:none">Abrir dashboard completo (filtros, ordenação, todos os itens)</a></p>
     {aviso_corte}

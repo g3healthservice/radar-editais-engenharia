@@ -21,15 +21,27 @@ import time
 import unicodedata
 import urllib.error
 import urllib.request
-from datetime import date, timedelta
+from datetime import date, datetime, timedelta
 from pathlib import Path
 
-API_BASE = "https://pncp.gov.br/api/consulta/v1/contratacoes/proposta"
+API_PROPOSTA = "https://pncp.gov.br/api/consulta/v1/contratacoes/proposta"
+API_PUBLICACAO = "https://pncp.gov.br/api/consulta/v1/contratacoes/publicacao"
 PAGE_SIZE = 50
 HERE = Path(__file__).resolve().parent
 ESTADO_PATH = HERE / "estado.json"
 DATASET_PATH = HERE / "dataset.json"
 NOVOS_PATH = HERE / "novos.json"
+
+# Modo incremental: janela de dias (para trás) de publicações a re-buscar a cada execução.
+# Cobre o atraso D-3 do PNCP e eventuais execuções que falharam. Roda em ~10-15 min.
+LOOKBACK_DIAS = 5
+# Modalidades iteradas no incremental (o endpoint /publicacao exige informar a modalidade).
+# Escolhidas a partir da distribuição real das obras na base completa: Concorrência
+# Eletrônica (4)=65%, Pregão Eletrônico (6)=19%, Credenciamento (12)=8%, Concorrência
+# Presencial (5)=2.6%, Pré-qualificação (11)=2.1%, Pregão Presencial (7)=0.3% → ~97% de
+# cobertura. Dispensa (8) e Inexigibilidade (9) têm volume gigante e quase nenhuma obra —
+# ficam de fora do incremental (são capturadas pelo bootstrap --full).
+MODALIDADES = [4, 6, 12, 5, 11, 7]
 
 ESFERA_NOMES = {"F": "Federal", "E": "Estadual", "M": "Municipal", "N": "Não informado"}
 PODER_NOMES = {"E": "Executivo", "L": "Legislativo", "J": "Judiciário", "N": "Não informado"}
@@ -114,15 +126,21 @@ PAUSA_ENTRE_PAGINAS = 0.5  # espaçar reduz 429 e, no total, tende a ser mais r�
 LIMITE_FALHAS = 0.08
 
 
-def buscar_pagina(pagina, data_final):
-    """Retorna o JSON da página, ou None se falhar após todas as tentativas."""
-    url = f"{API_BASE}?dataFinal={data_final}&pagina={pagina}&tamanhoPagina={PAGE_SIZE}"
+# Estrutura vazia (usada para HTTP 204 / corpo vazio = "sem resultados", não é falha).
+VAZIO = {"data": [], "totalPaginas": 0, "totalRegistros": 0}
+
+
+def _buscar_url(url):
+    """Retorna o JSON da URL (ou VAZIO para 204/sem conteúdo), ou None se falhar."""
     req = urllib.request.Request(url, headers=HEADERS)
     for tentativa in range(MAX_TENTATIVAS):
         ultima = tentativa == MAX_TENTATIVAS - 1
         try:
             with urllib.request.urlopen(req, timeout=REQ_TIMEOUT) as resp:
-                return json.load(resp)
+                if resp.status == 204:
+                    return VAZIO
+                corpo = resp.read().decode("utf-8").strip()
+                return json.loads(corpo) if corpo else VAZIO
         except urllib.error.HTTPError as e:
             if e.code == 429 and not ultima:
                 espera = int(e.headers.get("Retry-After", 5 * (tentativa + 1)))
@@ -141,40 +159,82 @@ def buscar_pagina(pagina, data_final):
     return None
 
 
-def coletar_tudo():
-    data_final = (date.today() + timedelta(days=365 * 3)).strftime("%Y%m%d")
-    primeira = buscar_pagina(1, data_final)
+def _coletar_paginado(primeira_url, url_para_pagina, rotulo):
+    """Coleta todas as páginas de uma consulta paginada, tolerando falhas de página."""
+    primeira = _buscar_url(primeira_url)
     if primeira is None:
-        raise RuntimeError("Não foi possível obter a primeira página do PNCP (API indisponível).")
-    total_paginas = primeira.get("totalPaginas", 1)
-    total_registros = primeira.get("totalRegistros", 0)
-    print(f"Total de contratações com proposta aberta no Brasil: {total_registros} ({total_paginas} páginas)")
+        raise RuntimeError(f"Não foi possível obter a primeira página do PNCP ({rotulo}).")
+    total_paginas = primeira.get("totalPaginas", 1) or 1
+    total_registros = primeira.get("totalRegistros", 0) or 0
 
-    # MAX_PAGINAS: override apenas para teste local rápido (não usado em produção).
     limite = int(os.environ.get("MAX_PAGINAS", "0")) or total_paginas
     limite = min(limite, total_paginas)
 
-    todos = list(primeira.get("data", []))
+    todos = list(primeira.get("data", []) or [])
     falhas = 0
     for pagina in range(2, limite + 1):
-        d = buscar_pagina(pagina, data_final)
+        d = _buscar_url(url_para_pagina(pagina))
         if d is None:
             falhas += 1
-            print(f"  [aviso] página {pagina} falhou após {MAX_TENTATIVAS} tentativas — pulando", flush=True)
+            print(f"  [aviso] {rotulo} página {pagina} falhou — pulando", flush=True)
         else:
-            todos.extend(d.get("data", []))
-        if pagina % 25 == 0:
-            print(f"  ...página {pagina}/{limite} ({falhas} falhas até aqui)", flush=True)
+            todos.extend(d.get("data", []) or [])
         time.sleep(PAUSA_ENTRE_PAGINAS)
 
     if limite > 1 and falhas / (limite - 1) > LIMITE_FALHAS:
         raise RuntimeError(
-            f"Muitas páginas falharam ({falhas}/{limite - 1} = "
-            f"{100 * falhas / (limite - 1):.0f}%) — abortando sem publicar para não gerar base parcial."
+            f"Muitas páginas falharam em {rotulo} ({falhas}/{limite - 1}) — abortando."
         )
-    if falhas:
-        print(f"Concluído com {falhas} página(s) pulada(s) de {limite - 1} — dentro do tolerável.")
     return todos, total_registros
+
+
+def coletar_full():
+    """Bootstrap: varre TODAS as contratações com proposta em aberto (Brasil, ~660 páginas)."""
+    data_final = (date.today() + timedelta(days=365 * 3)).strftime("%Y%m%d")
+
+    def url(p):
+        return f"{API_PROPOSTA}?dataFinal={data_final}&pagina={p}&tamanhoPagina={PAGE_SIZE}"
+
+    print("Modo FULL: varredura completa de propostas abertas (Brasil).", flush=True)
+    brutos, total = _coletar_paginado(url(1), url, "proposta")
+    print(f"Coletados {len(brutos)} registros (total aberto Brasil: {total}).", flush=True)
+    return brutos, total
+
+
+def coletar_incremental():
+    """Incremental: busca publicações dos últimos LOOKBACK_DIAS dias, por modalidade.
+
+    Volume pequeno (dezenas de páginas) — roda em poucos minutos e evita o bloqueio
+    por volume que a varredura completa sofre nos IPs do GitHub Actions.
+    """
+    di = (date.today() - timedelta(days=LOOKBACK_DIAS)).strftime("%Y%m%d")
+    df = date.today().strftime("%Y%m%d")
+    print(f"Modo INCREMENTAL: publicações de {di} a {df}, por modalidade.", flush=True)
+
+    brutos = []
+    for mod in MODALIDADES:
+        base = f"{API_PUBLICACAO}?dataInicial={di}&dataFinal={df}&codigoModalidadeContratacao={mod}"
+
+        def url(p, base=base):
+            return f"{base}&pagina={p}&tamanhoPagina={PAGE_SIZE}"
+
+        primeira = _buscar_url(url(1))
+        if primeira is None or not primeira.get("data"):
+            continue
+        parciais, _ = _coletar_paginado(url(1), url, f"publicacao mod {mod}")
+        brutos.extend(parciais)
+        print(f"  modalidade {mod}: {len(parciais)} registros", flush=True)
+        time.sleep(PAUSA_ENTRE_PAGINAS)
+
+    # Dedup por numeroControlePNCP (uma contratação pode vir repetida entre páginas).
+    vistos, unicos = set(), []
+    for it in brutos:
+        nc = it.get("numeroControlePNCP")
+        if nc and nc not in vistos:
+            vistos.add(nc)
+            unicos.append(it)
+    print(f"Incremental: {len(unicos)} contratações únicas na janela.", flush=True)
+    return unicos
 
 
 # Alguns órgãos preenchem o valor estimado com um sentinela (ex.: 9.999.999.999.999,99)
@@ -216,31 +276,62 @@ def classificar(item):
     }
 
 
+def ainda_aberta(item, agora_iso):
+    """True se a proposta ainda está em aberto (encerramento no futuro ou desconhecido)."""
+    dt = item.get("dataEncerramentoProposta")
+    return (dt is None) or (dt >= agora_iso)
+
+
 def main():
-    brutos, total_geral = coletar_tudo()
-    filtrados = [classificar(i) for i in brutos if eh_engenharia_civil(i.get("objetoCompra", ""))]
-    filtrados.sort(key=lambda x: (x["dataEncerramentoProposta"] or "9999"))
+    modo_full = "--full" in sys.argv
 
-    ids_atuais = {i["numeroControlePNCP"] for i in filtrados}
-    estado_anterior = set()
-    if ESTADO_PATH.exists():
-        estado_anterior = set(json.loads(ESTADO_PATH.read_text()).get("ids", []))
+    # Base acumulada existente (dataset.json versionado no repo).
+    base = {}
+    if DATASET_PATH.exists():
+        try:
+            for i in json.loads(DATASET_PATH.read_text()).get("itens", []):
+                base[i["numeroControlePNCP"]] = i
+        except Exception:
+            base = {}
 
-    novos = [i for i in filtrados if i["numeroControlePNCP"] not in estado_anterior]
+    ids_antes = set(base.keys())
+
+    if modo_full:
+        brutos, _ = coletar_full()
+        # No full, a base é substituída pelo conjunto recém-varrido.
+        base = {}
+    else:
+        brutos = coletar_incremental()
+
+    # Filtra engenharia civil e mescla na base (adiciona/atualiza por id).
+    novos_engenharia = 0
+    for it in brutos:
+        if eh_engenharia_civil(it.get("objetoCompra", "")):
+            reg = classificar(it)
+            base[reg["numeroControlePNCP"]] = reg
+            novos_engenharia += 1
+
+    # Poda: remove contratações cuja proposta já encerrou (não estão mais abertas).
+    agora_iso = datetime.now().strftime("%Y-%m-%dT%H:%M:%S")
+    itens = [i for i in base.values() if ainda_aberta(i, agora_iso)]
+    itens.sort(key=lambda x: (x["dataEncerramentoProposta"] or "9999"))
+
+    # Novos para o e-mail: engenharia que apareceu AGORA (não estava na base) e está aberta.
+    novos = [i for i in itens if i["numeroControlePNCP"] not in ids_antes]
 
     dataset = {
         "build": int(time.time()),
         "geradoEm": date.today().isoformat(),
-        "totalAbertoBrasil": total_geral,
-        "totalEngenhariaCivil": len(filtrados),
-        "itens": filtrados,
+        "modo": "full" if modo_full else "incremental",
+        "totalEngenhariaCivil": len(itens),
+        "itens": itens,
     }
     DATASET_PATH.write_text(json.dumps(dataset, ensure_ascii=False, indent=0), encoding="utf-8")
     NOVOS_PATH.write_text(json.dumps(novos, ensure_ascii=False, indent=0), encoding="utf-8")
-    ESTADO_PATH.write_text(json.dumps({"ids": sorted(ids_atuais)}, ensure_ascii=False), encoding="utf-8")
+    ESTADO_PATH.write_text(json.dumps({"ids": sorted(base.keys())}, ensure_ascii=False), encoding="utf-8")
 
-    print(f"Filtrados (engenharia civil/reforma/obras): {len(filtrados)}")
-    print(f"Novos desde a última execução: {len(novos)}")
+    print(f"Editais de engenharia em aberto na base: {len(itens)}")
+    print(f"Novos nesta execução: {len(novos)}")
     print(f"TEM_NOVOS={1 if novos else 0}")
 
 

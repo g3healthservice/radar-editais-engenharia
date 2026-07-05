@@ -1,8 +1,8 @@
 {
-"build": 1783249916,
+"build": 1783269051,
 "geradoEm": "2026-07-05",
-"totalAbertoBrasil": 32973,
-"totalEngenhariaCivil": 2925,
+"modo": "incremental",
+"totalEngenhariaCivil": 2929,
 "itens": [
 {
 "numeroControlePNCP": "14218952000190-1-000102/2026",
@@ -42560,6 +42560,28 @@
 "processo": "1837/2026"
 },
 {
+"numeroControlePNCP": "02917132000108-1-000026/2026",
+"orgao": "MUNICIPIO DE JEQUIA DA PRAIA",
+"cnpj": "02917132000108",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "MAL-PREFEITURA MUNICIPAL DE JEQUIÁ DA PRAIA",
+"municipio": "Jequiá da Praia",
+"uf": "AL",
+"codigoIbge": "2703759",
+"objeto": "Obra de engenharia referente a Construção de  20 casas populares no município de Jequiá da Praia/AL",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 2906533.16,
+"dataEncerramentoProposta": "2026-07-21T08:30:00",
+"dataPublicacaoPncp": "2026-07-05T12:31:34",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://bnccompras.com/Process/ProcessView?param1=[gkz]MZfgOIdUGtKywoGkjVvIeshPI30OFFtVLLJEaicoHcb0TNhiQfq/AlT4DAFeazgsteIDrzr1ooi/Qh9JJrg7ahlVOVlB4K936cqvZ82LVlk=",
+"processo": "0611023/2026"
+},
+{
 "numeroControlePNCP": "03501541000191-1-000042/2026",
 "orgao": "MUNICIPIO DE RIBAS DO RIO PARDO",
 "cnpj": "03501541000191",
@@ -43878,6 +43900,28 @@
 ],
 "linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=98600103900842026",
 "processo": "0062500005820265"
+},
+{
+"numeroControlePNCP": "02917132000108-1-000025/2026",
+"orgao": "MUNICIPIO DE JEQUIA DA PRAIA",
+"cnpj": "02917132000108",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "MAL-PREFEITURA MUNICIPAL DE JEQUIÁ DA PRAIA",
+"municipio": "Jequiá da Praia",
+"uf": "AL",
+"codigoIbge": "2703759",
+"objeto": "Obra de engenharia referente a construção Da etapa final do esgotamento sanitário no Munícipio de Jequiá da Praia - AL",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 18681160.16,
+"dataEncerramentoProposta": "2026-07-21T10:30:00",
+"dataPublicacaoPncp": "2026-07-05T12:30:27",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://bnccompras.com/Process/ProcessView?param1=[gkz]Fa_pZV2KM9hD3tDwp9ctLXs1TsgQwI3OgiFdQHBsTM1z_qFZxPMqscLLYmg1eiWf9omZrNuBMh3189ARa2/x3fdJwjNyerkBxE/MhcBTUZs=",
+"processo": "0618002/2026"
 },
 {
 "numeroControlePNCP": "46522959000198-1-000028/2026",
@@ -64363,6 +64407,50 @@
 ],
 "linkEdital": "https://bllcompras.com/Process/ProcessView?param1=[gkz]pRHXXnNkCw7ukQ6zjUWBYpQJR/73iSluiQdE0kkY_zTqLC1pdp6rw8NlfUecGzF3RsP80Dy_53AZxHHDE1i62Ac6hlATEEoPauk5nMGxAW8=",
 "processo": "58/2026"
+},
+{
+"numeroControlePNCP": "03239076000162-1-000119/2026",
+"orgao": "MUNICIPIO DE SORRISO",
+"cnpj": "03239076000162",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "PREFEITURA MUNICIPAL DE SORRISO - MT",
+"municipio": "Sorriso",
+"uf": "MT",
+"codigoIbge": "5107925",
+"objeto": "CREDENCIAMENTO DE EMPRESAS ESPECIALIZADAS PARA EXECUÇÃO, SOB DEMANDA, DE SERVIÇOS COMUNS DE ENGENHARIA DESTINADOS À IMPLANTAÇÃO, CONSTRUÇÃO, MANUTENÇÃO, REFORMA E ADEQUAÇÃO DE INFRAESTRUTURA URBANA NO MUNICÍPIO DE SORRISO/MT, COMPREENDENDO A EXECUÇÃO DE GALERIAS DE ÁGUAS PLUVIAIS, CAIXAS DE PASSAGEM, POÇOS DE VISITA, DISSIPADORES, GUIAS (MEIO-FIO), SARJETAS E CALÇADAS, INCLUINDO O FORNECIMENTO DE MATERIAIS, MÃO DE OBRA, EQUIPAMENTOS E DEMAIS INSUMOS NECESSÁRIOS À PERFEITA EXECUÇÃO DOS SERVIÇOS. ",
+"modalidade": "Credenciamento",
+"srp": false,
+"valorEstimado": 9500000.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-07-01T11:13:20",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "sorriso/licitacoes/licitacao?id=6512",
+"processo": "126"
+},
+{
+"numeroControlePNCP": "03239076000162-1-000120/2026",
+"orgao": "MUNICIPIO DE SORRISO",
+"cnpj": "03239076000162",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "PREFEITURA MUNICIPAL DE SORRISO - MT",
+"municipio": "Sorriso",
+"uf": "MT",
+"codigoIbge": "5107925",
+"objeto": "CREDENCIAMENTO SOB DEMANDA, DE EMPRESAS ESPECIALIZADAS NA EXECUÇÃO DE SERVIÇOS DE MANUTENÇÃO PREDIAL, PREVENTIVA E CORRETIVA NA FORMA ESTABELECIDA NAS PLANILHAS DE SERVIÇOS E INSUMOS DIVERSOS DESCRITOS NO SISTEMA NACIONAL DE PESQUISA DE CUSTOS E ÍNDICES DA CONSTRUÇÃO CIVIL – SINAPI. ",
+"modalidade": "Credenciamento",
+"srp": false,
+"valorEstimado": 5550000.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-07-01T11:25:21",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "sorriso/licitacoes/licitacao?id=6513",
+"processo": "127"
 }
 ]
 }
