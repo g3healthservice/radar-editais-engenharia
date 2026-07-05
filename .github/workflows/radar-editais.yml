@@ -15,7 +15,7 @@ concurrency:
 jobs:
   radar:
     runs-on: ubuntu-latest
-    timeout-minutes: 50
+    timeout-minutes: 120
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -23,7 +23,7 @@ jobs:
           python-version: "3.11"
 
       - name: Buscar editais no PNCP e filtrar engenharia civil
-        run: python3 pipeline/buscar_editais.py
+        run: python3 -u pipeline/buscar_editais.py
 
       - name: Gerar dashboard (app.html + build.txt)
         run: python3 pipeline/gerar_dashboard.py

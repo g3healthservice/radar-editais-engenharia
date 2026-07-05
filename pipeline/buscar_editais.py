@@ -106,7 +106,9 @@ HEADERS = {
     "User-Agent": ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
                    "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"),
 }
-MAX_TENTATIVAS = 6
+MAX_TENTATIVAS = 4
+REQ_TIMEOUT = 25  # falha rápido em página morta; retries cobrem instabilidade
+PAUSA_ENTRE_PAGINAS = 0.5  # espaçar reduz 429 e, no total, tende a ser mais rápido
 # Se mais que esta fração das páginas falhar, abortamos sem publicar (não sobrescreve
 # a última base boa com um resultado parcial enganoso).
 LIMITE_FALHAS = 0.08
@@ -119,7 +121,7 @@ def buscar_pagina(pagina, data_final):
     for tentativa in range(MAX_TENTATIVAS):
         ultima = tentativa == MAX_TENTATIVAS - 1
         try:
-            with urllib.request.urlopen(req, timeout=45) as resp:
+            with urllib.request.urlopen(req, timeout=REQ_TIMEOUT) as resp:
                 return json.load(resp)
         except urllib.error.HTTPError as e:
             if e.code == 429 and not ultima:
@@ -158,12 +160,12 @@ def coletar_tudo():
         d = buscar_pagina(pagina, data_final)
         if d is None:
             falhas += 1
-            print(f"  [aviso] página {pagina} falhou após {MAX_TENTATIVAS} tentativas — pulando")
+            print(f"  [aviso] página {pagina} falhou após {MAX_TENTATIVAS} tentativas — pulando", flush=True)
         else:
             todos.extend(d.get("data", []))
-        if pagina % 50 == 0:
-            print(f"  ...página {pagina}/{limite} ({falhas} falhas até aqui)")
-        time.sleep(0.35)
+        if pagina % 25 == 0:
+            print(f"  ...página {pagina}/{limite} ({falhas} falhas até aqui)", flush=True)
+        time.sleep(PAUSA_ENTRE_PAGINAS)
 
     if limite > 1 and falhas / (limite - 1) > LIMITE_FALHAS:
         raise RuntimeError(
