@@ -16,9 +16,21 @@ def fmt_moeda(v):
 
 
 def fmt_data(iso):
+    """Data + hora (HH:MM) no formato brasileiro."""
     if not iso:
         return "—"
-    return iso.replace("T", " ")[:16]
+    data, _, hora = iso.partition("T")
+    y, m, d = data.split("-")
+    return f"{d}/{m}/{y}" + (f" {hora[:5]}" if hora else "")
+
+
+def fmt_data_hora(iso):
+    """Data + hora EXATA (HH:MM:SS) no formato brasileiro — usado na emissão."""
+    if not iso:
+        return "—"
+    data, _, hora = iso.partition("T")
+    y, m, d = data.split("-")
+    return f"{d}/{m}/{y}" + (f" {hora[:8]}" if hora else "")
 
 
 def linha(item):
@@ -33,6 +45,7 @@ def linha(item):
         <br><span style="color:#555;font-size:12.5px">{item['municipio'] or '—'}/{item['uf'] or '—'} · {item['modalidade'] or ''}</span>
         <br><span style="font-size:12.5px">{(item['objeto'] or '')[:220]}</span>
         <br><span style="font-size:12px;color:#555">Valor estimado: <b>{fmt_moeda(item['valorEstimado'])}</b> · Prazo proposta: <b>{fmt_data(item['dataEncerramentoProposta'])}</b> · {ata}</span>
+        <br><span style="font-size:11px;color:#888">Emitido em: {fmt_data_hora(item['dataPublicacaoPncp'])}</span>
         <br><span style="font-size:12px;color:#6a4c93">Fonte de recurso (indício no texto): {fontes}</span>
         <br><a href="{item['linkEdital'] or '#'}" style="font-size:12px">Abrir edital ↗</a>
       </td>

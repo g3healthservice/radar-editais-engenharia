@@ -96,6 +96,7 @@ let itens = D.itens;
 
 function fmtMoeda(v){ if(v==null) return '—'; return 'R$ '+v.toLocaleString('pt-BR',{minimumFractionDigits:2,maximumFractionDigits:2}); }
 function fmtData(iso){ if(!iso) return '—'; const d=new Date(iso); return d.toLocaleDateString('pt-BR')+' '+d.toLocaleTimeString('pt-BR',{hour:'2-digit',minute:'2-digit'}); }
+function fmtDataHora(iso){ if(!iso) return '—'; const d=new Date(iso); return d.toLocaleDateString('pt-BR')+' '+d.toLocaleTimeString('pt-BR'); }
 function diasRestantes(iso){ if(!iso) return 999; return (new Date(iso) - new Date())/86400000; }
 function esferaBadge(e){ const m={'Federal':'b-fed','Estadual':'b-est','Municipal':'b-mun'}; return `<span class="badge ${m[e]||'b-na'}">${e}</span>`; }
 
@@ -150,7 +151,7 @@ function render(){
     const dias = diasRestantes(i.dataEncerramentoProposta);
     const urgente = dias<=5 && dias>=0;
     return `<tr>
-      <td>${fmtData(i.dataEncerramentoProposta)}${urgente?' <span class="badge b-ata-n">urgente</span>':''}</td>
+      <td>${fmtData(i.dataEncerramentoProposta)}${urgente?' <span class="badge b-ata-n">urgente</span>':''}<div class="small">Emitido: ${fmtDataHora(i.dataPublicacaoPncp)}</div></td>
       <td>${i.orgao||'—'}<div class="small">${i.unidade||''}</div></td>
       <td>${esferaBadge(i.esfera)}<div class="small">${i.poder}</div></td>
       <td>${i.municipio||'—'}/${i.uf||'—'}</td>
