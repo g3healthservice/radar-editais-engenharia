@@ -1,31 +1,9 @@
 {
-"build": 1783705316,
+"build": 1783720256,
 "geradoEm": "2026-07-10",
 "modo": "incremental",
-"totalEngenhariaCivil": 2731,
+"totalEngenhariaCivil": 2730,
 "itens": [
-{
-"numeroControlePNCP": "33665647000191-1-000116/2025",
-"orgao": "CONSELHO FEDERAL DE ENGENHARIA E AGRONOMIA",
-"cnpj": "33665647000191",
-"esfera": "Federal",
-"poder": "Executivo",
-"unidade": "CONSELHO FED.DE ENGENHARIA E AGRONOMIA/DF",
-"municipio": "Brasília",
-"uf": "DF",
-"codigoIbge": "5300108",
-"objeto": "O presente procedimento auxiliar de licitação tem por objeto realizar a habilitação de empresas interessadas em participar de eventual futura licitação para prestação de serviços de gestão, manutenção predial preventiva e corretiva nos sistemas, equipamentos e instalações prediais dos imóveis de posse ou propriedade do Confea, conforme especificações técnicas constantes do Edital a ser publicado e seus Anexos, nos termos do art. 80, da Lei nº 14.133, de 2021.  ",
-"modalidade": "Credenciamento",
-"srp": false,
-"valorEstimado": null,
-"dataEncerramentoProposta": "2026-07-10T18:00:00",
-"dataPublicacaoPncp": "2025-07-09T11:44:31",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": null,
-"processo": "00.001736/2025-61"
-},
 {
 "numeroControlePNCP": "06688303000125-1-000038/2026",
 "orgao": "SECRETARIA DO DESENVOLVIMENTO ECONOMICO E TECNOLOGICO",
