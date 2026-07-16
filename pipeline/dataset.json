@@ -1,8 +1,8 @@
 {
-"build": 1784151886,
-"geradoEm": "2026-07-15",
+"build": 1784184452,
+"geradoEm": "2026-07-16",
 "modo": "incremental",
-"totalEngenhariaCivil": 2873,
+"totalEngenhariaCivil": 2881,
 "itens": [
 {
 "numeroControlePNCP": "14042667000161-1-000101/2026",
@@ -25885,6 +25885,28 @@
 "processo": "Processo Licitat´rio 089/2026"
 },
 {
+"numeroControlePNCP": "01668772000169-1-000035/2026",
+"orgao": "MUNICIPIO DE GEMINIANO - SECRETARIA DE SAUDE E ACAO COMUNITARIA",
+"cnpj": "01668772000169",
+"esfera": "Municipal",
+"poder": "Executivo",
+"unidade": "Unidade Única",
+"municipio": "Geminiano",
+"uf": "PI",
+"codigoIbge": "2204352",
+"objeto": "Contratação de empresa especializada em engenharia civil para execução dos serviços remanescentes de reforma e ampliação do Centro Municipal de Educação Infantil (CEMEI), no Município de Geminiano/PI, conforme Projeto Básico, planilha orçamentária e demais anexos.",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 2153426.75,
+"dataEncerramentoProposta": "2026-07-24T10:00:00",
+"dataPublicacaoPncp": "2026-07-15T23:22:18",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://app2-compras.licitageminianopi.com.br/pesquisa/8414",
+"processo": "0045/2026"
+},
+{
 "numeroControlePNCP": "08783132000149-1-000233/2026",
 "orgao": "SECRETARIA DO TURISMO DO ESTADO DO PIAUI",
 "cnpj": "08783132000149",
@@ -26125,6 +26147,28 @@
 ],
 "linkEdital": "https://comprasbr.com.br/pregao-eletronico-detalhe/?idlicitacao=46767",
 "processo": "1075/2026"
+},
+{
+"numeroControlePNCP": "01668772000169-1-000034/2026",
+"orgao": "MUNICIPIO DE GEMINIANO - SECRETARIA DE SAUDE E ACAO COMUNITARIA",
+"cnpj": "01668772000169",
+"esfera": "Municipal",
+"poder": "Executivo",
+"unidade": "Unidade Única",
+"municipio": "Geminiano",
+"uf": "PI",
+"codigoIbge": "2204352",
+"objeto": "Contratação de empresa de Engenharia Civil para Execução de manutenção de estradas vicinais no município de Geminiano - PI",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 1010258.02,
+"dataEncerramentoProposta": "2026-07-24T13:00:00",
+"dataPublicacaoPncp": "2026-07-15T23:12:01",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://app2-compras.licitageminianopi.com.br/pesquisa/8413",
+"processo": "043/2026"
 },
 {
 "numeroControlePNCP": "82821174000180-1-000321/2026",
@@ -37326,6 +37370,28 @@
 "processo": "2190/2026"
 },
 {
+"numeroControlePNCP": "05183827000100-1-000049/2026",
+"orgao": "MUNICIPIO DE PORTO DE MOZ",
+"cnpj": "05183827000100",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Prefeitura Municipal de Porto de Moz",
+"municipio": "Porto de Moz",
+"uf": "PA",
+"codigoIbge": "1505908",
+"objeto": "[Portal de Compras Públicas] - CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA A EXECUÇÃO DE OBRA DE ENGENHARIA DESTINADA À CONSTRUÇÃO DE RAMPA E PÓRTICO DE ENTRADA NO MUNICÍPIO DE PORTO DE MOZ/PA, COMPREENDENDO SERVIÇOS PRELIMINARES, FUNDAÇÕES, ESTRUTURAS, CONTENÇÃO, MOVIMENTAÇÃO DE TERRA, IMPERMEABILIZAÇÃO, PAVIMENTAÇÃO, ESTRUTURA METÁLICA, REVESTIMENTO EM ACM, INSTALAÇÕES ELÉTRICAS E DEMAIS SERVIÇOS NECESSÁRIOS À COMPLETA EXECUÇÃO DO EMPREENDIMENTO, CONFORME PROJETOS, MEMORIAL DESCRITIVO, PLANILHA ORÇAMENTÁRIA, TERMO DE REFERENCIA E DEMAIS DOCUMENTOS TÉCNICOS, EM ATENDIMENTO DAS NECESSIDADES DA PREFEITURA MUNICIPAL DE PORTO DE MOZ.",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 890709.75,
+"dataEncerramentoProposta": "2026-07-29T09:59:00",
+"dataPublicacaoPncp": "2026-07-15T19:22:53",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://www.portaldecompraspublicas.com.br/processos/PA/Prefeitura-Municipal-de-Porto-de-Moz-3529/CPMP-011-1-2026-PMPM-2026-2026-496332",
+"processo": "051/2026-PMPM"
+},
+{
 "numeroControlePNCP": "04653408000113-1-000037/2026",
 "orgao": "MUNICIPIO DE CARACARAI",
 "cnpj": "04653408000113",
@@ -37610,6 +37676,28 @@
 ],
 "linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=78701005000252026",
 "processo": "63402.000363/2026-80"
+},
+{
+"numeroControlePNCP": "11286341000191-1-000036/2026",
+"orgao": "MUNICIPIO DE AGUAS BELAS",
+"cnpj": "11286341000191",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "PREFEITURA MUNICIPAL DE ÁGUAS BELAS",
+"municipio": "Águas Belas",
+"uf": "PE",
+"codigoIbge": "2600500",
+"objeto": "CONTRATAÇÃO DE EMPRESA DE ENGENHARIA PARA EXECUÇÃO DOS SERVIÇOS CONSTRUÇÃO DE 40 UNIDADES HABITACIONAIS - MCMV  NO MUNICÍPIO DE ÁGUAS BELAS – PE, CONFORME TERMO DE COMPROMISSO Nº 996173/2025/MCIDADES/CAIXA",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 5962608.0,
+"dataEncerramentoProposta": "2026-07-29T10:00:00",
+"dataPublicacaoPncp": "2026-07-16T00:11:08",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "http://www.licitacaoaguasbelas-pe.com.br",
+"processo": "049/2026 - PMAB"
 },
 {
 "numeroControlePNCP": "08783132000149-1-000234/2026",
@@ -38710,6 +38798,28 @@
 ],
 "linkEdital": "",
 "processo": "06C9PB/2026"
+},
+{
+"numeroControlePNCP": "06421119000114-1-000017/2026",
+"orgao": "MUNICIPIO DE SAO VICENTE FERRER",
+"cnpj": "06421119000114",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "MUNICÍPIO DE SÃO VICENTE FERRER/MA",
+"municipio": "São Vicente Ferrer",
+"uf": "MA",
+"codigoIbge": "2111706",
+"objeto": "[LICITANET] - Contratação de empresa para prestação de serviços de Reforma, Modernização e Revitalização da Praça da Matriz e Palco de Eventos, no Município de São Vicente de Ferrer / Ma",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 2004487.1,
+"dataEncerramentoProposta": "2026-07-30T08:00:00",
+"dataPublicacaoPncp": "2026-07-15T20:04:44",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://licitanet.com.br/sessao/193979",
+"processo": "69/2026"
 },
 {
 "numeroControlePNCP": "83545244000187-1-000073/2026",
@@ -41724,6 +41834,28 @@
 ],
 "linkEdital": "https://bllcompras.com/Process/ProcessView?param1=[gkz]2jrFhmN_NzSkJDnPFhpdsLjoYFLDt9PNlM4ZdjGmciyNmmcbJjSlqyRj_z3v1bOxDIRHYQFs5g2rUn5FzziH5Z0EHFuV8Dd2NSs2nnYuOYc=",
 "processo": "289/2026"
+},
+{
+"numeroControlePNCP": "01612628000100-1-000014/2026",
+"orgao": "MUNICIPIO DE SAO JOAO DO SOTER",
+"cnpj": "01612628000100",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Prefeitura Municipal de São João do Soter",
+"municipio": "São João do Soter",
+"uf": "MA",
+"codigoIbge": "2111078",
+"objeto": "[Portal de Compras Públicas] - Contratação de empresa de engenharia civil especializada em Execução de obras e serviços, para Construção de 20 (vinte) Unidades Habitacionais, na Zona Urbana do Município de São João do Sóter/MA",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 2800000.0,
+"dataEncerramentoProposta": "2026-07-31T08:00:00",
+"dataPublicacaoPncp": "2026-07-15T21:33:43",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://www.portaldecompraspublicas.com.br/processos/MA/Prefeitura-Municipal-de-Sao-Joao-do-Soter-1646/CPMP-005-2026-2026-496064",
+"processo": "386/2026"
 },
 {
 "numeroControlePNCP": "11358124000160-1-000028/2026",
@@ -46806,6 +46938,28 @@
 ],
 "linkEdital": "https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1096759",
 "processo": "SEI.2026.0025584-30"
+},
+{
+"numeroControlePNCP": "00360305000104-1-000515/2026",
+"orgao": "CAIXA ECONOMICA FEDERAL",
+"cnpj": "00360305000104",
+"esfera": "Não informado",
+"poder": "Não informado",
+"unidade": "GECOT",
+"municipio": "Brasília",
+"uf": "DF",
+"codigoIbge": "5300108",
+"objeto": "Prestação de serviços de manutenção de infraestrutura predial, compreendendo todas as atividades de manutenção de instalações civis, elétricas, hidráulicas, instalações de combate a incêndio, cabeamento estruturado, sistemas de climatização e ventilação, equipamentos de transporte vertical, limpeza de dutos e manutenção de usinas fotovoltaicas, visando atender às unidades da CAIXA no estado de Santa Catarina, vinculadas à SR Florianópolis/SC, pelo prazo de 24 (vinte e quatro) meses",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 27083070.0,
+"dataEncerramentoProposta": "2026-08-05T10:00:00",
+"dataPublicacaoPncp": "2026-07-15T20:00:25",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": null,
+"processo": "582/2026"
 },
 {
 "numeroControlePNCP": "43052497000102-1-000363/2026",
@@ -53978,6 +54132,28 @@
 "Não identificado no texto (conferir edital)"
 ],
 "linkEdital": "https://pncp.gov.br/app/editais?pagina=1",
+"processo": "27/2026"
+},
+{
+"numeroControlePNCP": "19193527000108-1-000038/2026",
+"orgao": "CONSORCIO INTERMUNICIPAL PARA O DESENVOLVIMENTO AMBIENTAL SUSTENTAVEL DO NORTE DE MINAS CODANORTE",
+"cnpj": "19193527000108",
+"esfera": "Não informado",
+"poder": "Executivo",
+"unidade": "Unidade Única",
+"municipio": "Montes Claros",
+"uf": "MG",
+"codigoIbge": "3143302",
+"objeto": "CONTRATAÇÃO DE SERVIÇOS DE EXECUÇÃO DO SISTEMA DE IMPERMEABILIZAÇÃO NA VALA, DRENAGEM DA VALA, AUTOMATIZAÇÃO DO PORTÃO, REFORMA DA BALANÇA E REFORMAS EM GERAL DO ATERRO SANITÁRIO E REFORMAS EM GERAL, SOB RESPONSABILIDADE DO CODANORTE, LOCALIZADO NO MUNICÍPIO DE PIRAPORA/MG, NO MODO DE DISPUTA ABERTO.",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 795095.89,
+"dataEncerramentoProposta": "2026-08-21T09:00:00",
+"dataPublicacaoPncp": "2026-07-15T18:41:06",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://app2.licitardigital.com.br/pesquisa/107305",
 "processo": "27/2026"
 },
 {
