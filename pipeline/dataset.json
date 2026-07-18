@@ -1,31 +1,9 @@
 {
-"build": 1784328387,
-"geradoEm": "2026-07-17",
+"build": 1784357022,
+"geradoEm": "2026-07-18",
 "modo": "incremental",
-"totalEngenhariaCivil": 2836,
+"totalEngenhariaCivil": 2842,
 "itens": [
-{
-"numeroControlePNCP": "10106235000116-1-000067/2026",
-"orgao": "MUNICIPIO DE PETROLANDIA",
-"cnpj": "10106235000116",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "PREFEITURA MUNICIPAL DE PETROLÂNDIA",
-"municipio": "Petrolândia",
-"uf": "PE",
-"codigoIbge": "2611002",
-"objeto": "Registro de preços para futura e eventual contratação de empresa especializada na prestação de serviços de comunicação visual, compreendendo a confecção, fornecimento, instalação, manutenção e substituição de fachadas e demais elementos de identificação visual, destinados ao atendimento das necessidades dos órgãos e entidades da Administração Pública Municipal de Petrolândia/PE",
-"modalidade": "Pregão - Eletrônico",
-"srp": true,
-"valorEstimado": 495050.5,
-"dataEncerramentoProposta": "2026-07-17T23:59:00",
-"dataPublicacaoPncp": "2026-07-07T12:58:43",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": "http://www.licitapetrolandia.com.br",
-"processo": "052/2026"
-},
 {
 "numeroControlePNCP": "11408686000170-1-000025/2026",
 "orgao": "FUNDO MUNICIPAL DE SAUDE",
@@ -20341,6 +20319,28 @@
 "processo": "5"
 },
 {
+"numeroControlePNCP": "15023906000107-1-000067/2026",
+"orgao": "MUNICIPIO DE ALTA FLORESTA",
+"cnpj": "15023906000107",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "PREFEITURA MUNICIPAL DE ALTA FLORESTA - MT",
+"municipio": "Alta Floresta",
+"uf": "MT",
+"codigoIbge": "5100250",
+"objeto": "AQUISIÇÃO DE TINTAS, VERNIZES, SOLVENTES E DEMAIS INSUMOS CORRELATOS, DESTINADOS À EXECUÇÃO DE SERVIÇOS CONTÍNUOS DE MANUTENÇÃO PREVENTIVA E CORRETIVA, REVITALIZAÇÃO E REFORMA DAS EDIFICAÇÕES PÚBLICAS VINCULADAS ÀS SECRETARIAS MUNICIPAIS",
+"modalidade": "Pregão - Eletrônico",
+"srp": true,
+"valorEstimado": 90885.1,
+"dataEncerramentoProposta": "2026-07-27T08:30:00",
+"dataPublicacaoPncp": "2026-07-17T17:27:31",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://www.gp.srv.br/transparencia_altafloresta/servlet/licitacoes_v2?1",
+"processo": "00001124/2026"
+},
+{
 "numeroControlePNCP": "03501509000106-1-000091/2026",
 "orgao": "MUNICIPIO DE CAMPO GRANDE",
 "cnpj": "03501509000106",
@@ -30154,6 +30154,28 @@
 "processo": "039977/2025"
 },
 {
+"numeroControlePNCP": "03560440000191-1-000064/2026",
+"orgao": "SESC ADMINISTRACAO REGIONAL NO ESTADO DO MATO GROSSO DO SUL",
+"cnpj": "03560440000191",
+"esfera": "Não informado",
+"poder": "Não informado",
+"unidade": "SESC ADMINISTRACAO REGIONAL",
+"municipio": "Campo Grande",
+"uf": "MS",
+"codigoIbge": "5002704",
+"objeto": "Contratação de empresa especializada em construção civil para execução de pintura interna e externa e reparo de infiltrações de paredes nas Unidades Executivas Sesc Camillo Boni e restaurante Sesc Sabor & Arte, conforme especificações técnicas e condições estabelecidas neste documento.",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 0.01,
+"dataEncerramentoProposta": "2026-07-29T09:30:00",
+"dataPublicacaoPncp": "2026-07-17T18:32:06",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1097136",
+"processo": "26/PE-033"
+},
+{
 "numeroControlePNCP": "44568277000190-1-000204/2026",
 "orgao": "MUNICIPIO DE HERCULANDIA",
 "cnpj": "44568277000190",
@@ -31978,6 +32000,28 @@
 ],
 "linkEdital": null,
 "processo": "46/2026"
+},
+{
+"numeroControlePNCP": "06553804000102-1-000080/2026",
+"orgao": "MUNICIPIO DE PICOS",
+"cnpj": "06553804000102",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Picos",
+"municipio": "Picos",
+"uf": "PI",
+"codigoIbge": "2208007",
+"objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA A PRESTAÇÃO DE SERVIÇOS DE REFORMA, MANUTENÇÃO CORRETIVA E PREVENTIVA DE MOBILIÁRIO ESCOLAR, COM FORNECIMENTO DE MATERIAIS, MÃO DE OBRA, TRANSPORTE, RECOLHIMENTO E DEVOLUÇÃO DOS BENS, CONFORME ESPECIFICAÇÕES CONSTANTES NO TERMO DE REFERÊNCIA, EM ATENDIMENTO ÀS NECESSIDADES DA SECRETARIA MUNICIPAL DE EDUCAÇÃO DO MUNICÍPIO DE PICOS/PI ",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 367050.0,
+"dataEncerramentoProposta": "2026-07-30T08:00:00",
+"dataPublicacaoPncp": "2026-07-17T19:12:43",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "",
+"processo": "11816/2026"
 },
 {
 "numeroControlePNCP": "83545244000187-1-000073/2026",
@@ -40165,6 +40209,28 @@
 "processo": "PE 112/2026"
 },
 {
+"numeroControlePNCP": "16695025000197-1-000578/2026",
+"orgao": "POLICIA MILITAR DO ESTADO DE MINAS GERAIS",
+"cnpj": "16695025000197",
+"esfera": "Estadual",
+"poder": "Executivo",
+"unidade": "CAE/APM",
+"municipio": "Belo Horizonte",
+"uf": "MG",
+"codigoIbge": "3106200",
+"objeto": "REVITALIZAÇÃO DO PALANQUE E PLATÔ DAS BANDEIRAS NA APM - PROCESSO SEI Nº 1250.01.0016024/2026-98.",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 526763.76,
+"dataEncerramentoProposta": "2026-08-03T09:01:00",
+"dataPublicacaoPncp": "2026-07-17T12:10:59",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://www1.compras.mg.gov.br/n/procedimentolei14133/consulta/eletronico/visualizar/2026/47/1255125",
+"processo": "1255125 000047/2026"
+},
+{
 "numeroControlePNCP": "04632212000142-1-000108/2026",
 "orgao": "MUNICIPIO DE PRESIDENTE MEDICI",
 "cnpj": "04632212000142",
@@ -40735,6 +40801,28 @@
 ],
 "linkEdital": " ",
 "processo": "90003"
+},
+{
+"numeroControlePNCP": "27080530001204-1-000042/2026",
+"orgao": "ESTADO DO ESPIRITO SANTO",
+"cnpj": "27080530001204",
+"esfera": "Estadual",
+"poder": "Não informado",
+"unidade": "SECRETARIA DE ESTADO DO GOVERNO",
+"municipio": "Vitória",
+"uf": "ES",
+"codigoIbge": "3205309",
+"objeto": "PROCESSO PARA AQUISIÇÃO DE MATERIAIS DE CONSTRUÇÃO CIVIL (HIDRÁULICOS E PINTURA) DESTINADOS À MANUTENÇÃO PREDIAL CORRETIVA E PREVENTIVA NAS UNIDADES DESTA SECRETARIA DE ESTADO DE GOVERNO - SEG, POR ATA DE REGISTRO DE PREÇO.",
+"modalidade": "Pregão - Eletrônico",
+"srp": true,
+"valorEstimado": 1166853.96,
+"dataEncerramentoProposta": "2026-08-03T13:59:00",
+"dataPublicacaoPncp": "2026-07-17T12:10:04",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": null,
+"processo": "2026-LS97Z"
 },
 {
 "numeroControlePNCP": "18244376000107-1-000108/2026",
@@ -44191,6 +44279,28 @@
 "processo": "0015/2026"
 },
 {
+"numeroControlePNCP": "95990230000151-1-000117/2026",
+"orgao": "MUNICIPIO DE IRATI",
+"cnpj": "95990230000151",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "PREFEITURA MUNICIPAL DE IRATI - SC",
+"municipio": "Irati",
+"uf": "SC",
+"codigoIbge": "4207858",
+"objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA EXECUÇÃO, SOB REGIME DE EMPREITADA GLOBAL DE REFORMA E AMPLIAÇÃO DO CENTRO MUNICIPAL DE EDUCAÇÃO INFANTIL DO MUNICÍPIO DE IRATI/SC CONFORME PROJETO, MEMORIAL, PLANILHAS, ART, ESTUDO TÉCNICO PRELIMINAR, TERMO DE REFERÊNCIA E REQUISITOS DO EDITAL, DE ACORDO COM A LEI 14.133/2021.",
+"modalidade": "Concorrência - Presencial",
+"srp": false,
+"valorEstimado": 733255.57,
+"dataEncerramentoProposta": "2026-08-05T13:30:00",
+"dataPublicacaoPncp": "2026-07-17T17:28:09",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "",
+"processo": "101/2026"
+},
+{
 "numeroControlePNCP": "92000215000120-1-000144/2026",
 "orgao": "MUNICIPIO DE SEGREDO",
 "cnpj": "92000215000120",
@@ -47511,6 +47621,28 @@
 ],
 "linkEdital": null,
 "processo": "DER-PRC-2025/04494"
+},
+{
+"numeroControlePNCP": "09444530000101-1-000092/2026",
+"orgao": "TRIBUNAL DE JUSTICA DO ESTADO DO CEARA",
+"cnpj": "09444530000101",
+"esfera": "Estadual",
+"poder": "Judiciário",
+"unidade": "TRIBUNAL DE JUSTICA DO ESTADO DO CEARA",
+"municipio": "Fortaleza",
+"uf": "CE",
+"codigoIbge": "2304400",
+"objeto": "Contratação de prestação de serviços continuados de COLETA, TRANSPORTE,\nTRATAMENTO E DESTINAÇÃO FINAL AMBIENTALMENTE ADEQUADA DE RESÍDUOS,\nabrangendo resíduos sólidos gerais, resíduos de construção civil - RCC não segregados, resíduos de\nserviços de saúde, bem como coleta, transporte, descontaminação e destinação final de lâmpadas\nfluorescentes e LED, sem dedicação exclusiva de mão de obra (DEMO), a serem executados nas\ndependências do Fórum Clóvis Beviláqua e Sede Judiciária, conforme especificações, quantitativos e\nexigências estabelecidas neste edital e seus anexos.",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 273647.52,
+"dataEncerramentoProposta": "2026-08-11T10:00:00",
+"dataPublicacaoPncp": "2026-07-17T18:31:39",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1097016",
+"processo": "8501456-76.2026.8.06"
 },
 {
 "numeroControlePNCP": "39485396000140-1-000041/2026",
