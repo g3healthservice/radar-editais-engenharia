@@ -1,31 +1,9 @@
 {
-"build": 1784581812,
-"geradoEm": "2026-07-20",
+"build": 1784593645,
+"geradoEm": "2026-07-21",
 "modo": "incremental",
-"totalEngenhariaCivil": 2829,
+"totalEngenhariaCivil": 2828,
 "itens": [
-{
-"numeroControlePNCP": "01612578000161-1-000013/2026",
-"orgao": "MUNICIPIO DE FLORESTA DO PIAUI",
-"cnpj": "01612578000161",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "MUNICIPIO DE FLORESTA DO PIAUI",
-"municipio": "Floresta do Piauí",
-"uf": "PI",
-"codigoIbge": "2203859",
-"objeto": "Contratação de empresa de engenharia para execução das obras de Ampliação da Escola Municipal João Rodrigues de Santana – Zona Urbana – Floresta do Piauí/PI, conforme Estudo Técnico Preliminar, Projeto Básico, Planilhas Orçamentárias, Memorial Descritivo e Cronograma Físico-financeiro.",
-"modalidade": "Concorrência - Eletrônica",
-"srp": false,
-"valorEstimado": 643499.53,
-"dataEncerramentoProposta": "2026-07-21T00:00:00",
-"dataPublicacaoPncp": "2026-07-06T11:18:24",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": "https://bnccompras.com/Process/ProcessView?param1=[gkz]l4oq_PFtS3ygF9mZkRMl2_XxN7q1mTlZuPkmf51ZS2xaW/EYpZGH0byTQF6a7e22ud8KezIyRZSnOPK9Td73QQE4BCyTSA9vlZuZiW8MTfQ=",
-"processo": "012/2026"
-},
 {
 "numeroControlePNCP": "13347539000163-1-000103/2026",
 "orgao": "MUNICIPIO DE NORDESTINA",
