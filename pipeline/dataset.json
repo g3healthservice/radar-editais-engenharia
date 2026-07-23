@@ -1,53 +1,9 @@
 {
-"build": 1784753972,
-"geradoEm": "2026-07-22",
+"build": 1784766510,
+"geradoEm": "2026-07-23",
 "modo": "incremental",
-"totalEngenhariaCivil": 2819,
+"totalEngenhariaCivil": 2817,
 "itens": [
-{
-"numeroControlePNCP": "25641408000173-1-000011/2026",
-"orgao": "CAMARA MUNICIPAL DE SAO BENTO ABADE",
-"cnpj": "25641408000173",
-"esfera": "Municipal",
-"poder": "Legislativo",
-"unidade": "Câmara Municipal de São Bento Abade",
-"municipio": "São Bento Abade",
-"uf": "MG",
-"codigoIbge": "3160801",
-"objeto": "[Portal de Compras Públicas] - Contratação de empresa especializada na prestação de serviços de assessoria de comunicação institucional para a Câmara Municipal de São Bento Abade, compreendendo a cobertura, registro, produção e divulgação das ações e atividades legislativas, incluindo elaboração de conteúdos jornalísticos, produção fotográfica, captação e edição de vídeos das sessões ordinárias, extraordinárias e solenes, gerenciamento e atualização das redes sociais oficiais, bem como a transmissão ao vivo e disponibilização das reuniões por meio da internet, visando ampliar a transparência, a publicidade e o acesso da população às atividades do Poder Legislativo Municipal.",
-"modalidade": "Pregão - Eletrônico",
-"srp": false,
-"valorEstimado": 49380.0,
-"dataEncerramentoProposta": "2026-07-22T23:59:00",
-"dataPublicacaoPncp": "2026-07-07T17:56:48",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": "https://www.portaldecompraspublicas.com.br/processos/MG/Camara-Municipal-de-Sao-Bento-Abade-4355/PE-11-2026-2026-494073",
-"processo": "14"
-},
-{
-"numeroControlePNCP": "01598970000101-1-000030/2026",
-"orgao": "MUNICIPIO DE SENADOR LA ROCQUE",
-"cnpj": "01598970000101",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "Secretaria Municipal de Educação",
-"municipio": "Senador La Rocque",
-"uf": "MA",
-"codigoIbge": "2111763",
-"objeto": "CONTRATAÇÃO DE EMPRESA DE ENGENHARIA ESPECIALIZADA PARA EXECUÇÃO DOS SERVIÇOS DE REFORMA DA ESCOLA MUNICIPAL BOM JESUS, NO MUNICÍPIO DE SENADOR LA ROCQUE/MA. CONFORME EMENDA PARLAMENTAR: 202623880008",
-"modalidade": "Concorrência - Eletrônica",
-"srp": false,
-"valorEstimado": 427458.15,
-"dataEncerramentoProposta": "2026-07-23T00:00:00",
-"dataPublicacaoPncp": "2026-07-09T10:36:00",
-"fonteRecurso": [
-"Emenda parlamentar"
-],
-"linkEdital": "wwvv.portaldecompraspublicas.com.br",
-"processo": "042/2026"
-},
 {
 "numeroControlePNCP": "23063118000164-1-000001/2026",
 "orgao": "FUNDACAO GORCEIX",
