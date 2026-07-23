@@ -1,8 +1,8 @@
 {
-"build": 1784839988,
+"build": 1784844902,
 "geradoEm": "2026-07-23",
 "modo": "incremental",
-"totalEngenhariaCivil": 2836,
+"totalEngenhariaCivil": 2845,
 "itens": [
 {
 "numeroControlePNCP": "88488358000156-1-000080/2026",
@@ -31802,6 +31802,28 @@
 "processo": "074/2026"
 },
 {
+"numeroControlePNCP": "44563583000134-1-000248/2026",
+"orgao": "MUNICIPIO DE IPAUSSU",
+"cnpj": "44563583000134",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": " SECRETARIA DE OBRAS E SANEAMENTO",
+"municipio": "Ipaussu",
+"uf": "SP",
+"codigoIbge": "3520905",
+"objeto": " Registro de Preços para eventuais aquisições de materiais básicos de construção civil para as \r\nnecessidades das Secretarias Municipais",
+"modalidade": "Pregão - Eletrônico",
+"srp": true,
+"valorEstimado": 3588153.98,
+"dataEncerramentoProposta": "2026-08-05T08:00:00",
+"dataPublicacaoPncp": "2026-07-23T17:57:09",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "",
+"processo": "7708/2026"
+},
+{
 "numeroControlePNCP": "22405608000139-1-000024/2026",
 "orgao": "FUNDO MUNICIPAL DE EDUCACAO DO MUNICIPIO DE MAFRA",
 "cnpj": "22405608000139",
@@ -34111,6 +34133,28 @@
 ],
 "linkEdital": "https://bnccompras.com/Process/ProcessView?param1=[gkz]4pLFf2mLCYB/tfeG1mB5zvfExvYkHVwup_pDY0d/H/_ejmwbemuNvaGBfxNU1YMFiYmqr9LO3DCc9MRKH_zk/t822RybvDMGC_dJWzxlyCA=",
 "processo": "1407001/2026-PMCP"
+},
+{
+"numeroControlePNCP": "11286267000103-1-000015/2026",
+"orgao": "MUNICIPIO DE LAGOA DO OURO",
+"cnpj": "11286267000103",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "SECRETARIA MUNICIPAL DE SAÚDE DE LAGOA DO OURO",
+"municipio": "Lagoa do Ouro",
+"uf": "PE",
+"codigoIbge": "2608602",
+"objeto": "Registro de Preços para futura e eventual aquisição de máquinas, equipamentos, ferramentas, equipamentos para construção civil, manutenção predial, jardinagem e demais equipamentos correlatos, destinados ao atendimento das necessidades das diversas Secretarias do Município de Lagoa do Ouro/PE",
+"modalidade": "Pregão - Eletrônico",
+"srp": true,
+"valorEstimado": 78340.09,
+"dataEncerramentoProposta": "2026-08-05T10:00:00",
+"dataPublicacaoPncp": "2026-07-23T17:52:10",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://bnccompras.com/Process/ProcessView?param1=[gkz]jx19pjCGDxwXSVPnTumQE48Tv1EOx5XyT5v9FoKgm3skYIk07kQVaJ/KF3PZULskL61qzy2Fi9hDYTjYtyelCIBn3nBfmguY/hQuxG4oaao=",
+"processo": "021/2026"
 },
 {
 "numeroControlePNCP": "21154554000113-1-000313/2026",
@@ -39196,6 +39240,28 @@
 "processo": "65/2026"
 },
 {
+"numeroControlePNCP": "01616420000160-1-000053/2026",
+"orgao": "MUNICIPIO DE NOVORIZONTE",
+"cnpj": "01616420000160",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "MUNICIPIO DE NOVORIZONTE",
+"municipio": "Novorizonte",
+"uf": "MG",
+"codigoIbge": "3145372",
+"objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA EXECUÇÃO DE OBRA COMUM DE ENGENHARIA DESTINADA À PAVIMENTAÇÃO EM BLOCOS SEXTAVADOS DE CONCRETO NOS POVOADOS DE BITÚ E CAMBAÚBA EM NOVORIZONTEMG. CONVÊNIO DE SAÍDA Nº 12310023892026 SECRETARIA DE ESTADO DE AGRICULTURA, PECUÁRIA E ABASTECIMENTO - SEAPAMG",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 456836.23,
+"dataEncerramentoProposta": "2026-08-07T09:00:00",
+"dataPublicacaoPncp": "2026-07-23T17:56:46",
+"fonteRecurso": [
+"Convênio"
+],
+"linkEdital": "https://novorizonte.mg.gov.br/licitacoes/andamento/concorrencia-publica",
+"processo": "58"
+},
+{
 "numeroControlePNCP": "92406099000144-1-000060/2026",
 "orgao": "MUNICIPIO DE CAMARGO",
 "cnpj": "92406099000144",
@@ -41022,6 +41088,28 @@
 "processo": "00000188"
 },
 {
+"numeroControlePNCP": "02291730000114-1-000082/2026",
+"orgao": "GOIAS TRIBUNAL DE CONTAS",
+"cnpj": "02291730000114",
+"esfera": "Estadual",
+"poder": "Legislativo",
+"unidade": "TRIBUNAL DE CONTAS DO ESTADO DE GOIÁS",
+"municipio": "Goiânia",
+"uf": "GO",
+"codigoIbge": "5208707",
+"objeto": "Fornecimento de subscrição de licenças Microsoft Entra ID P1, Windows Server DC Core, Windows VDA e Microsoft Copilot para ampliar o nível de segurança de identidade e acesso no ambiente corporativo.",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 537538.86,
+"dataEncerramentoProposta": "2026-08-10T08:59:00",
+"dataPublicacaoPncp": "2026-07-23T18:26:17",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92540005000682026",
+"processo": "202600047001769"
+},
+{
 "numeroControlePNCP": "46680500000112-1-000246/2026",
 "orgao": "MUNICIPIO DE GUARATINGUETA",
 "cnpj": "46680500000112",
@@ -41812,6 +41900,28 @@
 ],
 "linkEdital": "https://comprasbr.com.br/pregao-eletronico-detalhe/?idlicitacao=47103",
 "processo": "92/2026"
+},
+{
+"numeroControlePNCP": "01005727000124-1-000232/2026",
+"orgao": "MUNICIPIO DE APARECIDA DE GOIANIA",
+"cnpj": "01005727000124",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "PREFEITURA MUNICIPAL DE APARECIDA DE GOIANIA",
+"municipio": "Aparecida de Goiânia",
+"uf": "GO",
+"codigoIbge": "5201405",
+"objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇOS TÉCNICOS CONTINUADOS DE OPERAÇÃO, MANUTENÇÃO PREVENTIVA E CORRETIVA E AMPLIAÇÃO DO SISTEMA INTEGRADO DE SEGURANÇA ELETRÔNICA, COM FORNECIMENTO INTEGRAL DE MATERIAIS, EQUIPAMENTOS, CONECTIVIDADE DA SECRETARIA MUNICIPAL DE EDUCAÇÃO, conforme condições e especificações estabelecidas no edital e seus anexos.",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 3201285.72,
+"dataEncerramentoProposta": "2026-08-10T09:00:00",
+"dataPublicacaoPncp": "2026-07-23T18:30:40",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1097203",
+"processo": "2026.006.666"
 },
 {
 "numeroControlePNCP": "00444232000139-1-000790/2026",
@@ -42626,6 +42736,28 @@
 ],
 "linkEdital": null,
 "processo": "137/2026"
+},
+{
+"numeroControlePNCP": "44563583000134-1-000249/2026",
+"orgao": "MUNICIPIO DE IPAUSSU",
+"cnpj": "44563583000134",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": " SECRETARIA DE ESPORTE E TURISMO",
+"municipio": "Ipaussu",
+"uf": "SP",
+"codigoIbge": "3520905",
+"objeto": "Contratação de empresas especializadas  para prestação de serviços de locação, montagem, manutenção, operação e desmontagem de estruturas temporárias, fornecimento de equipamentos, serviços de segurança privada desarmada, infraestrutura elétrica e demais serviços de apoio necessários à realização da 9ª Festa do Peão de Ipaussu, a ser realizada entre os dias 17 e 20 de setembro de 2026, conforme especificações, quantitativos e condições estabelecidas neste Termo de Referência e seus anexos, sendo o objeto dividido em lotes, visando ampliar a competitividade e a obtenção da proposta mais vantajosa para a Administração.",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 540991.28,
+"dataEncerramentoProposta": "2026-08-11T08:00:00",
+"dataPublicacaoPncp": "2026-07-23T18:01:24",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "",
+"processo": "8167/2026"
 },
 {
 "numeroControlePNCP": "82821216000182-1-000181/2026",
@@ -47094,6 +47226,28 @@
 ],
 "linkEdital": "https://transparencia.agilicloud.com.br/aripuana/licitacoes/licitacao?id=8502",
 "processo": "117"
+},
+{
+"numeroControlePNCP": "63025530000104-1-002701/2026",
+"orgao": "UNIVERSIDADE DE SAO PAULO",
+"cnpj": "63025530000104",
+"esfera": "Estadual",
+"poder": "Executivo",
+"unidade": "ESP-INSTITUTO DE FÍSICA DE SÃO CARLOS - USP",
+"municipio": "São Carlos",
+"uf": "SP",
+"codigoIbge": "3548906",
+"objeto": "Projeto executivo completo, com memorial descritivo, para reforma e construção visando adequações de sanitários dos prédios do IFSC/USP, sediados\nna área 1 do campus, com revitalização das instalações gerais e soluções de acessibilidade",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 77758.74,
+"dataEncerramentoProposta": "2026-08-17T08:00:00",
+"dataPublicacaoPncp": "2026-07-23T18:08:37",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=10216003001412026",
+"processo": "154.00008037/2026-98"
 },
 {
 "numeroControlePNCP": "18008904000129-1-000075/2026",
@@ -53147,6 +53301,28 @@
 "processo": "101/2026"
 },
 {
+"numeroControlePNCP": "78485224000128-1-000035/2026",
+"orgao": "CAMARA MUNICIPAL DE VEREADORES DE MARAVILHA",
+"cnpj": "78485224000128",
+"esfera": "Municipal",
+"poder": "Legislativo",
+"unidade": "Câmara Municipal de Maravilha",
+"municipio": "Maravilha",
+"uf": "SC",
+"codigoIbge": "4210506",
+"objeto": "[Portal de Compras Públicas] - Contratação de empresa especializada para construção de muro de gabião e ampliação do estacionamento da Câmara Municipal de Vereadores de Maravilha/SC, incluindo mão de obra e fornecimento de materiais.",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 1361993.39,
+"dataEncerramentoProposta": "2026-08-31T08:30:00",
+"dataPublicacaoPncp": "2026-07-23T17:48:30",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://www.portaldecompraspublicas.com.br/processos/SC/Camara-Municipal-de-Maravilha-4414/CPMP-29-2026-2026-485140",
+"processo": "29/2026"
+},
+{
 "numeroControlePNCP": "76417005000186-1-000223/2026",
 "orgao": "MUNICIPIO DE CURITIBA",
 "cnpj": "76417005000186",
@@ -53629,6 +53805,28 @@
 ],
 "linkEdital": "https://sistema.comprasnet.se.gov.br/publico/WKF.aspx?code=SEDURBI-CE0043/2026&validation=52114",
 "processo": "CE0043/2026"
+},
+{
+"numeroControlePNCP": "65712002000159-1-000021/2026",
+"orgao": "MUNICIPIO DE ASPASIA",
+"cnpj": "65712002000159",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "PREFEITURA MUNICIPAL DE ASPÁSIA - SP",
+"municipio": "Aspásia",
+"uf": "SP",
+"codigoIbge": "3503950",
+"objeto": "Contratação de empresa especializada para execução de obra de infraestrutura urbana (readequação de canteiro central e rotatória, pavimentação e recapeamento em diversas ruas do município, remoção e instalação de iluminação pública e melhorias na pista de caminhada), sob o regime de empreitada por preço global por lote, conforme planilha orçamentária, memorial descritivo, cronograma físico-financeiro e projetos, de acordo com as condições e exigências estabelecidas no termo de referência.",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 1177470.71,
+"dataEncerramentoProposta": "2026-09-02T08:00:00",
+"dataPublicacaoPncp": "2026-07-23T17:49:41",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://bllcompras.com/Process/ProcessView?param1=[gkz]y5B4JhxFsqtQ79F6h6rtc9EqFJpBT3QlOfuaKd1Snv0XvEQjfBKWuvtr9X6l2enpEMf8lyQee8zulbdDLcbcZmFybjvO8JsX6YG6rYA4ne4=",
+"processo": "40/2026"
 },
 {
 "numeroControlePNCP": "83545244000187-1-000095/2026",
