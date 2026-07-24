@@ -1,141 +1,9 @@
 {
-"build": 1784867107,
+"build": 1784879106,
 "geradoEm": "2026-07-24",
 "modo": "incremental",
-"totalEngenhariaCivil": 2851,
+"totalEngenhariaCivil": 2847,
 "itens": [
-{
-"numeroControlePNCP": "04838793000173-1-000022/2026",
-"orgao": "MUNICIPIO DE ALENQUER",
-"cnpj": "04838793000173",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "Prefeitura Municipal de Alenquer",
-"municipio": "Alenquer",
-"uf": "PA",
-"codigoIbge": "1500404",
-"objeto": "[Portal de Compras Públicas] - CONTRATAÇÃO DE EMPRESA\nESPECIALIZADA PARA CONSTRUÇÃO E AMPLIAÇÃO DO TALUDE DA ORLA DO MUNICIPIO DE ALENQUER-PA\n– PARTE 2. POR MEIO DA EMENDA PARLAMENTAR 202632600001",
-"modalidade": "Concorrência - Eletrônica",
-"srp": false,
-"valorEstimado": 1150200.01,
-"dataEncerramentoProposta": "2026-07-24T07:00:00",
-"dataPublicacaoPncp": "2026-07-07T09:38:01",
-"fonteRecurso": [
-"Emenda parlamentar"
-],
-"linkEdital": "https://www.portaldecompraspublicas.com.br/processos/PA/Prefeitura-Municipal-de-Alenquer-1443/CPMP-NO-08-2026-2026-2026-493754",
-"processo": "Nº 26062026002"
-},
-{
-"numeroControlePNCP": "06553671000166-1-000061/2026",
-"orgao": "MUNICIPIO DE SOCORRO DO PIAUI",
-"cnpj": "06553671000166",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "Prefeitura Municipal de Socorro do Piauí- PI",
-"municipio": "Socorro do Piauí",
-"uf": "PI",
-"codigoIbge": "2210904",
-"objeto": "contratação de empresa do ramo pertinente para a construção de quadras de vôlei na praça Municipal de Socorro do Piauí-PI",
-"modalidade": "Concorrência - Eletrônica",
-"srp": false,
-"valorEstimado": 482316.17,
-"dataEncerramentoProposta": "2026-07-24T07:00:00",
-"dataPublicacaoPncp": "2026-07-12T15:43:03",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": "https://comprasbr.com.br/pregao-eletronico-detalhe/?idlicitacao=46800",
-"processo": "1076/2026"
-},
-{
-"numeroControlePNCP": "83102681000126-1-000061/2026",
-"orgao": "MUNICIPIO DE POUSO REDONDO",
-"cnpj": "83102681000126",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "PREFEITURA MUNICIPAL DE POUSO REDONDO - SC",
-"municipio": "Pouso Redondo",
-"uf": "SC",
-"codigoIbge": "4213708",
-"objeto": "Contratação de empresa especializada para fornecimento de materiais de iluminação pública, destinados à manutenção, ampliação e modernização do sistema de iluminação pública do Município de Pouso Redondo/SC.",
-"modalidade": "Pregão - Eletrônico",
-"srp": true,
-"valorEstimado": 928026.3,
-"dataEncerramentoProposta": "2026-07-24T07:00:00",
-"dataPublicacaoPncp": "2026-07-13T14:07:34",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": "https://comprasbr.com.br/pregao-eletronico-detalhe/?idlicitacao=46824",
-"processo": "38 2026"
-},
-{
-"numeroControlePNCP": "62949754000140-1-000002/2026",
-"orgao": "FUNDO MUNICIPAL DE EDUCACAO - FME",
-"cnpj": "62949754000140",
-"esfera": "Municipal",
-"poder": "Executivo",
-"unidade": "FUNDO MUNICIPAL DE EDUCAÇÃO DE MACAPARANA",
-"municipio": "Macaparana",
-"uf": "PE",
-"codigoIbge": "2609006",
-"objeto": "CONTRATAÇÃO DE EMPRESA DE ENGENHARIA PARA A EXECUÇÃO DAS OBRAS DE CONSTRUÇÃO DE 01 (UMA) CRECHE E PRÉ ESCOLA, TIPO 02, EM POÇO COMPRIDO, ZONA RURAL DO MUNICIPIO DE MACAPARANA/PE, CONFORME TERMO DE COMPROMISSO Nº 979337/2025",
-"modalidade": "Concorrência - Eletrônica",
-"srp": false,
-"valorEstimado": 3472366.93,
-"dataEncerramentoProposta": "2026-07-24T07:00:00",
-"dataPublicacaoPncp": "2026-07-16T12:41:55",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": "https://bnccompras.com/Process/ProcessView?param1=[gkz]nz0knkE_SF_Hdsu0nxuBrtnJWMB/Ps_fFOr_uNDQfMVB3KEWrOsohoUH6k6wlYUjgpMbUlXHVpJ2igE6peIva7QExtHCBnS8AFVZi1TJgXQ=",
-"processo": "033/2026"
-},
-{
-"numeroControlePNCP": "11168270000122-1-000044/2026",
-"orgao": "FUNDO MUNICIPAL DE SAUDE -FMS",
-"cnpj": "11168270000122",
-"esfera": "Municipal",
-"poder": "Executivo",
-"unidade": "FMS - PALMEIRAS DE GOIAS",
-"municipio": "Palmeiras de Goiás",
-"uf": "GO",
-"codigoIbge": "5215702",
-"objeto": "Contratação de empresa especializada no fornecimento de equipamentos destinados à realização de atendimentos fisioterapêuticos, visando à modernização, ampliação e aprimoramento dos serviços de reabilitação oferecidos pela Secretaria Municipal de Saúde. ",
-"modalidade": "Pregão - Eletrônico",
-"srp": false,
-"valorEstimado": 705247.14,
-"dataEncerramentoProposta": "2026-07-24T07:30:00",
-"dataPublicacaoPncp": "2026-07-02T06:51:44",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": "https://bnccompras.com/Process/ProcessView?param1=[gkz]O6lrpAK_mXSycdxj48jKPxHQ7of_mua_/44bYgCw3cur3jagFAOKV1kzhmZ__1akn0RbO5H1axv/srXNZmXpckMPeNf2/q1Dm9xHPcFCybI=",
-"processo": "3680/2026"
-},
-{
-"numeroControlePNCP": "01067891000166-1-000013/2026",
-"orgao": "MUNICIPIO DE MONTE DO CARMO",
-"cnpj": "01067891000166",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "PORTO NACIONAL",
-"municipio": "Monte do Carmo",
-"uf": "TO",
-"codigoIbge": "1713601",
-"objeto": "Contratação de empresa especializada para execução de obra de engenharia destinada ao recapeamento asfáltico em CBUQ (Concreto Betuminoso Usinado a Quente) em avenida urbana do Município de Monte do Carmo – TO, contemplando administração local, mobilização e desmobilização, serviços preliminares, limpeza da pista, pintura de ligação, aplicação de camada de rolamento em CBUQ e execução de drenagem superficial, conforme projetos, memorial descritivo, planilha orçamentária, cronograma físico-financ",
-"modalidade": "Concorrência - Eletrônica",
-"srp": false,
-"valorEstimado": 480383.65,
-"dataEncerramentoProposta": "2026-07-24T07:30:00",
-"dataPublicacaoPncp": "2026-07-09T12:30:01",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": "https://bnccompras.com/Process/ProcessView?param1=[gkz]1ijuop/71H_SPLs/OdV_x3NFnhzldM9UKv_GhPwTt4owkDT1Qu0ztz5wxelGj7/oB/czJ92w16ivn2dv4rCMsTv5CZFzXakg88TCBAXrSB4=",
-"processo": "916/2026"
-},
 {
 "numeroControlePNCP": "06096853000155-1-000031/2026",
 "orgao": "MUNICIPIO DE ALDEIAS ALTAS",
@@ -34135,6 +34003,28 @@
 "processo": "021/2026"
 },
 {
+"numeroControlePNCP": "60453032000174-1-000165/2026",
+"orgao": "UNIVERSIDADE FEDERAL DE SAO PAULO",
+"cnpj": "60453032000174",
+"esfera": "Federal",
+"poder": "Executivo",
+"unidade": "MEC-UNIVERSIDADE FEDERAL DE SAO PAULO/SP",
+"municipio": "São Paulo",
+"uf": "SP",
+"codigoIbge": "3550308",
+"objeto": "Materiais diversos (civil, hidráulica e demais itens correlatos) para manutenção predial ",
+"modalidade": "Pregão - Eletrônico",
+"srp": true,
+"valorEstimado": 193037.94,
+"dataEncerramentoProposta": "2026-08-05T10:00:00",
+"dataPublicacaoPncp": "2026-07-24T04:00:15",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=15303105000522026",
+"processo": "23089.015488/2026-90 "
+},
+{
 "numeroControlePNCP": "21154554000113-1-000313/2026",
 "orgao": "TRIBUNAL DA JUSTICA DO ESTADO DE MINAS GERAIS",
 "cnpj": "21154554000113",
@@ -39788,6 +39678,28 @@
 ],
 "linkEdital": "https://www.portaldecompraspublicas.com.br/processos/SC/Prefeitura-Municipal-de-Tubarao-303/PE-3-2026-2026-498464",
 "processo": "1/2026"
+},
+{
+"numeroControlePNCP": "03985113000181-1-000052/2026",
+"orgao": "TRIBUNAL REGIONAL ELEITORAL DO PARANA",
+"cnpj": "03985113000181",
+"esfera": "Federal",
+"poder": "Judiciário",
+"unidade": "TRIBUNAL REGIONAL ELEITORAL DO PARANA",
+"municipio": "Curitiba",
+"uf": "PR",
+"codigoIbge": "4106902",
+"objeto": "Registro de Preços para prestação de serviços comuns de engenharia para execução de reformas nos Fóruns Eleitorais e edificações do Tribunal Regional Eleitoral do Paraná, compreendendo o fornecimento de todos os materiais, equipamentos, insumos e mão de obra necessários para a sua perfeita execução.",
+"modalidade": "Pregão - Eletrônico",
+"srp": true,
+"valorEstimado": 44872924.9,
+"dataEncerramentoProposta": "2026-08-07T14:00:00",
+"dataPublicacaoPncp": "2026-07-24T04:00:17",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=07001905000442026",
+"processo": "10028-59.2025.6.16.8000"
 },
 {
 "numeroControlePNCP": "02296325000199-1-000259/2026",
