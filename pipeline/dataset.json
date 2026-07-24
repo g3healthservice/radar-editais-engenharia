@@ -1,75 +1,9 @@
 {
-"build": 1784844902,
-"geradoEm": "2026-07-23",
+"build": 1784867107,
+"geradoEm": "2026-07-24",
 "modo": "incremental",
-"totalEngenhariaCivil": 2845,
+"totalEngenhariaCivil": 2851,
 "itens": [
-{
-"numeroControlePNCP": "88488358000156-1-000080/2026",
-"orgao": "MUNICIPIO DE NOVA PALMA",
-"cnpj": "88488358000156",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "Prefeitura Municipal de Nova Palma - RS",
-"municipio": "Nova Palma",
-"uf": "RS",
-"codigoIbge": "4313102",
-"objeto": "CONTRATAÇÃO DE EMPRESA PARA A EXECUÇÃO DE OBRA DE PAVIMENTAÇÃO EM AVENIDA NO INTERIOR DO MUNICÍPIO, COM APLICAÇÃO DOS MATERIAIS E MÃO DE OBRA.",
-"modalidade": "Concorrência - Eletrônica",
-"srp": false,
-"valorEstimado": 144160.87,
-"dataEncerramentoProposta": "2026-07-23T23:59:00",
-"dataPublicacaoPncp": "2026-06-18T14:14:50",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": "https://bnccompras.com/Process/ProcessView?param1=[gkz]Jm4P1bnqtWb4ccAm7huVkpzAUT4SEG9cRDP7L0_jptpvLAhJNO0EQAeLa8Sgsm/i3totPNpJKOYjdlostVYBnjdp0sTtZMOYG2MQ4Xexdsc=",
-"processo": "273/2026"
-},
-{
-"numeroControlePNCP": "10106235000116-1-000069/2026",
-"orgao": "MUNICIPIO DE PETROLANDIA",
-"cnpj": "10106235000116",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "PREFEITURA MUNICIPAL DE PETROLÂNDIA",
-"municipio": "Petrolândia",
-"uf": "PE",
-"codigoIbge": "2611002",
-"objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA REFORMA DO ESTÁDIO MUNICIPAL MANOEL ANÍSIO DA MOTA – “O GALEGÃO” – MUNICÍPIO DE PETROLÂNDIA/PE",
-"modalidade": "Concorrência - Eletrônica",
-"srp": false,
-"valorEstimado": 282995.74,
-"dataEncerramentoProposta": "2026-07-23T23:59:00",
-"dataPublicacaoPncp": "2026-07-13T12:41:34",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": "http://www.licitapetrolandia.com.br",
-"processo": "055/2026"
-},
-{
-"numeroControlePNCP": "12250056000183-1-000014/2026",
-"orgao": "MUNICIPIO DE BATALHA",
-"cnpj": "12250056000183",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "Prefeitura Municipal de Batalha",
-"municipio": "Batalha",
-"uf": "AL",
-"codigoIbge": "2700706",
-"objeto": "Contratação de empresa especializada para execução de serviços de engenharia referente a construção de uma quadra coberta com vestiário – Projeto Padrão FNDE.",
-"modalidade": "Concorrência - Eletrônica",
-"srp": false,
-"valorEstimado": 2210007.38,
-"dataEncerramentoProposta": "2026-07-24T00:00:00",
-"dataPublicacaoPncp": "2026-07-09T08:12:11",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": "https://bnccompras.com/Process/ProcessView?param1=[gkz]S_J2uo5nG9FRR4qHkXR467ji7WcHDsQz84PZmVIRgTeq9na1MVEXP1qvxfjGWAD97Zv3bz4l/VHhN_i0fawzABeqOaOMI4e7mmrQ6FOhDGE=",
-"processo": "2026.06.23-1"
-},
 {
 "numeroControlePNCP": "04838793000173-1-000022/2026",
 "orgao": "MUNICIPIO DE ALENQUER",
@@ -8741,6 +8675,28 @@
 ],
 "linkEdital": null,
 "processo": "0207/2026"
+},
+{
+"numeroControlePNCP": "13128897000185-1-000021/2026",
+"orgao": "MUNICIPIO DE RIACHUELO",
+"cnpj": "13128897000185",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Prefeitura Municipal de Riachuelo/SE ",
+"municipio": "Riachuelo",
+"uf": "SE",
+"codigoIbge": "2805901",
+"objeto": "[Portal de Compras Públicas] - REFORMA E IMPLANTAÇÃO DE COBERTURA NA QUADRA POLIESPORTIVA DO POVOADO ROQUE MENDES, LOCALIZADA NO MUNICÍPIO DE RIACHUELO/SE",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 1160566.62,
+"dataEncerramentoProposta": "2026-07-28T08:00:00",
+"dataPublicacaoPncp": "2026-07-23T20:30:56",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://www.portaldecompraspublicas.com.br/processos/SE/Prefeitura-Municipal-de-Riachuelo-5385/CPMP-006-2026-2026-493038",
+"processo": "006"
 },
 {
 "numeroControlePNCP": "11151460000137-1-000030/2026",
@@ -33497,6 +33453,28 @@
 "processo": "000304/2026"
 },
 {
+"numeroControlePNCP": "06554380000192-1-000009/2026",
+"orgao": "MUNICIPIO DE REDENCAO DO GURGUEIA",
+"cnpj": "06554380000192",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Prefeitura Municipal de Redenção do Gurguéia - PI",
+"municipio": "Redenção do Gurguéia",
+"uf": "PI",
+"codigoIbge": "2208700",
+"objeto": "CONTRATAÇÃO DE EMPRESA DE ENGENHARIA PARA EVENTUAL EXECUÇÃO DOS SERVIÇOS DE REFORMA, MANUTENÇÃO PREVENTIVA E CORRETIVA EM PRÉDIOS E ANEXOS PÚBLICOS DO MUNICÍPIO DE REDENÇÃO DO GURGUÉIA - PI",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 3592799.74,
+"dataEncerramentoProposta": "2026-08-05T09:00:00",
+"dataPublicacaoPncp": "2026-07-23T21:58:03",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://comprasbr.com.br/pregao-eletronico-detalhe/?idlicitacao=47110",
+"processo": "068/2026"
+},
+{
 "numeroControlePNCP": "46316600000164-1-000116/2026",
 "orgao": "MUNICIPIO DE ITAQUAQUECETUBA",
 "cnpj": "46316600000164",
@@ -35212,6 +35190,28 @@
 ],
 "linkEdital": "https://www.portaldecompraspublicas.com.br/processos/SP/Prefeitura-Municipal-de-Pariquera-Acu-3277/PE-PREGAO-ELETRONICO-N033-2026-2026-498285",
 "processo": "87/2026"
+},
+{
+"numeroControlePNCP": "01612558000190-1-000011/2026",
+"orgao": "MUNICIPIO DE BELA VISTA DO PIAUI",
+"cnpj": "01612558000190",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Prefeitura Municipal de Bela Vista do Piauí",
+"municipio": "Bela Vista do Piauí",
+"uf": "PI",
+"codigoIbge": "2201556",
+"objeto": "[Portal de Compras Públicas] - Contratação de empresa especializada para execução de obra de engenharia destinada à construção de passagem molhada na Região de Patos, zona rural do Município de Bela Vista do Piauí/PI, em atendimento ao Plano de Trabalho da Emenda Parlamentar nº 202638220014 (autoria do Deputado Federal Merlong Solano), vinculada ao Ministério da Agricultura e Pecuária – MAPA, no âmbito do Plano de Ação Transfere Gov nº 09032026-095669.",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 537300.0,
+"dataEncerramentoProposta": "2026-08-06T08:00:00",
+"dataPublicacaoPncp": "2026-07-23T22:26:04",
+"fonteRecurso": [
+"Emenda parlamentar"
+],
+"linkEdital": "https://www.portaldecompraspublicas.com.br/processos/PI/Prefeitura-Municipal-de-Bela-Vista-do-Piaui-2918/CPMP-002-2026-2026-498422",
+"processo": "0064/2026"
 },
 {
 "numeroControlePNCP": "18158642000189-1-000025/2026",
@@ -38118,6 +38118,28 @@
 "processo": "115/2026"
 },
 {
+"numeroControlePNCP": "88496468000160-1-000146/2026",
+"orgao": "MUNICIPIO DE SANTA BARBARA DO SUL",
+"cnpj": "88496468000160",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "PREFEITURA MUNICIPAL DE SANTA BARBARA DO SUL",
+"municipio": "Santa Bárbara do Sul",
+"uf": "RS",
+"codigoIbge": "4316709",
+"objeto": "Aquisição de veículos automotores novos, zero quilômetro, compreendendo veículos de passeio e caminhonetes tipo pick-up, destinados à ampliação da frota oficial do Município",
+"modalidade": "Pregão - Eletrônico",
+"srp": true,
+"valorEstimado": 697518.55,
+"dataEncerramentoProposta": "2026-08-07T08:00:00",
+"dataPublicacaoPncp": "2026-07-24T00:10:39",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://pregaobanrisul.com.br/editais/0041_2026/354366",
+"processo": "129/2026"
+},
+{
 "numeroControlePNCP": "08580688000138-1-000004/2026",
 "orgao": "FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL - FMAS",
 "cnpj": "08580688000138",
@@ -38578,6 +38600,28 @@
 ],
 "linkEdital": "https://www.portaldecompraspublicas.com.br/processos/RS/Prefeitura-Municipal-de-Porto-Alegre-206/CPMP-36-2026-2026-498307",
 "processo": "24.17.000000834-4"
+},
+{
+"numeroControlePNCP": "06232615000120-1-000050/2026",
+"orgao": "MUNICIPIO DE SANTA QUITERIA DO MARANHAO",
+"cnpj": "06232615000120",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Municipio de Santa Quiteria do Maranhão - MA",
+"municipio": "Santa Quitéria do Maranhão",
+"uf": "MA",
+"codigoIbge": "2110104",
+"objeto": "Contratação de empresa especializada para a execução dos serviços da 2ª etapa de Reforma do Estádio Municipal, no Município de Santa Quitéria do Maranhão/MA.",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 1185988.44,
+"dataEncerramentoProposta": "2026-08-07T08:59:00",
+"dataPublicacaoPncp": "2026-07-23T23:04:03",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://comprasbr.com.br/pregao-eletronico-detalhe/?idlicitacao=47091",
+"processo": "202606037/2026"
 },
 {
 "numeroControlePNCP": "13896758000100-1-000008/2026",
@@ -39612,6 +39656,28 @@
 ],
 "linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=39270105000632025",
 "processo": "133.00001392/2025-58"
+},
+{
+"numeroControlePNCP": "07598592000134-1-000038/2026",
+"orgao": "MUNICIPIO DE FRECHEIRINHA",
+"cnpj": "07598592000134",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "MUNICIPIO DE FRECHEIRINHA - CE ",
+"municipio": "Frecheirinha",
+"uf": "CE",
+"codigoIbge": "2304509",
+"objeto": "[LICITANET] - Contratação de empresa especializada para execução de obras de construção de bueiros e dispositivos de drenagem pluvial na estrada que liga a BR-222 ao Açude Angicos e em vias da sede do município de Frecheirinha/CE.",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 717525.46,
+"dataEncerramentoProposta": "2026-08-07T10:00:00",
+"dataPublicacaoPncp": "2026-07-23T19:07:21",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://licitanet.com.br/sessao/195052",
+"processo": "CE014/2026"
 },
 {
 "numeroControlePNCP": "03535606000110-1-000080/2026",
@@ -42760,6 +42826,28 @@
 "processo": "8167/2026"
 },
 {
+"numeroControlePNCP": "78486198000152-1-000279/2026",
+"orgao": "MUNICIPIO DE TUNAPOLIS",
+"cnpj": "78486198000152",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Município de Tunápolis",
+"municipio": "Tunápolis",
+"uf": "SC",
+"codigoIbge": "4218756",
+"objeto": "[Portal de Compras Públicas] - Contratação de empresa para futuro e eventual fornecimento de materiais hidráulicos para uso na manutenção preventiva e corretiva, ampliação e operacionalização dos sistemas de abastecimento de água do Município, visando atender as demandas do SAMAE",
+"modalidade": "Pregão - Eletrônico",
+"srp": true,
+"valorEstimado": 1050059.12,
+"dataEncerramentoProposta": "2026-08-11T08:00:00",
+"dataPublicacaoPncp": "2026-07-23T20:12:06",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://www.portaldecompraspublicas.com.br/processos/SC/Municipio-de-Tunapolis-1861/RPE-35-2026-2026-498347",
+"processo": "137 / 2026 - 2180"
+},
+{
 "numeroControlePNCP": "82821216000182-1-000181/2026",
 "orgao": "MUNICIPIO DE GUARACIABA",
 "cnpj": "82821216000182",
@@ -43727,6 +43815,28 @@
 ],
 "linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98922105000722026",
 "processo": "01125.00003163/2025-01"
+},
+{
+"numeroControlePNCP": "18428854000139-1-000070/2026",
+"orgao": "MUNICIPIO DE CONCEICAO DAS ALAGOAS",
+"cnpj": "18428854000139",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "MUNICÍPIO DE CONCEIÇÃO DAS ALAGOAS/MG",
+"municipio": "Conceição das Alagoas",
+"uf": "MG",
+"codigoIbge": "3117306",
+"objeto": "[LICITANET] - Contratação de pessoa jurídica especializada na área de engenharia civil, para construção de unidade escolar de educação infantil – Creche Pré - Escolar Tipo 2, no loteamento Residencial Francisco Mazeto, neste Município, conforme Convênio de Saída nº 1261002007/2026/SEE, celebrado entre o Estado de Minas Gerais, por intermédio da Secretaria de Estado de Educação e o Município de Conceição das Alagoas/MG",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 3086225.75,
+"dataEncerramentoProposta": "2026-08-11T09:00:00",
+"dataPublicacaoPncp": "2026-07-23T22:05:23",
+"fonteRecurso": [
+"Convênio"
+],
+"linkEdital": "https://licitanet.com.br/sessao/194709",
+"processo": "81"
 },
 {
 "numeroControlePNCP": "16958425000148-1-000317/2026",
@@ -52507,6 +52617,28 @@
 ],
 "linkEdital": "https://app2.licitardigital.com.br/pesquisa/108170",
 "processo": "027/2026"
+},
+{
+"numeroControlePNCP": "16255077000142-1-000012/2026",
+"orgao": "MUNICIPIO DE NOVO HORIZONTE",
+"cnpj": "16255077000142",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "MUNICIPIO DE NOVO HORIZONTE - BA ",
+"municipio": "Novo Horizonte",
+"uf": "BA",
+"codigoIbge": "2923035",
+"objeto": "[LICITANET] - Contratação de empresa especializada para a execução de obras de construção de unidades educacionais do tipo Creche/Pré-Escola – Tipo 2, padrão FNDE, no Distrito de Brejo Luiza de Brito e no Povoado Serafim, no Município de Novo Horizonte-BA.",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 9153479.91,
+"dataEncerramentoProposta": "2026-08-27T09:00:00",
+"dataPublicacaoPncp": "2026-07-23T19:13:50",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://licitanet.com.br/sessao/195053",
+"processo": "145/2026"
 },
 {
 "numeroControlePNCP": "46694139000183-1-000654/2026",
