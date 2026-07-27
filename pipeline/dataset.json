@@ -1,75 +1,9 @@
 {
-"build": 1784931476,
-"geradoEm": "2026-07-24",
+"build": 1785122964,
+"geradoEm": "2026-07-27",
 "modo": "incremental",
-"totalEngenhariaCivil": 2867,
+"totalEngenhariaCivil": 2873,
 "itens": [
-{
-"numeroControlePNCP": "21154174000189-1-000095/2025",
-"orgao": "MUNICIPIO DE CARBONITA",
-"cnpj": "21154174000189",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "PREFEITURA MUNICIPAL DE CARBONITA",
-"municipio": "Carbonita",
-"uf": "MG",
-"codigoIbge": "3113503",
-"objeto": "Credenciamento de pessoas jurídicas especializadas para a prestação de serviços técnicos de manutenção predial, urbana e de infraestrutura, sob demanda da Prefeitura Municipal de Carbonita",
-"modalidade": "Credenciamento",
-"srp": false,
-"valorEstimado": 515749.5,
-"dataEncerramentoProposta": "2026-07-25T23:59:00",
-"dataPublicacaoPncp": "2025-09-09T13:12:31",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": "",
-"processo": "000086/2025"
-},
-{
-"numeroControlePNCP": "21154174000189-1-000085/2025",
-"orgao": "MUNICIPIO DE CARBONITA",
-"cnpj": "21154174000189",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "Unidade Única",
-"municipio": "Carbonita",
-"uf": "MG",
-"codigoIbge": "3113503",
-"objeto": "Credenciamento de pessoas jurídicas especializadas para a prestação de serviços técnicos de manutenção predial, urbana e de infraestrutura, sob demanda da Prefeitura Municipal de Carbonita.",
-"modalidade": "Credenciamento",
-"srp": false,
-"valorEstimado": 515749.5,
-"dataEncerramentoProposta": "2026-07-25T23:59:59",
-"dataPublicacaoPncp": "2025-07-24T14:45:46",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": "https://app2.licitardigital.com.br/pesquisa/71287",
-"processo": "000086/2025"
-},
-{
-"numeroControlePNCP": "01612581000185-1-000013/2026",
-"orgao": "MUNICIPIO DE ILHA GRANDE",
-"cnpj": "01612581000185",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "Prefeitura Municipal de Ilha Grande",
-"municipio": "Ilha Grande",
-"uf": "PI",
-"codigoIbge": "2204659",
-"objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM SERVIÇOS DE ENGENHARIA PARA EXECUÇÃO DE REFORMA NA BASE DO SAMU, NO MUNICÍPIO DE ILHA GRANDE – PI.",
-"modalidade": "Concorrência - Eletrônica",
-"srp": false,
-"valorEstimado": 181421.45,
-"dataEncerramentoProposta": "2026-07-27T00:00:00",
-"dataPublicacaoPncp": "2026-07-13T11:49:59",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": "http://www.comprasilhagrandepi.com.br",
-"processo": "CEL 003/2026"
-},
 {
 "numeroControlePNCP": "11168270000122-1-000045/2026",
 "orgao": "FUNDO MUNICIPAL DE SAUDE -FMS",
@@ -34969,6 +34903,50 @@
 "processo": "18/2026"
 },
 {
+"numeroControlePNCP": "01612560000160-1-000020/2026",
+"orgao": "MUNICIPIO DE BELEM DO PIAUI",
+"cnpj": "01612560000160",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Belém do Piauí",
+"municipio": "Belém do Piauí",
+"uf": "PI",
+"codigoIbge": "2201572",
+"objeto": "Contratação de empresa de engenharia para construção de uma quadra esportiva na localidade Russim, zona rural município de Belém do Piauí.",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 263500.0,
+"dataEncerramentoProposta": "2026-08-07T08:00:00",
+"dataPublicacaoPncp": "2026-07-25T10:12:56",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "",
+"processo": "038/2026"
+},
+{
+"numeroControlePNCP": "06116743000108-1-000034/2026",
+"orgao": "MUNICIPIO DE BREJO",
+"cnpj": "06116743000108",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Unidade Única",
+"municipio": "Brejo",
+"uf": "MA",
+"codigoIbge": "2102101",
+"objeto": "Contratação de empresa especializada para execução de obras e serviços de engenharia em estradas vicinais no município de Brejo-MA",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 1500000.0,
+"dataEncerramentoProposta": "2026-08-07T08:00:00",
+"dataPublicacaoPncp": "2026-07-26T13:01:24",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://app2-compras.licitabrejoma.com.br/pesquisa/8504",
+"processo": "0029/2026"
+},
+{
 "numeroControlePNCP": "08580688000138-1-000004/2026",
 "orgao": "FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL - FMAS",
 "cnpj": "08580688000138",
@@ -37037,6 +37015,28 @@
 "processo": "10028-59.2025.6.16.8000"
 },
 {
+"numeroControlePNCP": "05149109000109-1-000026/2026",
+"orgao": "MUNICIPIO DE CAPITAO POCO",
+"cnpj": "05149109000109",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "PREFEITURA MUNICIPAL DE CAPITÃO POÇO",
+"municipio": "Capitão Poço",
+"uf": "PA",
+"codigoIbge": "1502301",
+"objeto": "[Portal de Compras Públicas] - CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM ENGENHARIA PARA A EXECUÇÃO DOS REFORMA E AMPLIAÇÃO DA QUADRA COBERTA DO EURÍCO SIQUEIRA E DA QUADRA COBERTA DO TATAJUBA NO MUNICÍPIO DE CAPITÃO POÇO-PA, NO MUNICÍPIO DE CAPITÃO POÇO/PA",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 993132.24,
+"dataEncerramentoProposta": "2026-08-07T14:30:00",
+"dataPublicacaoPncp": "2026-07-24T23:21:12",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://www.portaldecompraspublicas.com.br/processos/PA/Prefeitura-Municipal-de-Capitao-Poco-1216/CPMP-32026007-2026-2026-498834",
+"processo": "3.2026-0072026"
+},
+{
 "numeroControlePNCP": "02296325000199-1-000259/2026",
 "orgao": "MUNICIPIO DE BRITANIA",
 "cnpj": "02296325000199",
@@ -38025,6 +38025,28 @@
 ],
 "linkEdital": "http://www.licitabarro.com.br",
 "processo": "2026.07.22.1"
+},
+{
+"numeroControlePNCP": "45176005000108-1-000331/2026",
+"orgao": "MUNICIPIO DE TAUBATE",
+"cnpj": "45176005000108",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Prefeitura Municipal de Taubaté",
+"municipio": "Taubaté",
+"uf": "SP",
+"codigoIbge": "3554102",
+"objeto": "Registro de Preços para futura e eventual aquisição de materiais de pintura, destinados ao atendimento das necessidades da Administração Pública, visando à conservação, manutenção e revitalização dos prédios e espaços públicos, pelo período de 12 (doze) meses, prorrogável uma única vez, por igual período.",
+"modalidade": "Pregão - Eletrônico",
+"srp": true,
+"valorEstimado": 10503653.44,
+"dataEncerramentoProposta": "2026-08-10T08:29:00",
+"dataPublicacaoPncp": "2026-07-24T19:40:25",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "",
+"processo": "18116/2026"
 },
 {
 "numeroControlePNCP": "91551119000108-1-000020/2026",
@@ -39853,6 +39875,28 @@
 "processo": "001/2026"
 },
 {
+"numeroControlePNCP": "09072430000193-1-000109/2026",
+"orgao": "MUNICIPIO DE ITABAIANA",
+"cnpj": "09072430000193",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Prefeitura Municipal de Itabaiana",
+"municipio": "Itabaiana",
+"uf": "PB",
+"codigoIbge": "2506905",
+"objeto": "[Portal de Compras Públicas] - Contratação de Empresa Especializada em Engenharia Civil para execução da pavimentação asfáltica nas ruas: Av. Senador José Antônio Targino Maranhão e rua 7 de Novembro, localizada no Município de Itabaiana/PB",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 841739.51,
+"dataEncerramentoProposta": "2026-08-10T09:00:00",
+"dataPublicacaoPncp": "2026-07-26T12:44:08",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://www.portaldecompraspublicas.com.br/processos/PB/Prefeitura-Municipal-de-Itabaiana-1884/CPMP-00018-2026-2026-497863",
+"processo": "260720CE00018"
+},
+{
 "numeroControlePNCP": "00444232000139-1-000790/2026",
 "orgao": "INDUSTRIA DE MATERIAL BELICO DO BRASIL IMBEL",
 "cnpj": "00444232000139",
@@ -41305,6 +41349,28 @@
 "processo": "00310.000566/2026-85"
 },
 {
+"numeroControlePNCP": "45176005000108-1-000333/2026",
+"orgao": "MUNICIPIO DE TAUBATE",
+"cnpj": "45176005000108",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Prefeitura Municipal de Taubaté",
+"municipio": "Taubaté",
+"uf": "SP",
+"codigoIbge": "3554102",
+"objeto": "Contratação de empresa especializada em execução de serviço de revitalização da Praça Maria Ap. dos Santos, situado à Praça Maria Aparecida dos Santos - Jd. Boa Vista – Taubaté/SP, por um período de 02 (dois) meses, prorrogáveis conforme interesse da Municipalidade a ser financiado pelo Governo do Estado de São Paulo, por intermédio da Secretária de Governo e Relações Institucionais com o Termo de Convênio nº 100800/2026, por um periodo de 02 (dois) meses, prorrogáveis conforme interesse da Municipalidade e legislação vigente.",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 208464.6,
+"dataEncerramentoProposta": "2026-08-11T08:29:00",
+"dataPublicacaoPncp": "2026-07-24T19:52:44",
+"fonteRecurso": [
+"Convênio"
+],
+"linkEdital": "",
+"processo": "13961/2026"
+},
+{
 "numeroControlePNCP": "76208487000164-1-000176/2026",
 "orgao": "MUNICIPIO DE PALOTINA",
 "cnpj": "76208487000164",
@@ -42472,6 +42538,28 @@
 "processo": "1332/2026"
 },
 {
+"numeroControlePNCP": "13835558000309-1-000017/2026",
+"orgao": "MUNICIPIO DE BIRITINGA",
+"cnpj": "13835558000309",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "PREFEITURA MUNICIPAL DE BIRITINGA - BA",
+"municipio": "Biritinga",
+"uf": "BA",
+"codigoIbge": "2903607",
+"objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA A EXECUÇÃO DE OBRAS E SERVIÇOS COMUNS DE ENGENHARIA, VISANDO A IMPLANTAÇÃO DE PASSAGENS MOLHADAS COM MANILHAS NAS ESTRADAS DE ACESSO AOS POVOADOS DE:  CANDEAL, BEIRA DO RIO, GAMELEIRA, PONTAL, VILA NOVA AO RABUJO, E AO POVOADO DE TABOA NESTE MUNICÍPIO.",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 2075782.48,
+"dataEncerramentoProposta": "2026-08-11T09:00:00",
+"dataPublicacaoPncp": "2026-07-24T21:02:24",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98337103000022026",
+"processo": "0052/2026"
+},
+{
 "numeroControlePNCP": "16958425000148-1-000317/2026",
 "orgao": "SECRETARIA DE ESTADO DE INDUSTRIA, CIENCIA E TECNOLOGIA",
 "cnpj": "16958425000148",
@@ -43087,6 +43175,28 @@
 ],
 "linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98378103000072026",
 "processo": "005434/000309/2026 "
+},
+{
+"numeroControlePNCP": "76247386000100-1-000075/2026",
+"orgao": "MUNICIPIO DE MARIA HELENA",
+"cnpj": "76247386000100",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "PREFEITURA MUNICIPAL DE MARIA HELENA - PR",
+"municipio": "Maria Helena",
+"uf": "PR",
+"codigoIbge": "4114708",
+"objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM OBRAS E SERVIÇOS DE ENGENHARIA CIVIL para execução de reforma do Ginásio de Esportes Municipal de Maria Helena/PR, sito à Av. Paraná, S/N, Centro, Maria Helena – PR.",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 307995.33,
+"dataEncerramentoProposta": "2026-08-12T08:00:00",
+"dataPublicacaoPncp": "2026-07-24T19:48:40",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://bllcompras.com/Process/ProcessView?param1=[gkz]xf_cMNX6n7HkLouoH7x1xJNBCLba4jwRUbt1EFlnAMTrYAKxJD9r4fUzYsSJ7A7Yy8c3kjHZCEJ/4WwjDLsU4xpxOjHItbqSuXUYdlEJtpU=",
+"processo": "078/2026"
 },
 {
 "numeroControlePNCP": "87711503000153-1-000069/2026",
@@ -52768,6 +52878,28 @@
 ],
 "linkEdital": "https://bllcompras.com/Process/ProcessView?param1=[gkz]GfdKbnm/V4g_b5tYXlKowacRTTswV37GSzSWsRXctYPfIFzUm2PNpcJTX5zOcGN6afMXzr8LuYTjiwsmNne/qdzSDqEqe04gNcDoGeQIFCg=",
 "processo": "285/2026"
+},
+{
+"numeroControlePNCP": "44573087000161-1-000256/2026",
+"orgao": "MUNICIPIO DE TUPA",
+"cnpj": "44573087000161",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "PREF. DA ESTANCIA TURISTICA DE TUPA",
+"municipio": "Tupã",
+"uf": "SP",
+"codigoIbge": "3555000",
+"objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NO RAMO DE ARQUITETURA OU ENGENHARIA CIVIL PARA EXECUÇÃO DE SERVIÇOS DE RECAPEAMENTO ASFÁLTICO EM DIVERSAS VIAS URBANAS DO MUNICÍPIO DE TUPÃ – SP, COM FORNECIMENTO DE MATERIAIS, EQUIPAMENTOS E MÃO DE OBRA, COM RECURSOS ORIUNDOS DA EMENDA PARLAMENTAR 202644680010 - PLANO DE AÇÃO DA TRANSFERÊNCIA ESPECIAL: 09032026-092512/2026, INTERMÉDIO DO MINISTÉRIO DA CIDADE",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 493075.03,
+"dataEncerramentoProposta": "2026-08-28T08:59:00",
+"dataPublicacaoPncp": "2026-07-26T19:00:52",
+"fonteRecurso": [
+"Emenda parlamentar"
+],
+"linkEdital": "",
+"processo": "9"
 },
 {
 "numeroControlePNCP": "05056031000188-1-000010/2025",
