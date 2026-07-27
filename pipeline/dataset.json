@@ -1,273 +1,9 @@
 {
-"build": 1785151939,
+"build": 1785163695,
 "geradoEm": "2026-07-27",
 "modo": "incremental",
-"totalEngenhariaCivil": 2703,
+"totalEngenhariaCivil": 2750,
 "itens": [
-{
-"numeroControlePNCP": "06656711000103-1-000035/2026",
-"orgao": "SECRETARIA DE ESTADO DE CIENCIA, TECNOLOGIA, INOVACAO E EDUCACAO PROFISSIONAL",
-"cnpj": "06656711000103",
-"esfera": "Estadual",
-"poder": "Executivo",
-"unidade": "SECRETARIA DA CIÊNCIA, TECNOLOGIA, INOVAÇÃO, EDUCAÇÃO PROFISSIONAL",
-"municipio": "Vitória",
-"uf": "ES",
-"codigoIbge": "3205309",
-"objeto": "Contratação de empresa especializada para realização de obra de engenharia civil para reforma e ampliação do CEET Talmo Luiz Silva no município de João Neiva, localizada na Rua Padre Anchieta, nº 250, Vila Nova de Cima, João Neiva- ES.",
-"modalidade": "Concorrência - Eletrônica",
-"srp": false,
-"valorEstimado": 33153159.6,
-"dataEncerramentoProposta": "2026-07-27T13:00:00",
-"dataPublicacaoPncp": "2026-06-23T15:09:02",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": null,
-"processo": "2026-PLX1P"
-},
-{
-"numeroControlePNCP": "11554474000100-1-000123/2026",
-"orgao": "DEPARTAMENTO DE ESTRADAS DE RODAGEM DO ESTADO DE PE",
-"cnpj": "11554474000100",
-"esfera": "Estadual",
-"poder": "Executivo",
-"unidade": "Departamento de Estradas de Rodagem de Pernambuco (DER/PE)",
-"municipio": "Recife",
-"uf": "PE",
-"codigoIbge": "2611606",
-"objeto": "[Portal de Compras Públicas] - CONTRATAÇÃO DE EMPRESA DE ENGENHARIA ESPECIALIZADA PARA EXECUÇÃO DE OBRAS E SERVIÇOS PARA RESTAURAÇÃO E IMPLANTAÇÃO DA RODOVIA VPE-144, TRECHO ENTR. BR-232/PE AO POVOADO DE PELADAS - BEZERROS/PE, COM EXTENSÃO DE 2,40 KM",
-"modalidade": "Concorrência - Eletrônica",
-"srp": false,
-"valorEstimado": 5337272.31,
-"dataEncerramentoProposta": "2026-07-27T13:00:00",
-"dataPublicacaoPncp": "2026-07-02T19:04:18",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": "https://www.portaldecompraspublicas.com.br/processos/PE/Departamento-de-Estradas-de-Rodagem-de-Pernambuco-DER-PE-5388/CPMP-01092026CELCE0055DER-PE-2026-2026-492909",
-"processo": "0109.2026.CEL.CE.0055.DER-PE"
-},
-{
-"numeroControlePNCP": "01599409000139-1-000009/2026",
-"orgao": "MUNICIPIO DE CAPAO ALTO",
-"cnpj": "01599409000139",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "PREFEITURA MUNICIPAL DE CAPÃO ALTO - SC",
-"municipio": "Capão Alto",
-"uf": "SC",
-"codigoIbge": "4203253",
-"objeto": "Contratação de pessoa jurídica para prestação de serviço de construção de Centro de Atendimento Educacional Especializado e apoio à pessoa com deficiência, com 496,86 m² de área a construir, localizada na sede do município de Capão Alto.",
-"modalidade": "Concorrência - Eletrônica",
-"srp": false,
-"valorEstimado": 998591.17,
-"dataEncerramentoProposta": "2026-07-27T13:00:01",
-"dataPublicacaoPncp": "2026-06-15T08:59:45",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": null,
-"processo": "PMCA 019/26"
-},
-{
-"numeroControlePNCP": "75095679000149-1-000314/2026",
-"orgao": "UNIVERSIDADE FEDERAL DO PARANA",
-"cnpj": "75095679000149",
-"esfera": "Federal",
-"poder": "Executivo",
-"unidade": "UNIVERSIDADE FEDERAL DO PARANA",
-"municipio": "Curitiba",
-"uf": "PR",
-"codigoIbge": "4106902",
-"objeto": "Contratação de serviços de arquitetura e/ou engenharia para realização de adequações das instalações elétricas de baixa tensão localizadas no Setor de Ciências Biológicas visando à operação de um gerador adquirido pela UFPR.",
-"modalidade": "Pregão - Eletrônico",
-"srp": false,
-"valorEstimado": 411461.97,
-"dataEncerramentoProposta": "2026-07-27T13:30:00",
-"dataPublicacaoPncp": "2026-07-10T04:00:10",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=15307905002842026",
-"processo": "23075.017924/2025-33"
-},
-{
-"numeroControlePNCP": "15024045000173-1-000027/2026",
-"orgao": "MUNICIPIO DE NOVA XAVANTINA",
-"cnpj": "15024045000173",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "PREFEITURA MUNICIPAL DE NOVA XAVANTINA - MT",
-"municipio": "Nova Xavantina",
-"uf": "MT",
-"codigoIbge": "5106257",
-"objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM CONSTRUÇÕES PARA EXECUÇÃO DA REFORMA E AMPLIAÇÃO DA ESCOLA MUNICIPAL PROFESSOR JOSÉ RODRIGUES SILQUEIRA, PARA SUPRIR AS DEMANDAS DA SECRETARIA DE EDUCAÇÃO, NO MUNICÍPIO DE NOVA XAVANTINA -MT, CONFORME EDITAL, PROJETO EXECUTIVO E DEMAIS ANEXOS.",
-"modalidade": "Concorrência - Eletrônica",
-"srp": false,
-"valorEstimado": 2171966.59,
-"dataEncerramentoProposta": "2026-07-27T13:30:00",
-"dataPublicacaoPncp": "2026-06-23T12:05:22",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": "",
-"processo": "35/2026"
-},
-{
-"numeroControlePNCP": "30104361000149-1-000013/2026",
-"orgao": "FUNDO MUNICIPAL PARA GESTAO DA MOVIMENTACAO DOS RECURSOS DO FUNDEB",
-"cnpj": "30104361000149",
-"esfera": "Municipal",
-"poder": "Executivo",
-"unidade": "FUNDO DE MAN. DES. EDUC. BÁS. VAL. PROF. EDUCAÇÃO",
-"municipio": "Prainha",
-"uf": "PA",
-"codigoIbge": "1506005",
-"objeto": "CONTRATAÇÃO DE EMPRESA DE ENGENHARIA ESPECIALIZADA, PARA PRESTAÇÃO DE SERVIÇO DE CONSTRUÇÃO DE UMA ESCOLA EM ALVENARIA COM 02 SALAS DE AULA, DENOMINADA MARIA MOREIRA, NA COMUNIDADE FLORESTA, REGIÃO DE SANTA MARIA, MUNICÍPIO DE PRAINHA/PA",
-"modalidade": "Concorrência - Eletrônica",
-"srp": false,
-"valorEstimado": 1177601.24,
-"dataEncerramentoProposta": "2026-07-27T13:59:00",
-"dataPublicacaoPncp": "2026-07-10T14:29:19",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": "https://bnccompras.com/Process/ProcessView?param1=[gkz]nNDZ2TqiD6PUDPzAhE_m3IVLJt8fYF_PkwUjh2rsqijh5Cy2Ufysfh5ff3s4UoqAFVZ2LvdR1FY6g4nIBkMQeiVk2XPI8ohi25l6oJ22KN8=",
-"processo": "2026100401"
-},
-{
-"numeroControlePNCP": "05196563000110-1-000036/2026",
-"orgao": "MUNICIPIO DE BUJARU",
-"cnpj": "05196563000110",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "Prefeitura Municipal de Bujaru",
-"municipio": "Bujaru",
-"uf": "PA",
-"codigoIbge": "1501907",
-"objeto": "[Portal de Compras Públicas] - CONSTRUÇÃO DE UMA PRAÇA NA VILA DE SANTANA NO MUNCÍPIO DE BUJARU/PA",
-"modalidade": "Concorrência - Eletrônica",
-"srp": false,
-"valorEstimado": 388605.5,
-"dataEncerramentoProposta": "2026-07-27T13:59:00",
-"dataPublicacaoPncp": "2026-07-13T20:17:57",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": "https://www.portaldecompraspublicas.com.br/processos/PA/Prefeitura-Municipal-de-Bujaru-820/CPMP-017-2026-2026-495560",
-"processo": "23.541/2026"
-},
-{
-"numeroControlePNCP": "49576416000141-1-000212/2026",
-"orgao": "MUNICIPIO DE PENAPOLIS",
-"cnpj": "49576416000141",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "Prefeitura Municipal de Penápolis",
-"municipio": "Penápolis",
-"uf": "SP",
-"codigoIbge": "3537305",
-"objeto": "CONTRATAÇÃO de empresa especializada para execução de obras de engenharia visando à ampliação do Centro de Controle de Zoonoses e Castração Animal",
-"modalidade": "Concorrência - Eletrônica",
-"srp": false,
-"valorEstimado": 450381.65,
-"dataEncerramentoProposta": "2026-07-27T14:00:00",
-"dataPublicacaoPncp": "2026-07-08T16:50:10",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": "http://www.licitapenapolis.com.br",
-"processo": "3537305.402.00013939/2026-82"
-},
-{
-"numeroControlePNCP": "01786078000146-1-000052/2026",
-"orgao": "TOCANTINS PROCURADORIA GERAL DA JUSTICA",
-"cnpj": "01786078000146",
-"esfera": "Estadual",
-"poder": "Judiciário",
-"unidade": "PROCURADORIA GERAL DA JUSTIÇA DE TOCANTINS",
-"municipio": "Palmas",
-"uf": "TO",
-"codigoIbge": "1721000",
-"objeto": "Aquisição definitiva de Equipamentos de Tecnologia da Informação e Comunicação (TIC), Acompanhados de Insumos Iniciais, Destinados à Modernização e Estruturação Tecnológica de Três Unidades Estratégicas do Ministério Público do Estado do Tocantins (MPTO): o Grupo de Atuação Especial de Combate ao Crime Organizado (GAECO), o Departamento de Gestão de Pessoas e Folha de Pagamento (DGPFP) e o Departamento de Obras e Manutenção Predial (DOMP).",
-"modalidade": "Pregão - Eletrônico",
-"srp": false,
-"valorEstimado": 28501.24,
-"dataEncerramentoProposta": "2026-07-27T14:00:00",
-"dataPublicacaoPncp": "2026-07-09T14:37:13",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92589205002732026",
-"processo": "19.30.1037.0001008/2026-32"
-},
-{
-"numeroControlePNCP": "06439988000176-1-000042/2026",
-"orgao": "MUNICIPIO DE VIANA",
-"cnpj": "06439988000176",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "MUNICIPIO DE VIANA - MA",
-"municipio": "Viana",
-"uf": "MA",
-"codigoIbge": "2112803",
-"objeto": "[LICITANET] - CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇOS DE CONSTRUÇÃO DE ESCOLA COM 12 SALAS DE AULAS NO BAIRRO MULTIRÃO NO MUNICÍPIO DE VIANA - MA",
-"modalidade": "Concorrência - Eletrônica",
-"srp": false,
-"valorEstimado": 6968084.87,
-"dataEncerramentoProposta": "2026-07-27T14:00:00",
-"dataPublicacaoPncp": "2026-07-10T10:30:03",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": "https://licitanet.com.br/sessao/193272",
-"processo": "144/2026"
-},
-{
-"numeroControlePNCP": "90836693000140-1-000576/2026",
-"orgao": "MUNICIPIO DE CAPAO DA CANOA",
-"cnpj": "90836693000140",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "Secretaria de Gestão, Inovação e Planejamento",
-"municipio": "Capão da Canoa",
-"uf": "RS",
-"codigoIbge": "4304630",
-"objeto": "Contratação de empresa para realizar a execução de obra de engenharia destinada à construção de guarita e sala de apoio aos motoristas no estacionamento da Prefeitura Municipal de Capão da Canoa/RS.",
-"modalidade": "Concorrência - Eletrônica",
-"srp": false,
-"valorEstimado": 153350.98,
-"dataEncerramentoProposta": "2026-07-27T14:00:00",
-"dataPublicacaoPncp": "2026-07-10T15:26:27",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": "",
-"processo": "573/2026"
-},
-{
-"numeroControlePNCP": "00508903000188-1-001313/2026",
-"orgao": "JUSTICA FEDERAL DE PRIMEIRA INSTANCIA",
-"cnpj": "00508903000188",
-"esfera": "Federal",
-"poder": "Judiciário",
-"unidade": "JUSTICA FEDERAL DE PRIMEIRO GRAU - DF",
-"municipio": "Brasília",
-"uf": "DF",
-"codigoIbge": "5300108",
-"objeto": "Registro de preços para aquisição de material hidráulico para água e esgoto voltado à manutenção predial demandada pela Seção Judiciária do Distrito Federal.",
-"modalidade": "Pregão - Eletrônico",
-"srp": true,
-"valorEstimado": 245786.45,
-"dataEncerramentoProposta": "2026-07-27T14:00:00",
-"dataPublicacaoPncp": "2026-07-14T04:00:20",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=09002305000202026",
-"processo": "0003424-18.2026.4.01.8005"
-},
 {
 "numeroControlePNCP": "46634523000190-1-000170/2026",
 "orgao": "MUNICIPIO DE SAO MANUEL",
@@ -28434,6 +28170,28 @@
 "processo": "15/2026"
 },
 {
+"numeroControlePNCP": "45318995000171-1-000167/2026",
+"orgao": "MUNICIPIO DE RIFAINA",
+"cnpj": "45318995000171",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "MUNICÍPIO DE RIFAINA - SP",
+"municipio": "Rifaina",
+"uf": "SP",
+"codigoIbge": "3543600",
+"objeto": "REFERENTE A CONTRATAÇÃO DE EMPRESA PARA REFORMA DA UNIDADE BÁSICA DE SAÚDE DR. CLEOMAR BORGES DE OLIVEIRA.",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 420441.02,
+"dataEncerramentoProposta": "2026-08-06T08:30:00",
+"dataPublicacaoPncp": "2026-07-27T10:18:18",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://bllcompras.com/Process/ProcessView?param1=[gkz]VXYkUzc4qYcIJLWw9/vg9tnxXPDcfQTps7m/h9CokRo3BEDBQmp5HKqgjc66LgmdXOCcTGgblwUjBfSJAokeyAW9K4RSCofDKhn0dXmwwfY=",
+"processo": "229/2026"
+},
+{
 "numeroControlePNCP": "45742707000101-1-000074/2026",
 "orgao": "MUNICIPIO DE TAPIRATIBA",
 "cnpj": "45742707000101",
@@ -28850,6 +28608,28 @@
 ],
 "linkEdital": "https://bnccompras.com/Process/ProcessView?param1=[gkz]4fbkOQSytLy3Z/1Az_kmrKmgGSM7NXNlDblesWAa/A0zPs4vOCfNtVJ/m7g0RqyU7r81fZdgt189t0qwZBbh_ldGupbQgJ9Lpde/kruWaAg=",
 "processo": "56/2026"
+},
+{
+"numeroControlePNCP": "46422408000152-1-000367/2026",
+"orgao": "MUNICIPIO DE SANTA BARBARA D'OESTE",
+"cnpj": "46422408000152",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "PREFEITURA MUNICIPAL DE SANTA BARBARA D'OESTE",
+"municipio": "Santa Bárbara d'Oeste",
+"uf": "SP",
+"codigoIbge": "3545803",
+"objeto": "Aquisição de 130 (cento e trinta) Registradores Eletrônicos de Ponto com tecnologia de reconhecimento facial, incluindo fornecimento, instalação, configuração, testes de funcionamento, treinamento, garantia e suporte técnico, destinados à modernização e ampliação do controle eletrônico de frequência dos servidores municipais.",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": null,
+"dataEncerramentoProposta": "2026-08-06T08:59:00",
+"dataPublicacaoPncp": "2026-07-27T10:25:46",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": null,
+"processo": "9655/2026"
 },
 {
 "numeroControlePNCP": "46137410000180-1-000327/2026",
@@ -30434,6 +30214,28 @@
 ],
 "linkEdital": "",
 "processo": "006622/2026"
+},
+{
+"numeroControlePNCP": "07533946000162-1-000075/2026",
+"orgao": "MUNICIPIO DE TRAIRI",
+"cnpj": "07533946000162",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "SECRETARIA DE ESPORTE, JUVENTUDE E LAZER",
+"municipio": "Trairi",
+"uf": "CE",
+"codigoIbge": "2313500",
+"objeto": "CONTRATAÇÃO DE EMPRESA PARA CONSTRUÇÃO DE ARENINHA NO BAIRRO CRIANCÓ, SEDE DESTE MUNICÍPIO, JUNTO A SECRETARIA DE ESPORTE, JUVENTUDE E LAZER DO MUNICIPÍO DE TRAIRI-CE.",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 2567719.93,
+"dataEncerramentoProposta": "2026-08-06T15:00:00",
+"dataPublicacaoPncp": "2026-07-27T09:11:08",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": null,
+"processo": "PC.26.07BDC-0001"
 },
 {
 "numeroControlePNCP": "24859316000100-1-000196/2026",
@@ -32592,6 +32394,28 @@
 "processo": "015/2026"
 },
 {
+"numeroControlePNCP": "28983551000131-1-000007/2026",
+"orgao": "SECRETARIA MUNICIPAL DE EDUCACAO E DESPORTO - SEMED",
+"cnpj": "28983551000131",
+"esfera": "Municipal",
+"poder": "Executivo",
+"unidade": "SECRETARIA MUNICIPAL DE EDUCACAO E DESPORTO SEMED",
+"municipio": "Curuá",
+"uf": "PA",
+"codigoIbge": "1502855",
+"objeto": "CONTRATAÇÃO DE EMPRESA (S) PARA EXECUÇÃO DE OBRAS E REFORMAS NO ESPAÇO FÍSICO DE DUAS UNIDADES ESCOLARES E.M.E.I.E.F. SÃO JOSÉ E E.M.E.I.E.F. ERMELINA SILVA MONTEIRO, LOCALIZADAS NAS ÁREAS RURAIS DO MUNICÍPIO DE CURUÁ/PA.",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 557616.9,
+"dataEncerramentoProposta": "2026-08-07T09:45:00",
+"dataPublicacaoPncp": "2026-07-27T11:33:38",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://bnccompras.com/Process/ProcessView?param1=[gkz]ueX9Xm21/mdkrzO2To1GDtX_12T4wGEOPCRZ6zLO_dpQNfN2oKC46RPrxXkiKdZ_6UeLyvG8EV87c4ZH1tQRtCBnhBvvPXlVuwu0jpR/YW4=",
+"processo": "032/2026"
+},
+{
 "numeroControlePNCP": "08916124000123-1-000029/2026",
 "orgao": "MUNICIPIO DE SAO VICENTE DO SERIDO",
 "cnpj": "08916124000123",
@@ -33814,7 +33638,7 @@
 "objeto": "[Portal de Compras Públicas] - REFORMA E AMPLIAÇÃO DO PRÉDIO DA PREFEITURA MUNICIPAL DE RIACHUELO, NO MUNICÍPIO DE RIACHUELO/SE",
 "modalidade": "Concorrência - Eletrônica",
 "srp": false,
-"valorEstimado": 5055591.08,
+"valorEstimado": null,
 "dataEncerramentoProposta": "2026-08-10T08:00:00",
 "dataPublicacaoPncp": "2026-07-22T11:42:56",
 "fonteRecurso": [
@@ -34614,6 +34438,28 @@
 ],
 "linkEdital": "https://www.antonioprado.rs.gov.br/portal.php?pagina=licitacoes_editais",
 "processo": "11"
+},
+{
+"numeroControlePNCP": "45279643000154-1-000061/2026",
+"orgao": "MUNICIPIO DE NAZARE PAULISTA",
+"cnpj": "45279643000154",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "PREFEITURA MUNICIPAL DE NAZARÉ PAULISTA",
+"municipio": "Nazaré Paulista",
+"uf": "SP",
+"codigoIbge": "3532405",
+"objeto": "Contratação de empresa especializada para o fornecimento de materiais e mão de obra destinados à execução de reforma e ampliação da EMEF Prof. Faustino Penalva, localizada na Rua Helena de Moraes Pinheiro, Bairro Vicente Nunes, Município de Nazaré Paulista/SP, conforme Projeto, Memorial Descritivo, Planilha Orçamentária, Cronograma Físico-Financeiro e Termo de Referência – Anexo I.",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 1304004.3,
+"dataEncerramentoProposta": "2026-08-10T08:45:00",
+"dataPublicacaoPncp": "2026-07-27T08:53:13",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://bnccompras.com/Process/ProcessView?param1=[gkz]k7PpGu23BF7/Iox1bqCDFph31WimvCTKAJVOakspFf_C/UJtg/tc2Ym0k3WvRj5CyJsFChQzwcW0Mqp49SKx0_y/qoc_A0ppZx0OLPNzhIY=",
+"processo": "3842/2026"
 },
 {
 "numeroControlePNCP": "91618439000138-1-000715/2026",
@@ -35980,6 +35826,72 @@
 "processo": "260720CE00018"
 },
 {
+"numeroControlePNCP": "24996845000147-1-000092/2026",
+"orgao": "SERVICO AUTONOMO DE AGUA, ESGOTO E SANEAMENTO URBANO",
+"cnpj": "24996845000147",
+"esfera": "Municipal",
+"poder": "Executivo",
+"unidade": "Licitações e Compras",
+"municipio": "Sete Lagoas",
+"uf": "MG",
+"codigoIbge": "3167202",
+"objeto": "Contratação de empresa especializada para execução dos serviços de desmontagem, recuperação estrutural e adequação de quatro bases em concreto armado, grauteamento, alinhamento a laser, revitalização e montagem de conjunto motor-bomba de 1.500 CV pertencente ao SAAE. DID 333/2026",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 256618.28,
+"dataEncerramentoProposta": "2026-08-10T09:00:00",
+"dataPublicacaoPncp": "2026-07-27T09:24:40",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://app2.licitardigital.com.br/pesquisa/108426",
+"processo": "8637"
+},
+{
+"numeroControlePNCP": "45298569000113-1-000086/2026",
+"orgao": "MUNICIPIO DE ALTINOPOLIS",
+"cnpj": "45298569000113",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "MUNICÍPIO DE ALTINÓPOLIS/SP",
+"municipio": "Altinópolis",
+"uf": "SP",
+"codigoIbge": "3501004",
+"objeto": "[LICITANET] - Registro de preços para futura e eventual aquisição parcelada de tintas e materiais de pintura destinados à manutenção, conservação, revitalização e pintura de prédios públicos, espaços urbanos, estruturas metálicas, pisos, sinalizações e demais bens pertencentes à Administração Municipal, conforme especificações técnicas exigidas.",
+"modalidade": "Pregão - Eletrônico",
+"srp": true,
+"valorEstimado": null,
+"dataEncerramentoProposta": "2026-08-10T09:00:00",
+"dataPublicacaoPncp": "2026-07-27T08:44:21",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://licitanet.com.br/sessao/195216",
+"processo": "136"
+},
+{
+"numeroControlePNCP": "88814199000132-1-000155/2026",
+"orgao": "MUNICIPIO DE SANTO ANTONIO DA PATRULHA",
+"cnpj": "88814199000132",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "DEPARTAMENTO DE COMPRAS E LICITAÇÕES",
+"municipio": "Santo Antônio da Patrulha",
+"uf": "RS",
+"codigoIbge": "4317608",
+"objeto": "[Portal de Compras Públicas] - Registro de preços para aquisição, transporte e instalação de mobiliário urbano, consistindo em playgrounds, destinados à implantação e qualificação de espaços públicos de convivência e recreação em praças e áreas públicas municipais. A contratação visa atender às demandas existentes nesta Secretaria e também no cumprimento de emendas parlamentares impositivas existentes, além de contribuir para a ampliação e qualificação de espaços de convivência, lazer e uso coletivo acessível à comunidade.",
+"modalidade": "Pregão - Eletrônico",
+"srp": true,
+"valorEstimado": 99742.5,
+"dataEncerramentoProposta": "2026-08-10T09:00:00",
+"dataPublicacaoPncp": "2026-07-27T11:16:21",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://www.portaldecompraspublicas.com.br/processos/RS/Prefeitura-Municipal-de-Santo-Antonio-da-Patrulha-52/RPE-090-2026-2026-498987",
+"processo": "175/2026"
+},
+{
 "numeroControlePNCP": "00444232000139-1-000790/2026",
 "orgao": "INDUSTRIA DE MATERIAL BELICO DO BRASIL IMBEL",
 "cnpj": "00444232000139",
@@ -36794,6 +36706,50 @@
 "processo": "592/2026"
 },
 {
+"numeroControlePNCP": "78121878000172-1-000155/2026",
+"orgao": "MUNICIPIO DE CAFELANDIA",
+"cnpj": "78121878000172",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "PREFEITURA MUNICIPAL DE CAFELANDIA - PR",
+"municipio": "Cafelândia",
+"uf": "PR",
+"codigoIbge": "4103453",
+"objeto": "Registro de Preços para futura e eventual aquisição de equipamentos destinados às áreas de lazer e mobiliário urbano, compreendendo parques infantis, lixeiras, grama sintética e estações de hidratação, destinados à implantação, ampliação, revitalização, manutenção e adequação de praças, parques, escolas, Centros Municipais de Educação Infantil (CMEIs), espaços esportivos e demais áreas públicas pertencentes ao Município de Cafelândia/PR.",
+"modalidade": "Pregão - Eletrônico",
+"srp": true,
+"valorEstimado": 1783074.17,
+"dataEncerramentoProposta": "2026-08-10T14:00:00",
+"dataPublicacaoPncp": "2026-07-27T11:35:57",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98798505000082026",
+"processo": "102/2026"
+},
+{
+"numeroControlePNCP": "06716880000183-1-000035/2026",
+"orgao": "MUNICIPIO DE CAMPO MAIOR",
+"cnpj": "06716880000183",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "SECRETARIA MUNICIPAL DE TURISMO, CULTURA E DESENVOLVIMENTO",
+"municipio": "Campo Maior",
+"uf": "PI",
+"codigoIbge": "2202208",
+"objeto": "[Portal de Compras Públicas] - CONTRATAÇÃO DE EMPRESA DE ENGENHARIA PARA EXECUÇÃO DA OBRA DE REFORMA DO TEATRO SIGEFREDO PACHECO NO MUNICÍPIO\nDE CAMPO MAIOR-PI (1ª E 2ª ETAPAS), OBJETO DOS CONVÊNIOS Nºs 972004/2024 E 985096/2025, FIRMADOS ENTRE A PREFEITURA DE CAMPO MAIOR-PI E O MINISTÉRIO DO TURISMO, CONFORME PROJETO BÁSICO E DEMAIS ANEXOS, PARA ATENDER A DEMANDA DO MUNICÍPIO DE CAMPO MAIOR-PI.",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 2587060.79,
+"dataEncerramentoProposta": "2026-08-10T17:00:00",
+"dataPublicacaoPncp": "2026-07-27T11:20:07",
+"fonteRecurso": [
+"Convênio"
+],
+"linkEdital": "https://www.portaldecompraspublicas.com.br/processos/PI/Prefeitura-Municipal-de-Campo-Maior-2460/CPMP-003-2026-2026-498990",
+"processo": "6839/2026"
+},
+{
 "numeroControlePNCP": "25086612000170-1-000022/2026",
 "orgao": "MUNICIPIO DE GOIANORTE",
 "cnpj": "25086612000170",
@@ -37366,6 +37322,94 @@
 "processo": "135/2026"
 },
 {
+"numeroControlePNCP": "09073628000191-1-000048/2026",
+"orgao": "MUNICIPIO DE MONTEIRO",
+"cnpj": "09073628000191",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "PREFEITURA MUNICIPAL DE MONTEIRO - PB",
+"municipio": "Monteiro",
+"uf": "PB",
+"codigoIbge": "2509701",
+"objeto": "CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO DOS SERVIÇOS DE AMPLIAÇÃO E REFORMA UBS 8, NO MUNICPIO DE MONTEIRO/PB",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 519140.06,
+"dataEncerramentoProposta": "2026-08-11T08:00:00",
+"dataPublicacaoPncp": "2026-07-27T11:22:32",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98209503000052026",
+"processo": "025/2026"
+},
+{
+"numeroControlePNCP": "27174119000137-1-000175/2025",
+"orgao": "MUNICIPIO DE MIMOSO DO SUL",
+"cnpj": "27174119000137",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Prefeitura Municipal de Mimoso do Sul",
+"municipio": "Mimoso do Sul",
+"uf": "ES",
+"codigoIbge": "3203403",
+"objeto": "[Portal de Compras Públicas] - Contratacao de Empresa Especializada para Executar Reforma de Drenagem e Pavimentacao em Diversas Ruas do Municipio de Mimoso do Sul, Estado do Espirito Santo, com fornecimento de mao-de obra e materiais, na forma estabelecida nas planilhas de servicos e insumos diversos descritos na Tabela Referencial: DER-ES, em atendimento as necessidades da Secretaria Municipal de Obras e Servicos Urbanos",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 2385462.67,
+"dataEncerramentoProposta": "2026-08-11T08:00:00",
+"dataPublicacaoPncp": "2026-07-27T11:27:03",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://www.portaldecompraspublicas.com.br/processos/ES/Prefeitura-Municipal-de-Mimoso-do-Sul-2486/CPMP-000011-2025-2026-498998",
+"processo": "007339/2024"
+},
+{
+"numeroControlePNCP": "76105618000188-1-000455/2026",
+"orgao": "MUNICIPIO DE CAMPO LARGO",
+"cnpj": "76105618000188",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Diretoria de Cultura",
+"municipio": "Campo Largo",
+"uf": "PR",
+"codigoIbge": "4104204",
+"objeto": "Contratação de Empresa de manutenção predial para realização de reparo e manutenção no Museu Histórico de Campo Largo, com fornecimento de material e mão de obra",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 96300.45,
+"dataEncerramentoProposta": "2026-08-11T08:00:00",
+"dataPublicacaoPncp": "2026-07-27T10:07:19",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": null,
+"processo": "342/2026"
+},
+{
+"numeroControlePNCP": "41863890000142-1-000025/2026",
+"orgao": "FUNDO MUNICIPAL DE EDUCACAO DE SAO FRANCISCO DE GOIAS - FME",
+"cnpj": "41863890000142",
+"esfera": "Municipal",
+"poder": "Executivo",
+"unidade": "FME - FUNDO MUNICIPAL DE EDUCACAO",
+"municipio": "São Francisco de Goiás",
+"uf": "GO",
+"codigoIbge": "5219902",
+"objeto": "Contratação de empresa especializada em engenharia para execução da Reforma da Escola Municipal Padre Humberto Dunkel - Etapa 2, contemplando a reforma da cozinha da escola, modernização da fachada e paisagismo, no Município de São Francisco de Goiás/GO.",
+"modalidade": "Concorrência - Presencial",
+"srp": false,
+"valorEstimado": 148258.17,
+"dataEncerramentoProposta": "2026-08-11T08:00:00",
+"dataPublicacaoPncp": "2026-07-27T10:48:56",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "www.sigep.com.br",
+"processo": "3398"
+},
+{
 "numeroControlePNCP": "82821216000182-1-000181/2026",
 "orgao": "MUNICIPIO DE GUARACIABA",
 "cnpj": "82821216000182",
@@ -37474,6 +37518,28 @@
 ],
 "linkEdital": "",
 "processo": "13961/2026"
+},
+{
+"numeroControlePNCP": "18240119000105-1-000186/2026",
+"orgao": "MUNICIPIO DE VARGINHA",
+"cnpj": "18240119000105",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Prefeitura do Município de Varginha",
+"municipio": "Varginha",
+"uf": "MG",
+"codigoIbge": "3170701",
+"objeto": "[Portal de Compras Públicas] - Contratação de empresa especializada para prestação de serviços comuns de engenharia para a execução de manutenção corretiva, ampliação, modificação, modernização e execução de obras em redes de iluminação pública e distribuição de energia elétrica urbana e rural no Município de Varginha/MG, compreendendo o fornecimento de mão de obra, materiais, disponibilização de equipamentos, ferramentas, veículos e demais insumos necessários",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 7497875.0,
+"dataEncerramentoProposta": "2026-08-11T08:29:00",
+"dataPublicacaoPncp": "2026-07-27T11:21:42",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://www.portaldecompraspublicas.com.br/processos/MG/Prefeitura-do-Municipio-de-Varginha-1970/CPMP-4-2026-2026-498985",
+"processo": "200/2026"
 },
 {
 "numeroControlePNCP": "76208487000164-1-000176/2026",
@@ -37958,6 +38024,138 @@
 ],
 "linkEdital": "http://compras.m2atecnologia.com.br/processos/publicacao/7b6f2b037a274f1d99a4153b8c5595b9/contratacao-de-empresa-especializada-para-execucao",
 "processo": "0001120260709000164"
+},
+{
+"numeroControlePNCP": "01609843000152-1-000446/2026",
+"orgao": "MUNICIPIO DE PONTAL DO PARANA",
+"cnpj": "01609843000152",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Unidade administrativa",
+"municipio": "Pontal do Paraná",
+"uf": "PR",
+"codigoIbge": "4119954",
+"objeto": "AMPLIAÇÃO E REFORMA DO ALMOXARIFADO COM BARRACÃO EM CONCRETO ARMADO, no Município de PONTAL DO PARANÁ, no Balneário (PRAIA DE LESTE), na RUA ESTORIL, Nº 352.",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 512016.8,
+"dataEncerramentoProposta": "2026-08-11T08:59:00",
+"dataPublicacaoPncp": "2026-07-27T10:15:20",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": null,
+"processo": "352"
+},
+{
+"numeroControlePNCP": "01609843000152-1-000447/2026",
+"orgao": "MUNICIPIO DE PONTAL DO PARANA",
+"cnpj": "01609843000152",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Prefeitura Municipal de Pontal do Parana - PR",
+"municipio": "Pontal do Paraná",
+"uf": "PR",
+"codigoIbge": "4119954",
+"objeto": "AMPLIAÇÃO E REFORMA DO ALMOXARIFADO COM BARRACÃO EM CONCRETO ARMADO, no Município de PONTAL DO PARANÁ, no Balneário (PRAIA DE LESTE), na RUA ESTORIL, Nº 352.",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 512016.8,
+"dataEncerramentoProposta": "2026-08-11T08:59:00",
+"dataPublicacaoPncp": "2026-07-27T10:24:40",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://comprasbr.com.br/pregao-eletronico-detalhe/?idlicitacao=47143",
+"processo": "352/2026"
+},
+{
+"numeroControlePNCP": "13646005000138-1-000120/2026",
+"orgao": "MUNICIPIO DE ALAGOINHAS",
+"cnpj": "13646005000138",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Prefeitura Municipal de Alagoinhas",
+"municipio": "Alagoinhas",
+"uf": "BA",
+"codigoIbge": "2900702",
+"objeto": "[Portal de Compras Públicas] - CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA A CONSTRUÇÃO DE CENTRO ESPORTIVO COMUNITÁRIO (CAMPO DE FUTEBOL COM GRAMA SINTÉTICA, MEIA QUADRA DE BASQUETE, PARQUINHO INFANTIL E PISTA DE CAMINHADA TIPO A), SITUADA À RUA LUCIANO DO VALLE OLIVEIRA BRITO, NO BAIRRO PIRINEL, MUNICÍPIO DE ALAGOINHAS-BA, CONFORME TERMO DE CONVÊNIO 987320/2025 PAC.",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 1554749.94,
+"dataEncerramentoProposta": "2026-08-11T08:59:00",
+"dataPublicacaoPncp": "2026-07-27T11:14:35",
+"fonteRecurso": [
+"Convênio"
+],
+"linkEdital": "https://www.portaldecompraspublicas.com.br/processos/BA/Prefeitura-Municipal-de-Alagoinhas-4444/CPMP-009-2026-2026-498512",
+"processo": "7104"
+},
+{
+"numeroControlePNCP": "92410463000140-1-000052/2026",
+"orgao": "MUNICIPIO DE SAO JOSE DAS MISSOES",
+"cnpj": "92410463000140",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Município de São Jose das Missões",
+"municipio": "São José das Missões",
+"uf": "RS",
+"codigoIbge": "4318457",
+"objeto": "Registro de preços para futura e eventual aquisição de luminárias públicas com tecnologia LED, braços de sustentação, materiais e equipamentos auxiliares destinados à fixação, instalação e conexão das luminárias, visando à modernização e à ampliação da eficiência do sistema de iluminação pública do Município de São José das Missões/RS, em atendimento ao Termo de Cooperação Técnica nº 058/2023-PROCEL-ENBPar, celebrado no âmbito do Programa Procel Reluz, compreendendo o fornecimento de todos os componentes necessários à perfeita execução da solução.",
+"modalidade": "Pregão - Eletrônico",
+"srp": true,
+"valorEstimado": 229020.94,
+"dataEncerramentoProposta": "2026-08-11T08:59:00",
+"dataPublicacaoPncp": "2026-07-27T08:49:53",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "",
+"processo": "045"
+},
+{
+"numeroControlePNCP": "33618570000107-1-000031/2026",
+"orgao": "CONSELHO FEDERAL DE CONTABILIDADE",
+"cnpj": "33618570000107",
+"esfera": "Federal",
+"poder": "Executivo",
+"unidade": "CONSELHO FEDERAL DE CONTABILIDADE",
+"municipio": "Brasília",
+"uf": "DF",
+"codigoIbge": "5300108",
+"objeto": "Contratação de empresa especializada para o fornecimento de serviços em 3 itens distintos, sendo o item 1 a prestação de serviços contínuos de manutenção predial preventiva e corretiva das instalações elétricas, o item 2 para fornecimento e instalação de luminárias de emergência, inclusive adequação dos circuitos, e por fim, o item 3 para fornecimento e instalação de guardacorpo e corrimão de inox na entrada do plenário do 13º andar, nas dependências do edifício sede do CFC, em Brasília/DF.",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 205402.61,
+"dataEncerramentoProposta": "2026-08-11T08:59:00",
+"dataPublicacaoPncp": "2026-07-27T09:38:57",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=38350005000262026",
+"processo": "90796110000037.000017/2025-05"
+},
+{
+"numeroControlePNCP": "92410463000140-1-000054/2026",
+"orgao": "MUNICIPIO DE SAO JOSE DAS MISSOES",
+"cnpj": "92410463000140",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Prefeitura Municipal de São José das Missões",
+"municipio": "São José das Missões",
+"uf": "RS",
+"codigoIbge": "4318457",
+"objeto": "[Portal de Compras Públicas] - Registro de preços para futura e eventual aquisição de luminárias públicas com tecnologia LED, braços de sustentação, materiais e equipamentos auxiliares destinados à fixação, instalação e conexão das luminárias, visando à modernização e à ampliação da eficiência do sistema de iluminação pública do Município de São José das Missões/RS, em atendimento ao Termo de Cooperação Técnica nº 058/2023-PROCEL-ENBPar, celebrado no âmbito do Programa Procel Reluz, compreendendo o fornecimento de todos os componentes necessários à perfeita execução da solução.",
+"modalidade": "Pregão - Eletrônico",
+"srp": true,
+"valorEstimado": 229020.94,
+"dataEncerramentoProposta": "2026-08-11T08:59:00",
+"dataPublicacaoPncp": "2026-07-27T10:38:54",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://www.portaldecompraspublicas.com.br/processos/RS/Prefeitura-Municipal-de-Sao-Jose-das-Missoes-4645/RPE-6-2026-2026-498969",
+"processo": "540"
 },
 {
 "numeroControlePNCP": "26677304000181-1-000009/2026",
@@ -38709,6 +38907,72 @@
 "processo": "63162.003693/2025-16"
 },
 {
+"numeroControlePNCP": "06553481000149-1-000113/2026",
+"orgao": "ESTADO DO PIAUI",
+"cnpj": "06553481000149",
+"esfera": "Estadual",
+"poder": "Não informado",
+"unidade": "EPI-SECRETÁRIA DE ESTADO DA INFRAESTRUTURA",
+"municipio": "Teresina",
+"uf": "PI",
+"codigoIbge": "2211001",
+"objeto": "Contratação de empresa especializada para a Execução dosServiços de Reforma do Anexo da Praça Matriz, no Município de Alto Longá – PI.",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 1155682.42,
+"dataEncerramentoProposta": "2026-08-11T09:00:00",
+"dataPublicacaoPncp": "2026-07-27T09:12:35",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=45012703000052026",
+"processo": "00114.000803/2025-43"
+},
+{
+"numeroControlePNCP": "83211391000110-1-000020/2026",
+"orgao": "MUNICIPIO DE SAO DOMINGOS DO ARAGUAIA",
+"cnpj": "83211391000110",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "FUNDO MUNICIPAL DE SAÚDE",
+"municipio": "São Domingos do Araguaia",
+"uf": "PA",
+"codigoIbge": "1507151",
+"objeto": "[Portal de Compras Públicas] - REGISTRO DE PREÇO PARA EVENTUAL CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO DE SERVIÇO DE REPAROS, MANUTENÇÃO E PEQUENAS REFORMAS DOS PRÉDIOS PÚBLICOS DA SECRETARIA MUNICIPAL DE SAÚDE DE SÃO DOMINGOS DO ARAGUAIA-PA.",
+"modalidade": "Concorrência - Eletrônica",
+"srp": true,
+"valorEstimado": 5459371.88,
+"dataEncerramentoProposta": "2026-08-11T09:00:00",
+"dataPublicacaoPncp": "2026-07-27T10:58:57",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://www.portaldecompraspublicas.com.br/processos/PA/Municipio-de-Sao-Domingos-do-Araguaia-2064/CPMP-32026-005FMS-2026-2026-498336",
+"processo": "0015.2026SEPLAN"
+},
+{
+"numeroControlePNCP": "13719646000175-1-000143/2026",
+"orgao": "MUNICIPIO DE ITABERABA",
+"cnpj": "13719646000175",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Prefeitura Municipal de Itaberaba",
+"municipio": "Itaberaba",
+"uf": "BA",
+"codigoIbge": "2914703",
+"objeto": "[Portal de Compras Públicas] - CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO DE SERVIÇOS NA ÁREA DE ENGENHARIA A FIM DE EXECUTAR A REFORMA E AMPLIAÇÃO DO CAMPO DE FUTEBOL, NO MUNICÍPIO DE ITABERABA - BAHIA, CONTRATO DE REPASSE Nº 916294/2021 MESP- Ministério do Esporte, conforme projeto básico executivo, PO – Planilha orçamentaria, cronograma de execuçao físico-financeiro, QCI, quadro de composição do Investimento.",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 383074.41,
+"dataEncerramentoProposta": "2026-08-11T09:00:00",
+"dataPublicacaoPncp": "2026-07-27T11:17:39",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://www.portaldecompraspublicas.com.br/processos/BA/Prefeitura-Municipal-de-Itaberaba-3766/CPMP-009-2026-2026-498991",
+"processo": "081/2026"
+},
+{
 "numeroControlePNCP": "16958425000148-1-000317/2026",
 "orgao": "SECRETARIA DE ESTADO DE INDUSTRIA, CIENCIA E TECNOLOGIA",
 "cnpj": "16958425000148",
@@ -38795,6 +39059,28 @@
 ],
 "linkEdital": "",
 "processo": "52/2026"
+},
+{
+"numeroControlePNCP": "06072956000185-1-000004/2026",
+"orgao": "SECRETARIA MUNICIPAL DE EDUCACAO",
+"cnpj": "06072956000185",
+"esfera": "Municipal",
+"poder": "Executivo",
+"unidade": "SECRETARIA MUNICIPAL DE EDUCAÇÃO",
+"municipio": "Prainha",
+"uf": "PA",
+"codigoIbge": "1506005",
+"objeto": "CONTRATAÇÃO DE EMPRESA DE ENGENHARIA ESPECIALIZADA, PARA PRESTAÇÃO DE SERVIÇO DE CONSTRUÇÃO DE UMA QUADRA COBERTA COM VESTIÁRIOS – PADRÃO FNDE, EM NOVO LOCAL, NO DISTRITO DE BOA VISTA DO CUÇARI, MUNICÍPIO DE PRAINHA/PA",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 1702217.03,
+"dataEncerramentoProposta": "2026-08-11T09:59:00",
+"dataPublicacaoPncp": "2026-07-27T08:58:23",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://bnccompras.com/Process/ProcessView?param1=[gkz]JLrYOxWwTZT/dAbu_MCa3QD2mJs9NzrG3qAqPDhQrgbNIQB1XXjGXs1vHqGTQx8MtSjYhGzL4NN1cDHE/fLUxHMOmZ4_3A86cuW6zyjaQ/Y=",
+"processo": "2026060505"
 },
 {
 "numeroControlePNCP": "09122706000109-1-000001/2026",
@@ -39216,6 +39502,28 @@
 "processo": "199"
 },
 {
+"numeroControlePNCP": "13982640000196-1-000110/2026",
+"orgao": "MUNICIPIO DE GUANAMBI",
+"cnpj": "13982640000196",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Prefeitura Municipal de Guanambi",
+"municipio": "Guanambi",
+"uf": "BA",
+"codigoIbge": "2911709",
+"objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM CONSTRUÇÃO CIVIL PARA EXECUÇÃO DA OBRA DE CONSTRUÇÃO DA COBERTURA DA QUADRA DO CETEP, NO BAIRRO SANTO ANTÔNIO, NA SEDE DO MUNICÍPIO DE GUANAMBI.",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 730792.07,
+"dataEncerramentoProposta": "2026-08-12T07:30:00",
+"dataPublicacaoPncp": "2026-07-27T10:56:49",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://bnccompras.com/Process/ProcessView?param1=[gkz]ufKYSAh5F_ZdWaQ/hPdLdizeUNE4WTrg89zf2XGocntEHahZmcR_TdKOTd8EkAttNeQm3XoFMdiVkKyBZORthq2oSR7pNSm8iCA_0bOdX5Q=",
+"processo": "069-26-PMG"
+},
+{
 "numeroControlePNCP": "76950062000126-1-000104/2026",
 "orgao": "MUNICIPIO DE BARBOSA FERRAZ",
 "cnpj": "76950062000126",
@@ -39368,6 +39676,72 @@
 ],
 "linkEdital": "https://bllcompras.com/Process/ProcessView?param1=[gkz]xf_cMNX6n7HkLouoH7x1xJNBCLba4jwRUbt1EFlnAMTrYAKxJD9r4fUzYsSJ7A7Yy8c3kjHZCEJ/4WwjDLsU4xpxOjHItbqSuXUYdlEJtpU=",
 "processo": "078/2026"
+},
+{
+"numeroControlePNCP": "06688303000125-1-000048/2026",
+"orgao": "SECRETARIA DO DESENVOLVIMENTO ECONOMICO E TECNOLOGICO",
+"cnpj": "06688303000125",
+"esfera": "Estadual",
+"poder": "Executivo",
+"unidade": "EPI-SECRETARIA DE EST DO DESENVOL ECONÔMICO",
+"municipio": "Teresina",
+"uf": "PI",
+"codigoIbge": "2211001",
+"objeto": "CONSTITUI OBJETO DO PRESENTE EDITAL A CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA EXECUÇÃO DE SERVIÇOS DE CONSTRUÇÃO DE PRAÇA PÚBLICA, NO POVOADO FAZENDA NOVA, NA ZONA RURAL DO MUNICÍPIO DE CURRALINHOS – PI",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 315494.94,
+"dataEncerramentoProposta": "2026-08-12T08:00:00",
+"dataPublicacaoPncp": "2026-07-27T11:10:51",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=45043603000232026",
+"processo": "00152.000066/2026-11"
+},
+{
+"numeroControlePNCP": "06688303000125-1-000049/2026",
+"orgao": "SECRETARIA DO DESENVOLVIMENTO ECONOMICO E TECNOLOGICO",
+"cnpj": "06688303000125",
+"esfera": "Estadual",
+"poder": "Executivo",
+"unidade": "EPI-SECRETARIA DE EST DO DESENVOL ECONÔMICO",
+"municipio": "Teresina",
+"uf": "PI",
+"codigoIbge": "2211001",
+"objeto": "CONTRATAÇÃO DE EMPRESA DE ENGENHARIA CIVIL DESTINADO À EXECUÇÃO DOS SERVIÇOS DE CONSTRUÇÃO DE UMA PRAÇA PÚBLICA E UM CAMPO SOCIETY, LOCALIZADOS NA ZONA URBANA DO MUNICÍPIO DE BURITI DOS MONTES – PI.",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 736661.43,
+"dataEncerramentoProposta": "2026-08-12T08:00:00",
+"dataPublicacaoPncp": "2026-07-27T11:11:24",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=45043603000242026",
+"processo": "00152.000080/2026-15"
+},
+{
+"numeroControlePNCP": "87564381000110-1-000208/2026",
+"orgao": "MUNICIPIO DE IBIRUBA",
+"cnpj": "87564381000110",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "MUNICÍPIO DE IBIRUBÁ - RS",
+"municipio": "Ibirubá",
+"uf": "RS",
+"codigoIbge": "4310009",
+"objeto": "Contratação de empresa para execução em regime de empreitada integral, (material e mão de obra) destinada a execução de serviços de engenharia civil, consistente na realização de serviços de reforma e adequação do imóvel localizado na Rua Barão do Rio Branco, nº 897, bairro Centro, Ibirubá/RS, conforme memorial descritivo, projeto, planilha orçamentária e cronograma físico-financeiro integrantes do edital",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 46097.02,
+"dataEncerramentoProposta": "2026-08-12T08:00:00",
+"dataPublicacaoPncp": "2026-07-27T08:35:16",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": null,
+"processo": "250/2026"
 },
 {
 "numeroControlePNCP": "87711503000153-1-000069/2026",
@@ -39632,6 +40006,50 @@
 ],
 "linkEdital": "https://comprasbr.com.br/pregao-eletronico-detalhe/?idlicitacao=47111",
 "processo": "96/2026"
+},
+{
+"numeroControlePNCP": "83102780000108-1-000140/2026",
+"orgao": "MUNICIPIO DE BENEDITO NOVO",
+"cnpj": "83102780000108",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Prefeitura de Benedito Novo - SC",
+"municipio": "Benedito Novo",
+"uf": "SC",
+"codigoIbge": "4202206",
+"objeto": "EXECUÇÃO DE OBRAS DE PAVIMENTAÇÃO ASFÁLTICA DA RUA GUILHERME DOEGE, COM FORNECIMENTO DE MATERIAIS E MÃO DE OBRA, EM CONFORMIDADE COM OS PROJETOS, MEMORIAL DESCRITIVO E DEMAIS ANEXOS DO EDITAL",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 380486.6,
+"dataEncerramentoProposta": "2026-08-12T08:30:00",
+"dataPublicacaoPncp": "2026-07-27T09:07:34",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://comprasbr.com.br/pregao-eletronico-detalhe/?idlicitacao=47111",
+"processo": "96/2026"
+},
+{
+"numeroControlePNCP": "04216419000136-1-000030/2026",
+"orgao": "MUNICIPIO DE BOZANO",
+"cnpj": "04216419000136",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "MUNICÍPIO DE BOZANO",
+"municipio": "Bozano",
+"uf": "RS",
+"codigoIbge": "4302584",
+"objeto": "Construção de um Centro de Referência de Assistência Social – CRAS.",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 845990.4,
+"dataEncerramentoProposta": "2026-08-12T08:30:00",
+"dataPublicacaoPncp": "2026-07-27T11:00:51",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://pregaobanrisul.com.br/editais/0003_2026/354508",
+"processo": "0003"
 },
 {
 "numeroControlePNCP": "83102277000152-1-000442/2026",
@@ -40272,6 +40690,28 @@
 "processo": "194"
 },
 {
+"numeroControlePNCP": "03741683000126-1-000115/2026",
+"orgao": "MUNICIPIO DE MUNDO NOVO",
+"cnpj": "03741683000126",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "MUNICIPIO DE MUNDO NOVO",
+"municipio": "Mundo Novo",
+"uf": "MS",
+"codigoIbge": "5005681",
+"objeto": "Contratação de empresa especializada em engenharia para execução de obra de infraestrutura viária rural, compreendendo a implantação de pavimentação asfáltica em Tratamento Superficial Triplo (TST), incluindo serviços de terraplenagem, regularização e compactação do subleito, execução de base em solo-cimento, aplicação de revestimento asfáltico, transporte de materiais, mobilização, sinalização e demais serviços complementares, nas Estradas Daudt Conceição e Orlando Tricossi, no Município d",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 3023268.14,
+"dataEncerramentoProposta": "2026-08-12T09:00:00",
+"dataPublicacaoPncp": "2026-07-27T08:53:02",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://bllcompras.com/Process/ProcessView?param1=[gkz]65qliUV0NjJ3RJN4enGxZKv9kWW1OH7xEPUWRpfLklwzURVW1uWE_K/z7bZvrDNyqVFZjAT1PwQiJqnmNZLhYqjUMaV1e81P2LJDWoTqcb4=",
+"processo": "113/2026"
+},
+{
 "numeroControlePNCP": "46634572000123-1-000082/2026",
 "orgao": "MUNICIPIO DE CESARIO LANGE",
 "cnpj": "46634572000123",
@@ -40468,6 +40908,28 @@
 ],
 "linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98570305000142026",
 "processo": "84773/2025"
+},
+{
+"numeroControlePNCP": "08036157000189-1-000154/2026",
+"orgao": "DEFENSORIA PUBLICA DO ESTADO DE SAO PAULO",
+"cnpj": "08036157000189",
+"esfera": "Estadual",
+"poder": "Executivo",
+"unidade": "ESP-FED-CGA FUNDO DE ASSISTENCIA JUDICIARIA",
+"municipio": "São Paulo",
+"uf": "SP",
+"codigoIbge": "3550308",
+"objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇOS COMUNS DE ENGENHARIA PARA EXECUÇÃO DE PEQUENAS E MÉDIAS REFORMAS, COM FORNECIMENTO DE EQUIPAMENTOS E MÃO DE OBRA NECESSÁRIAS À EXECUÇÃO DAS ATIVIDADES A SEREM SOLICITADAS, COM BASE NO BOLETIM REFERENCIAL DE CUSTOS DA COMPANHIA DE DESENVOLVIMENTO HABITACIONAL E URBANO, DORAVANTE DENOMINADA CDHU",
+"modalidade": "Pregão - Eletrônico",
+"srp": true,
+"valorEstimado": 3501508.67,
+"dataEncerramentoProposta": "2026-08-12T10:00:00",
+"dataPublicacaoPncp": "2026-07-27T10:11:00",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=99003705000192026",
+"processo": "2026/0012212"
 },
 {
 "numeroControlePNCP": "32104465000189-1-000031/2026",
@@ -41020,6 +41482,28 @@
 "processo": "92/2026"
 },
 {
+"numeroControlePNCP": "92465228000175-1-000126/2026",
+"orgao": "MUNICIPIO DE ALEGRIA",
+"cnpj": "92465228000175",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "MUNICIPIO DE ALEGRIA/RS",
+"municipio": "Alegria",
+"uf": "RS",
+"codigoIbge": "4300455",
+"objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA CONSTRUÇÃO DE COBERTURA METÁLICA SOBRE QUADRA EXISTENTE NA PRAÇA ARNOLDO GUILHERME JOST COM ÁREA DE 935,75M², CENTRO DA CIDADE DE ALEGRIA/RS.",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 418582.48,
+"dataEncerramentoProposta": "2026-08-13T07:59:00",
+"dataPublicacaoPncp": "2026-07-27T11:34:42",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "",
+"processo": "131"
+},
+{
 "numeroControlePNCP": "46377800000127-1-002782/2026",
 "orgao": "SAO PAULO SECRETARIA DA SEGURANCA PUBLICA",
 "cnpj": "46377800000127",
@@ -41128,6 +41612,28 @@
 ],
 "linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98209503000022026",
 "processo": "027/2026"
+},
+{
+"numeroControlePNCP": "75845529000105-1-000017/2026",
+"orgao": "MUNICIPIO DE MIRASELVA",
+"cnpj": "75845529000105",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "MUNICIPIO DE MIRASELVA",
+"municipio": "Miraselva",
+"uf": "PR",
+"codigoIbge": "4116000",
+"objeto": "Reforma e ampliação do centro do idoso do município, contendo revitalização do salão de festas, banheiros, vestiários e piscinas, ampliação da academia coberta com novos ambientes para atividades físicas, e a criação de jardins e áreas contemplativas voltadas ao bem-estar e à socialização dos idosos. Também estão previstos sistemas sustentáveis, como captação de águas pluviais, e iluminação em LED, além de novas soluções estruturais, de cobertura, impermeabilização, instalações elétricas e ...",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 2444550.17,
+"dataEncerramentoProposta": "2026-08-13T08:00:00",
+"dataPublicacaoPncp": "2026-07-27T09:56:10",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://bllcompras.com/Process/ProcessView?param1=[gkz]l8k0Wuj8kJi_sWgICO2h70rcn/l_3Xy3yITRec9QsequiCZF3NDjp6ricaVqsE0Vu0tEe6v5YA61HHh06qs8dsQLKQvND1XoWOE0LebAMSc=",
+"processo": "54/2026"
 },
 {
 "numeroControlePNCP": "75377200000167-1-000046/2026",
@@ -41392,6 +41898,50 @@
 ],
 "linkEdital": "https://www.antonioprado.rs.gov.br/portal.php?pagina=licitacoes_editais",
 "processo": "13"
+},
+{
+"numeroControlePNCP": "18241349000180-1-000124/2026",
+"orgao": "MUNICIPIO DE SAO SEBASTIAO DO PARAISO",
+"cnpj": "18241349000180",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "PREFEITURA MUNICIPAL DE SÃO SEBASTIÃO DO PARAISO",
+"municipio": "São Sebastião do Paraíso",
+"uf": "MG",
+"codigoIbge": "3164704",
+"objeto": "Contratação de empresa para execução de obra de Instalação de Estruturas Metálicas Rebatíveis para Suporte de Tabelas de Basquete na quadra Esportiva do Complexo San Genaro",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": null,
+"dataEncerramentoProposta": "2026-08-13T08:50:00",
+"dataPublicacaoPncp": "2026-07-27T08:49:48",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "",
+"processo": "010757/2026"
+},
+{
+"numeroControlePNCP": "08741399000173-1-000093/2026",
+"orgao": "MUNICIPIO DE PICUI",
+"cnpj": "08741399000173",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Prefeitura Municipal de Picuí",
+"municipio": "Picuí",
+"uf": "PB",
+"codigoIbge": "2511400",
+"objeto": "CONTRATAÇÃO DE EMPRESA DE CONSTRUÇÃO CIVIL PARA  EXECUÇÃO DE OBRA DE AMPLIAÇÃO DA EMEF PROFESSORA JOSEFA SUELENE ARAÚJO SANTOS, CONFORME PROJETO BÁSICO",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 848587.85,
+"dataEncerramentoProposta": "2026-08-13T08:55:00",
+"dataPublicacaoPncp": "2026-07-27T09:05:42",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "http://www.licitapicui.com.br",
+"processo": "260717CE00009"
 },
 {
 "numeroControlePNCP": "27104363000123-1-000098/2026",
@@ -41832,6 +42382,28 @@
 ],
 "linkEdital": "https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1097538",
 "processo": "0110/2026"
+},
+{
+"numeroControlePNCP": "83009860000113-1-000211/2026",
+"orgao": "MUNICIPIO DE XANXERE",
+"cnpj": "83009860000113",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "PREFEITURA MUNICIPAL DE XANXERÊ - SC",
+"municipio": "Xanxerê",
+"uf": "SC",
+"codigoIbge": "4219507",
+"objeto": "Registro de preços para a aquisição futura e parcelada de materiais de construção para pequenas melhorias, ampliações e reconstruções de moradias de famílias beneficiadas pelo Programa “Casa Boa”, instituído por meio da Lei Ordinária nº 4521/2023 na cidade de Xanxerê/SC e outras necessidades habitacionais de interesse da Administração Municipal de Xanxerê-SC.",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 722710.51,
+"dataEncerramentoProposta": "2026-08-13T09:00:00",
+"dataPublicacaoPncp": "2026-07-27T10:25:45",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98838305000332026",
+"processo": "192"
 },
 {
 "numeroControlePNCP": "08085409000160-1-000071/2026",
@@ -42470,6 +43042,50 @@
 ],
 "linkEdital": "https://app2.licitardigital.com.br/pesquisa/108393",
 "processo": "000046/2026"
+},
+{
+"numeroControlePNCP": "01613120000127-1-000124/2026",
+"orgao": "MUNICIPIO DE CHAPADAO DO LAGEADO",
+"cnpj": "01613120000127",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "DIVISÃO DE TURISMO",
+"municipio": "Chapadão do Lageado",
+"uf": "SC",
+"codigoIbge": "4204194",
+"objeto": "A presente Licitação tem por objeto a Aquisição de materiais e contratação de mão-de-obra para execução de ampliação do Centro Comunitário na Localidade de Ranchinho do Município de Chapadão do Lageado/SC, Vinculado a Emenda Impositiva nº 2773/2025, de conformidade com os projetos, memoriais descritivos, quadros de quantidades (orçamentos) e cronogramas físico-financeiros e demais documentos pertinentes ao projeto em anexo.",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 184594.72,
+"dataEncerramentoProposta": "2026-08-14T08:00:00",
+"dataPublicacaoPncp": "2026-07-27T11:18:19",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": null,
+"processo": "103/2026"
+},
+{
+"numeroControlePNCP": "01613120000127-1-000125/2026",
+"orgao": "MUNICIPIO DE CHAPADAO DO LAGEADO",
+"cnpj": "01613120000127",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Prefeitura Municipal de Chapadão do Lageado - SC",
+"municipio": "Chapadão do Lageado",
+"uf": "SC",
+"codigoIbge": "4204194",
+"objeto": "A presente Licitação tem por objeto a Aquisição de materiais e contratação de mão-de-obra para execução de ampliação do Centro Comunitário na Localidade de Ranchinho do Município de Chapadão do Lageado/SC, Vinculado a Emenda Impositiva nº 2773/2025, de conformidade com os projetos, memoriais descritivos, quadros de quantidades (orçamentos) e cronogramas físico-financeiros e demais documentos pertinentes ao projeto em anexo.",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 184594.72,
+"dataEncerramentoProposta": "2026-08-14T08:00:00",
+"dataPublicacaoPncp": "2026-07-27T11:36:04",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://comprasbr.com.br/pregao-eletronico-detalhe/?idlicitacao=47152",
+"processo": "103/2026"
 },
 {
 "numeroControlePNCP": "46195079000154-1-000522/2026",
@@ -43242,6 +43858,28 @@
 "processo": "21/2026"
 },
 {
+"numeroControlePNCP": "18025973000140-1-000060/2026",
+"orgao": "MUNICIPIO DE PEDRALVA",
+"cnpj": "18025973000140",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Setor de Compras",
+"municipio": "Pedralva",
+"uf": "MG",
+"codigoIbge": "3149101",
+"objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA EXECUÇÃO DE OBRAS DE ENGENHARIA PARA PAVIMENTAÇÃO COM BLOQUETES SEXTAVADOS DE CONCRETO NO BAIRRO CORRÊAS, NO MUNICÍPIO DE PEDRALVA / MG.",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 90950.25,
+"dataEncerramentoProposta": "2026-08-17T08:10:00",
+"dataPublicacaoPncp": "2026-07-27T11:15:30",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "",
+"processo": "000114/2026"
+},
+{
 "numeroControlePNCP": "82821216000182-1-000156/2026",
 "orgao": "MUNICIPIO DE GUARACIABA",
 "cnpj": "82821216000182",
@@ -43328,6 +43966,28 @@
 ],
 "linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=94300105001592026",
 "processo": "21032.000834/2025-84"
+},
+{
+"numeroControlePNCP": "76208495000100-1-000093/2026",
+"orgao": "MUNICIPIO DE FORMOSA DO OESTE",
+"cnpj": "76208495000100",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "PREFEITURA MUNICIPAL DE FORMOSA DO OESTE - PR",
+"municipio": "Formosa do Oeste",
+"uf": "PR",
+"codigoIbge": "4108205",
+"objeto": "Construção de Centro de Atendimento à Infância e a Adolescência, contendo: varanda externa, banheiro fundos, lavanderia, 4 dormitórios, banheiro social, suíte, vestiários masculino e feminino, despensa, varanda interna, cozinha, sala de estudo, refeitório, garagem, sala de atendimento e sala de tv.",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 1055149.21,
+"dataEncerramentoProposta": "2026-08-17T08:30:00",
+"dataPublicacaoPncp": "2026-07-27T10:38:39",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98756103000182026",
+"processo": "106"
 },
 {
 "numeroControlePNCP": "01933030000113-1-000028/2026",
@@ -43549,6 +44209,28 @@
 ],
 "linkEdital": null,
 "processo": "20923/2026"
+},
+{
+"numeroControlePNCP": "78279981000145-1-000100/2026",
+"orgao": "MUNICIPIO DE CANTAGALO",
+"cnpj": "78279981000145",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Prefeitura Municipal de Cantagalo - PR",
+"municipio": "Cantagalo",
+"uf": "PR",
+"codigoIbge": "4104451",
+"objeto": "REGISTRO DE PREÇOS VISANDO A AQUISIÇÃO DE CBUQ FAIXA C, PEDRA 3/4, PEDRA GRADUADA, PÓ DE PEDRA E PEDRISCO, DESTINADAS A MANUTENÇÃO E EXECUÇÃO DE OBRAS PÚBLICAS",
+"modalidade": "Pregão - Eletrônico",
+"srp": true,
+"valorEstimado": 271633.0,
+"dataEncerramentoProposta": "2026-08-17T08:59:00",
+"dataPublicacaoPncp": "2026-07-27T10:28:40",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://comprasbr.com.br/pregao-eletronico-detalhe/?idlicitacao=47145",
+"processo": "35/2026"
 },
 {
 "numeroControlePNCP": "51447472000128-1-000035/2026",
@@ -44319,6 +45001,28 @@
 ],
 "linkEdital": "https://bllcompras.com/Process/ProcessView?param1=[gkz]0x1/WeKTkKHP8/IVBK9P0NInDC/dfCuWFcTV_hNe/CGrpdZVvaOg4ncOf9BR8Z0tfTNYHddZZ88UZ60PexbacB4uOekEWlXJLyyvE8cXme4=",
 "processo": "27/2026"
+},
+{
+"numeroControlePNCP": "76208867000107-1-000373/2026",
+"orgao": "MUNICIPIO DE CASCAVEL",
+"cnpj": "76208867000107",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "PREFEITURA MUNICIPAL DE CASCAVEL - PR",
+"municipio": "Cascavel",
+"uf": "PR",
+"codigoIbge": "4104808",
+"objeto": "Contratação de empresa legalmente estabelecida e especializada no ramo da construção civil para a execução da reforma da Escola Municipal Ana Neri, conforme projetos, planilha orçamentária e especificações técnicas constantes no edital.",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 3548513.04,
+"dataEncerramentoProposta": "2026-08-18T08:59:00",
+"dataPublicacaoPncp": "2026-07-27T10:25:46",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98749303000292026",
+"processo": "4371/2026"
 },
 {
 "numeroControlePNCP": "01609497000102-1-000014/2026",
@@ -45839,6 +46543,28 @@
 "processo": "046"
 },
 {
+"numeroControlePNCP": "01541283000141-1-000021/2026",
+"orgao": "INDUSTRIA QUIMICA DO ESTADO DE GOIAS S A IQUEGO",
+"cnpj": "01541283000141",
+"esfera": "Não informado",
+"poder": "Não informado",
+"unidade": "EGO-INDÚSTRIA QUÍMICA DO ESTADO DE GOIÁS S/A",
+"municipio": "Goiânia",
+"uf": "GO",
+"codigoIbge": "5208707",
+"objeto": "Contratação de empresa especializada para execução de serviços de reforma, adequação, manutenção predial e afins, destinados à regularização de não conformidades sanitárias apontadas em fiscalização do bloco Glicosímetro da Indústria Química do Estado de Goiás - IQUEGO, com o fornecimento de mão-de-obra e os materiais necessários, de acordo com as especificações e quantidades estabelecidas no Termo de Referência.",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 224905.41,
+"dataEncerramentoProposta": "2026-08-20T09:00:00",
+"dataPublicacaoPncp": "2026-07-27T10:40:39",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=93112805000142026",
+"processo": "202600055000036"
+},
+{
 "numeroControlePNCP": "92787118000120-1-000710/2026",
 "orgao": "HOSPITAL NOSSA SENHORA DA CONCEICAO S/A",
 "cnpj": "92787118000120",
@@ -46233,6 +46959,28 @@
 ],
 "linkEdital": null,
 "processo": "CC06/2026"
+},
+{
+"numeroControlePNCP": "02056729000105-1-000520/2026",
+"orgao": "MUNICIPIO DE RIO VERDE",
+"cnpj": "02056729000105",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "PREFEITURA MUNICIPAL DE RIO VERDE - GO",
+"municipio": "Rio Verde",
+"uf": "GO",
+"codigoIbge": "5218805",
+"objeto": "Pregão Eletrônico para aquisição de materiais para a construção de almoxarifado, destinado a equipe de construção civil da Secretaria de Infraestrutura Urbana da Prefeitura Municipal de Rio Verde – GO, conforme especificações estabelecidas no Termo de Referência – Anexo do Edital.",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 50344.34,
+"dataEncerramentoProposta": "2026-08-21T08:59:00",
+"dataPublicacaoPncp": "2026-07-27T10:44:06",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98957105002262026",
+"processo": "95300/2026"
 },
 {
 "numeroControlePNCP": "44229821000170-1-000017/2026",
@@ -47313,6 +48061,28 @@
 "processo": "12638/2026"
 },
 {
+"numeroControlePNCP": "01613123000160-1-000092/2026",
+"orgao": "MUNICIPIO DE SAO SEBASTIAO DO ANTA",
+"cnpj": "01613123000160",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "São Sebastião do Anta",
+"municipio": "São Sebastião do Anta",
+"uf": "MG",
+"codigoIbge": "3164472",
+"objeto": "Registro de preços para seleção de empresa para o fornecimento de prestação de serviços de instalação e readequação da rede elétrica de prédios públicos, de pavimentação e manutenção de estradas vicinais, reformas e ampliações nas estruturas dos prédios públicos atendendo a demanda da Prefeitura Municipal de São Sebastião do Anta",
+"modalidade": "Pregão - Eletrônico",
+"srp": true,
+"valorEstimado": 2153842.57,
+"dataEncerramentoProposta": "2026-08-25T08:00:00",
+"dataPublicacaoPncp": "2026-07-27T10:54:58",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "",
+"processo": "095"
+},
+{
 "numeroControlePNCP": "18008854000180-1-000043/2026",
 "orgao": "MUNICIPIO DE SERITINGA",
 "cnpj": "18008854000180",
@@ -47663,6 +48433,28 @@
 ],
 "linkEdital": null,
 "processo": "[5230] 2/2026"
+},
+{
+"numeroControlePNCP": "87893111000152-1-000336/2026",
+"orgao": "MUNICIPIO DE SAO LOURENCO DO SUL",
+"cnpj": "87893111000152",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Municipio de São Lourenço do Sul",
+"municipio": "São Lourenço do Sul",
+"uf": "RS",
+"codigoIbge": "4318804",
+"objeto": "[Portal de Compras Públicas] - Contratação de empresa especializada em serviços de engenharia para execução da obra de REFORMA E AMPLIAÇÃO DE CLÍNICA VETERINÁRIA, com área total de 68,24 m² (sendo 51,02 m² de área existente com reforma e 17,22 m² de ampliação), incluindo o fornecimento total de material, mão de obra, ferramentas e equipamentos necessários, conforme as especificações e quantitativos constantes no Memorial Descritivo, projetos arquitetônico, estrutural, instalações e anexos.",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 162076.41,
+"dataEncerramentoProposta": "2026-08-25T09:29:00",
+"dataPublicacaoPncp": "2026-07-27T09:58:53",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://www.portaldecompraspublicas.com.br/processos/RS/Prefeitura-Municipal-de-Sao-Lourenco-do-Sul-1026/CPMP-12-2026-2026-496600",
+"processo": "268"
 },
 {
 "numeroControlePNCP": "00394502000144-1-008292/2026",
@@ -49909,6 +50701,28 @@
 "processo": "CE0065/2026"
 },
 {
+"numeroControlePNCP": "41090291000133-1-000155/2026",
+"orgao": "FUNDO MUNICIPAL DE SAUDE",
+"cnpj": "41090291000133",
+"esfera": "Municipal",
+"poder": "Executivo",
+"unidade": "FUNDO MUNICIPAL DE SAÚDE - FMS",
+"municipio": "Recife",
+"uf": "PE",
+"codigoIbge": "2611606",
+"objeto": "CONTRATAÇÃO DE EMPRESA DE ENGENHARIA ESPECIALIZADA PARA A REFORMADEIMÓVELPARA IMPLANTAÇÃO DO CENTRO DE DIAGNÓSTICO POR IMAGEM – CDI DA CIDADEDORECIFE,LOCALIZADA NA AVENIDA AV. DANTAS BARRETO, Nº 514, NO BAIRRO DE SANTO ANTÔNIO, CEP50.010-360, RECIFE/PE,",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 8169530.02,
+"dataEncerramentoProposta": "2026-08-31T10:00:00",
+"dataPublicacaoPncp": "2026-07-27T08:39:49",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "http://portaldecompras.recife.pe.gov.br/",
+"processo": "GC-SEPLAG-008-PL 0012"
+},
+{
 "numeroControlePNCP": "12264396000163-1-000058/2025",
 "orgao": "MUNICIPIO DE BOCA DA MATA",
 "cnpj": "12264396000163",
@@ -49997,6 +50811,28 @@
 "processo": "014"
 },
 {
+"numeroControlePNCP": "88227764000165-1-000694/2026",
+"orgao": "MUNICIPIO DE TUPANCIRETA",
+"cnpj": "88227764000165",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "PREFEITURA MUNICIPAL",
+"municipio": "Tupanciretã",
+"uf": "RS",
+"codigoIbge": "4322202",
+"objeto": "CONTRATACAO DE EMPRESA PARA EXECUCAO DA REFORMA DO SALAO COMUNITARIO DO BAIRRO DO GAUCHO",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 245016.07,
+"dataEncerramentoProposta": "2026-09-01T08:00:00",
+"dataPublicacaoPncp": "2026-07-27T09:03:01",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": " ",
+"processo": "13"
+},
+{
 "numeroControlePNCP": "16726028000140-1-000053/2026",
 "orgao": "MUNICIPIO DE CAPITOLIO",
 "cnpj": "16726028000140",
@@ -50017,6 +50853,28 @@
 ],
 "linkEdital": "",
 "processo": "58"
+},
+{
+"numeroControlePNCP": "76178011000128-1-000090/2026",
+"orgao": "MUNICIPIO DE PINHAO",
+"cnpj": "76178011000128",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "UNIDADE ADMINISTRATIVA",
+"municipio": "Pinhão",
+"uf": "PR",
+"codigoIbge": "4119301",
+"objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA A EXECUÇÃO, SOB O REGIME DE EMPREITADA POR PREÇO GLOBAL, DA CONSTRUÇÃO DE 03 (TRÊS) SALAS DE AULA EM ALVENARIA PRÉ-MOLDADA (ÁREA TOTAL DE 177,07 M²), DESTINADAS À AMPLIAÇÃO DA ESCOLA MUNICIPAL FREI FRANCISCO, LOCALIZADA NA RUA ORQUIZA CALDAS DE LIMA, S/Nº, VILA CALDAS, NO MUNICÍPIO DE PINHÃO/PR, ",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 305187.18,
+"dataEncerramentoProposta": "2026-09-01T08:31:00",
+"dataPublicacaoPncp": "2026-07-27T08:29:35",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": null,
+"processo": "87"
 },
 {
 "numeroControlePNCP": "75772400000114-1-000070/2026",
@@ -50083,6 +50941,28 @@
 ],
 "linkEdital": "http://www.licitacoesmilagres.com.br",
 "processo": "2025.08.28.1"
+},
+{
+"numeroControlePNCP": "76017458000115-1-000052/2026",
+"orgao": "MUNICIPIO DE PARANAGUA",
+"cnpj": "76017458000115",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "PREFEITURA MUNICIPAL DE PARANAGUÁ - PR",
+"municipio": "Paranaguá",
+"uf": "PR",
+"codigoIbge": "4118204",
+"objeto": "“Contratação de Empresa Especializada para Serviços de Revitalização das Praças “FERNANDO AMARO” e “EUFRÁSIO CORREIA (PRAÇA DOS LEÕES) no Município de Paranaguá”,",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 3410917.18,
+"dataEncerramentoProposta": "2026-09-01T09:00:00",
+"dataPublicacaoPncp": "2026-07-27T09:35:54",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98774503000052026",
+"processo": "42193/2026"
 },
 {
 "numeroControlePNCP": "03330461000110-1-000114/2026",
@@ -51273,6 +52153,28 @@
 "processo": "PMCA 021/2026"
 },
 {
+"numeroControlePNCP": "03143730000130-1-000016/2026",
+"orgao": "SECRETARIA EXECUTIVA DE ESPORTE E LAZER",
+"cnpj": "03143730000130",
+"esfera": "Estadual",
+"poder": "Executivo",
+"unidade": "SEEL",
+"municipio": "Belém",
+"uf": "PA",
+"codigoIbge": "1501402",
+"objeto": "Construção de complexo esportivo no município de Belém/PA - Ginásio Poliesportivo Paralímpico, oriundo do Contrato de repasse 917205/2021, entre União Federal, através do Ministério dos Esportes, representada pela Caixa Econômica Federal e a Secretaria de Estado de Esporte e Lazer.",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 5201332.26,
+"dataEncerramentoProposta": "2026-09-08T09:30:00",
+"dataPublicacaoPncp": "2026-07-27T11:00:18",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "",
+"processo": "2026/2211315"
+},
+{
 "numeroControlePNCP": "76205681000196-1-000006/2026",
 "orgao": "MUNICIPIO DE RENASCENCA",
 "cnpj": "76205681000196",
@@ -51537,6 +52439,28 @@
 "processo": "15264/2026"
 },
 {
+"numeroControlePNCP": "25107525000151-1-000346/2026",
+"orgao": "MUNICIPIO DE SENADOR CANEDO",
+"cnpj": "25107525000151",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "SECRETARIA MUNICIPAL DE INFRAESTRUTURA, SERVIÇOS E MOBILIDADE URBANA",
+"municipio": "Senador Canedo",
+"uf": "GO",
+"codigoIbge": "5220454",
+"objeto": "[Portal de Compras Públicas] - Contratação Integrada de empresa para Elaboração de Projetos com Execução das obras do Sistema de Esgotamento Sanitário da Região do Jardim de Oliveiras, fornecimento dos equipamentos e sua montagem e Ampliação da Estação de Tratamento de Esgoto do Município de Senador Canedo.",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 138213594.08,
+"dataEncerramentoProposta": "2026-09-10T08:30:00",
+"dataPublicacaoPncp": "2026-07-27T11:31:10",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://www.portaldecompraspublicas.com.br/processos/GO/Prefeitura-Municipal-de-Senador-Canedo-992/CPTP-14-2026-2026-487681",
+"processo": "15264/2026"
+},
+{
 "numeroControlePNCP": "46319000000150-1-000209/2026",
 "orgao": "MUNICIPIO DE GUARULHOS",
 "cnpj": "46319000000150",
@@ -51601,6 +52525,28 @@
 ],
 "linkEdital": null,
 "processo": "2024/30550/009486"
+},
+{
+"numeroControlePNCP": "25053083000108-1-000054/2026",
+"orgao": "SECRETARIA DA EDUCACAO, JUVENTUDE E ESPORTES",
+"cnpj": "25053083000108",
+"esfera": "Estadual",
+"poder": "Executivo",
+"unidade": "SECRETARIA DA EDUCAÇÃO DO ESTADO DO TOCANTINS",
+"municipio": "Palmas",
+"uf": "TO",
+"codigoIbge": "1721000",
+"objeto": "Contratação de empresa especializada em construção civil e instalações de projetos complementares, para a execução de obra referente a construção da ETI Costa Esmeralda em Araguaína-TO, contendo - Auditório, Bloco De Esportes, Vestiário, Quadra Coberta, Piscina Com Arquibancada, Campo Society, Pista de Salto, Sistema de Combate a Incêndio e Subestação de 300 KVA.",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 22931153.91,
+"dataEncerramentoProposta": "2026-09-10T09:59:00",
+"dataPublicacaoPncp": "2026-07-27T10:41:11",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92616403000072026",
+"processo": "2026/27000/001957"
 },
 {
 "numeroControlePNCP": "27165554000103-1-000359/2026",
@@ -51955,6 +52901,28 @@
 "processo": "102/2026"
 },
 {
+"numeroControlePNCP": "76285345000109-1-000174/2026",
+"orgao": "MUNICIPIO DE MANDAGUARI",
+"cnpj": "76285345000109",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "PREFEITURA MUNICIPAL DE MANDAGUARÍ - PR",
+"municipio": "Mandaguari",
+"uf": "PR",
+"codigoIbge": "4114203",
+"objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM SERVIÇOS DE ENGENHARIA PARA EXECUTAR A CONSTRUÇÃO DE UM CENTRO MUNICIPAL DE EDUCAÇÃO INFANTIL (CMEI) NO BAIRRO JARDIM MADRID DE MANDAGUARI-PR",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 2821174.13,
+"dataEncerramentoProposta": "2026-09-14T08:00:00",
+"dataPublicacaoPncp": "2026-07-27T09:54:34",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98767703000092026",
+"processo": "01/2026"
+},
+{
 "numeroControlePNCP": "78200110000194-1-000026/2026",
 "orgao": "MUNICIPIO DE DOURADINA",
 "cnpj": "78200110000194",
@@ -52063,6 +53031,28 @@
 ],
 "linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98671303000572026",
 "processo": "675/2026"
+},
+{
+"numeroControlePNCP": "76285345000109-1-000175/2026",
+"orgao": "MUNICIPIO DE MANDAGUARI",
+"cnpj": "76285345000109",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "PREFEITURA MUNICIPAL DE MANDAGUARÍ - PR",
+"municipio": "Mandaguari",
+"uf": "PR",
+"codigoIbge": "4114203",
+"objeto": "CONTRATAÇÃO DE PESSOA JURIDICA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS DE ENGENHARIA PARA A EXECUÇÃO DE REFORMA PARCIAL DO CENTRO DE CONVENÇÕES Dr. DÉCIO BACELAR, COM A CONSTRUÇÃO DE RAMPA DE ACESSO AO PALCO, CAMARIM COM BANHEIRO, REMOÇÃO DO PISO EXISTENTE NO PALCO E INSTALAÇÃO DE PISO VINÍLICO E DEMAIS SERVIÇOS COMPLEMENTARES",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 114511.7,
+"dataEncerramentoProposta": "2026-09-14T09:00:00",
+"dataPublicacaoPncp": "2026-07-27T10:42:25",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98767703000102026",
+"processo": "02/2026"
 },
 {
 "numeroControlePNCP": "24851511000185-1-000395/2026",
@@ -52261,6 +53251,28 @@
 ],
 "linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=94300103950012026",
 "processo": "18001024324202474"
+},
+{
+"numeroControlePNCP": "04889717000197-1-000047/2026",
+"orgao": "DEPARTAMENTO DE EDIFICACOES E DE RODOVIAS DO ESTADO DO ESPIRITO SANTO - DER-ES",
+"cnpj": "04889717000197",
+"esfera": "Estadual",
+"poder": "Executivo",
+"unidade": "DEPARTAMENTO DE EDIFICACOES E DE RODOVIAS DO ESTADO DO ESPIRITO SANTO",
+"municipio": "Vitória",
+"uf": "ES",
+"codigoIbge": "3205309",
+"objeto": "Contratação dos serviços de Elaboração dos Projetos Básico e Executivo de Engenharia e a Execução das obras de Macrodrenagem e Pavimentação do Balneário de Guriri ¿ BACIA 01 ¿ São Mateus/ES, com 8.436,46m de extensão, na área de circunscrição da\nSuperintendência Executiva Urbana ¿ SE-U/DER-ES do Departamento de Edificações e de Rodovias do Espírito Santo.",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 341921774.54,
+"dataEncerramentoProposta": "2026-09-15T09:59:00",
+"dataPublicacaoPncp": "2026-07-27T11:18:01",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": null,
+"processo": "2025-JG6D9"
 },
 {
 "numeroControlePNCP": "01613136000130-1-000037/2026",
@@ -59477,6 +60489,28 @@
 ],
 "linkEdital": "",
 "processo": "125/2026"
+},
+{
+"numeroControlePNCP": "05363084000141-1-000027/2026",
+"orgao": "CAMARA MUNICIPAL DE LEANDRO FERREIRA",
+"cnpj": "05363084000141",
+"esfera": "Municipal",
+"poder": "Legislativo",
+"unidade": "Legislativo",
+"municipio": "Leandro Ferreira",
+"uf": "MG",
+"codigoIbge": "3138302",
+"objeto": "Contratação de empresa ou fornecedor especializado para realização de eventuais e futuros serviços de manutenção preventiva, corretiva e de urgência, bem como pequenos reparos e reformas, em atividades simples, típicas e isoladas e imprevisíveis nas instalações elétricas do prédio da Câmara Municipal de Leandro Ferreira/MG.",
+"modalidade": "Credenciamento",
+"srp": false,
+"valorEstimado": 8400.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-07-27T11:14:01",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"linkEdital": "",
+"processo": "000026/2026"
 }
 ]
 }
