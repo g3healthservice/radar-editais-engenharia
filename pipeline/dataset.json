@@ -1,31 +1,9 @@
 {
-"build": 1785184507,
+"build": 1785190792,
 "geradoEm": "2026-07-27",
 "modo": "incremental",
-"totalEngenhariaCivil": 2804,
+"totalEngenhariaCivil": 2803,
 "itens": [
-{
-"numeroControlePNCP": "05196563000110-1-000037/2026",
-"orgao": "MUNICIPIO DE BUJARU",
-"cnpj": "05196563000110",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "Prefeitura Municipal de Bujaru",
-"municipio": "Bujaru",
-"uf": "PA",
-"codigoIbge": "1501907",
-"objeto": "[Portal de Compras Públicas] - 2ª ETAPA DA REVITALIZAÇÃO DA ORLA NO MUNICÍPIO DE BUJARU/PA, CONFORME CONVÊNIO Nº 013/2026-SEOP CELEBRADO ENTRE A SECRETARIA DE ESTADO DE OBRAS PÚBLICAS E O MUNICIPIO DE BUJARU",
-"modalidade": "Concorrência - Eletrônica",
-"srp": false,
-"valorEstimado": 3420468.39,
-"dataEncerramentoProposta": "2026-07-27T22:00:00",
-"dataPublicacaoPncp": "2026-07-13T20:22:27",
-"fonteRecurso": [
-"Convênio"
-],
-"linkEdital": "https://www.portaldecompraspublicas.com.br/processos/PA/Prefeitura-Municipal-de-Bujaru-820/CPMP-019-2026-2026-495561",
-"processo": "23.762/2026"
-},
 {
 "numeroControlePNCP": "22404257000141-1-000093/2026",
 "orgao": "POLICIA CIVIL DO ESTADO DA PARAIBA",
