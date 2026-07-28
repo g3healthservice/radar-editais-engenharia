@@ -1,53 +1,9 @@
 {
-"build": 1785190792,
-"geradoEm": "2026-07-27",
+"build": 1785197762,
+"geradoEm": "2026-07-28",
 "modo": "incremental",
-"totalEngenhariaCivil": 2803,
+"totalEngenhariaCivil": 2801,
 "itens": [
-{
-"numeroControlePNCP": "22404257000141-1-000093/2026",
-"orgao": "POLICIA CIVIL DO ESTADO DA PARAIBA",
-"cnpj": "22404257000141",
-"esfera": "Estadual",
-"poder": "Executivo",
-"unidade": "POLÍCIA CIVIL DO ESTADO DA PARAIBA",
-"municipio": "João Pessoa",
-"uf": "PB",
-"codigoIbge": "2507507",
-"objeto": "Reforma da Delegacia de Boqueirão, para implantação da sala lilás, no contexto da política pública  Antes que Aconteça ",
-"modalidade": "Concorrência - Eletrônica",
-"srp": false,
-"valorEstimado": 179710.71,
-"dataEncerramentoProposta": "2026-07-27T23:59:59",
-"dataPublicacaoPncp": "2026-07-08T14:40:39",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": "https://www.centraldecompras.pb.gov.br/appls/sgc/edital.nsf/Web?OpenAgent&pageClassName=EditalPage&action=abrir&unid=832EB699E56BA25303258E2E00548237",
-"processo": "38.000.000165.2026"
-},
-{
-"numeroControlePNCP": "08761140000194-1-000200/2026",
-"orgao": "SECRETARIA DE ESTADO DA ADMINISTRACAO",
-"cnpj": "08761140000194",
-"esfera": "Estadual",
-"poder": "Executivo",
-"unidade": "SECRETARIA DE ESTADO DA ADMINISTRACAO",
-"municipio": "João Pessoa",
-"uf": "PB",
-"codigoIbge": "2507507",
-"objeto": "REGISTRO DE PREÇOS PARA AQUISIÇÃO DE MATERIAIS PARA REFORMAS E CONSTRUÇÕES - I MACRORREGIÃO",
-"modalidade": "Pregão - Eletrônico",
-"srp": true,
-"valorEstimado": 797398.33,
-"dataEncerramentoProposta": "2026-07-27T23:59:59",
-"dataPublicacaoPncp": "2026-07-14T09:00:30",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": "https://www.centraldecompras.pb.gov.br/appls/sgc/edital.nsf/Web?OpenAgent&pageClassName=EditalPage&action=abrir&unid=73511A65AAE90D3303258E34004090C9",
-"processo": "19.000.000001.2026"
-},
 {
 "numeroControlePNCP": "04838793000173-1-000026/2026",
 "orgao": "MUNICIPIO DE ALENQUER",
