@@ -1,31 +1,9 @@
 {
-"build": 1785356720,
-"geradoEm": "2026-07-29",
+"build": 1785370424,
+"geradoEm": "2026-07-30",
 "modo": "incremental",
-"totalEngenhariaCivil": 2444,
+"totalEngenhariaCivil": 2443,
 "itens": [
-{
-"numeroControlePNCP": "03238912000194-1-000027/2026",
-"orgao": "MUNICIPIO DE NOVA CANAA DO NORTE",
-"cnpj": "03238912000194",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "MUNICIPIO DE NOVA CANAA DO NORTE",
-"municipio": "Nova Canaã do Norte",
-"uf": "MT",
-"codigoIbge": "5106216",
-"objeto": "Aquisição de materiais de  construção necessários para a continuidade e conclusão da obra de construção de 50  (cinquenta) unidades habitacionais, localizadas nas coordenadas iniciais Lat.  10º38’13,00”S e Long. 55º42’32,69”O, em área total de 12.000,00 m², no município de  Nova Canaã do Norte/MT",
-"modalidade": "Pregão - Presencial",
-"srp": false,
-"valorEstimado": 398643.72,
-"dataEncerramentoProposta": "2026-07-29T23:59:00",
-"dataPublicacaoPncp": "2026-07-16T17:27:47",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": "http://201.25.112.194:8079/Transparencia/InformacoesLicitacoes.aspx",
-"processo": "24"
-},
 {
 "numeroControlePNCP": "24772246000140-1-000082/2026",
 "orgao": "MUNICIPIO DE LUCAS DO RIO VERDE",
