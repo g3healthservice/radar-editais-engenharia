@@ -1,31 +1,9 @@
 {
-"build": 1785511938,
+"build": 1785520312,
 "geradoEm": "2026-07-31",
 "modo": "incremental",
-"totalEngenhariaCivil": 2102,
+"totalEngenhariaCivil": 2101,
 "itens": [
-{
-"numeroControlePNCP": "13915632000127-1-000125/2026",
-"orgao": "MUNICIPIO DE JUAZEIRO",
-"cnpj": "13915632000127",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "PREFEITURA MUNICIPAL  DE JUAZEIRO - BA",
-"municipio": "Juazeiro",
-"uf": "BA",
-"codigoIbge": "2918407",
-"objeto": "Contratação de serviços especializados de engenharia destinados à reforma e ampliação da Escola Municipal Helena Celestino.",
-"modalidade": "Concorrência - Eletrônica",
-"srp": false,
-"valorEstimado": 6759664.1,
-"dataEncerramentoProposta": "2026-07-31T17:00:00",
-"dataPublicacaoPncp": "2026-07-17T16:36:29",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": "https://bllcompras.com/Process/ProcessView?param1=[gkz]DZALJRh5C4W5//4x33QAi8Mku3A69Zi6g9UM7RJMtM2fDhjRCNGvWtaHNtkK0kP4nK29kXynIBJ7O7LRc8CXJgJ75cmJ/P3hvevkTXqLIvk=",
-"processo": "229/2026"
-},
 {
 "numeroControlePNCP": "00508903000188-1-001345/2026",
 "orgao": "JUSTICA FEDERAL DE PRIMEIRA INSTANCIA",
