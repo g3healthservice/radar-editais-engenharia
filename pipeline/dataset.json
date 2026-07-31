@@ -1,97 +1,9 @@
 {
-"build": 1785520312,
+"build": 1785539675,
 "geradoEm": "2026-07-31",
 "modo": "incremental",
-"totalEngenhariaCivil": 2101,
+"totalEngenhariaCivil": 2097,
 "itens": [
-{
-"numeroControlePNCP": "00508903000188-1-001345/2026",
-"orgao": "JUSTICA FEDERAL DE PRIMEIRA INSTANCIA",
-"cnpj": "00508903000188",
-"esfera": "Federal",
-"poder": "Judiciário",
-"unidade": "JUSTICA FEDERAL DE 1A. INSTANCIA/RR",
-"municipio": "Boa Vista",
-"uf": "RR",
-"codigoIbge": "1400100",
-"objeto": "Registro de preços para futura e eventual contratação de empresa especializada na prestação de serviços de manutenção preventiva e corretiva de aparelhos condicionadores de ar do tipo split e janela, incluindo controladora para 3 aparelhos, instalados no edifício-sede da Seção Judiciária de Roraima, conforme especificações, quantidades e condições constantes no Anexo I deste edital;",
-"modalidade": "Pregão - Eletrônico",
-"srp": false,
-"valorEstimado": 326817.51,
-"dataEncerramentoProposta": "2026-07-31T18:00:00",
-"dataPublicacaoPncp": "2026-07-17T04:00:14",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=09003905000372026",
-"processo": "0000566-87.2026.4.01.8013"
-},
-{
-"numeroControlePNCP": "00394544000185-1-001451/2026",
-"orgao": "MINISTERIO DA SAUDE",
-"cnpj": "00394544000185",
-"esfera": "Federal",
-"poder": "Executivo",
-"unidade": "SUBSECRETARIA DE ASSUNTOS ADMINISTRATIVOS",
-"municipio": "Brasília",
-"uf": "DF",
-"codigoIbge": "5300108",
-"objeto": "Locação de imóvel destinado à alocação temporária dos servidores e colaboradores lotados no Bloco G (SEDE), tendo em vista a reforma integral a ser realizada no edifício e posterior Anexo.",
-"modalidade": "Credenciamento",
-"srp": false,
-"valorEstimado": 108365850.0,
-"dataEncerramentoProposta": "2026-07-31T18:00:00",
-"dataPublicacaoPncp": "2026-07-17T15:58:57",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": null,
-"processo": "25000.062441/2026-73"
-},
-{
-"numeroControlePNCP": "01612585000163-1-000014/2026",
-"orgao": "MUNICIPIO DE JUREMA",
-"cnpj": "01612585000163",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "PREFEITURA MUNICIPAL DE JUREMA - PI",
-"municipio": "Jurema",
-"uf": "PI",
-"codigoIbge": "2205532",
-"objeto": "CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO DE OBRAS E SERVIÇOS DE ENGENHARIA PARA ESTRADAS VICINAIS NO MUNICÍPIO DE JUREMA - PI. ",
-"modalidade": "Concorrência - Eletrônica",
-"srp": false,
-"valorEstimado": 371272.67,
-"dataEncerramentoProposta": "2026-07-31T18:00:00",
-"dataPublicacaoPncp": "2026-07-20T17:21:56",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": "https://bnccompras.com/Process/ProcessView?param1=[gkz]fF6d8DtYmMbEza9XqHFcB35dMIH2H1W0K8GJuGfZccdpKl5TiqVGyv3EwhJVcULy9ZMpucRp7SBr7B2pQoo_/pxHC19Qa7k4IIhNLBAO2oQ=",
-"processo": "001.0001912/2026"
-},
-{
-"numeroControlePNCP": "01612585000163-1-000015/2026",
-"orgao": "MUNICIPIO DE JUREMA",
-"cnpj": "01612585000163",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "PREFEITURA MUNICIPAL DE JUREMA - PI",
-"municipio": "Jurema",
-"uf": "PI",
-"codigoIbge": "2205532",
-"objeto": "CONTRATAÇÃO DE EMPRESA DE ENGENHARIA PARA EXECUÇÃO DE SERVIÇOS NA\r\nREFORMA DA UBS ELVIRA DA ROCHA SANTOS MUNICIPIO DE JUREMA - PI. \r\n",
-"modalidade": "Concorrência - Eletrônica",
-"srp": false,
-"valorEstimado": 18771333.0,
-"dataEncerramentoProposta": "2026-07-31T18:00:00",
-"dataPublicacaoPncp": "2026-07-20T17:37:22",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": "https://bnccompras.com/Process/ProcessView?param1=[gkz]hYcAuXh_m8fxHP2XMv3PSdnFE_dXYQ894qnwuMhr/d0griryqIMtWxWEPLFrnwwTOYq2xqkNj3LkbNntJ8PSy2nwHqPQCwO6yf9kkLkJOuc=",
-"processo": "001.0001996/2026 "
-},
 {
 "numeroControlePNCP": "18133306000181-1-000051/2026",
 "orgao": "MUNICIPIO DE ERVALIA",
