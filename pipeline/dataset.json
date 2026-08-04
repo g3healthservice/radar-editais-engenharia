@@ -1,53 +1,9 @@
 {
-"build": 1785795763,
-"geradoEm": "2026-08-03",
+"build": 1785802960,
+"geradoEm": "2026-08-04",
 "modo": "incremental",
-"totalEngenhariaCivil": 1917,
+"totalEngenhariaCivil": 1915,
 "itens": [
-{
-"numeroControlePNCP": "23555170000138-1-000042/2026",
-"orgao": "MUNICIPIO DE ACARAPE",
-"cnpj": "23555170000138",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "MUNICIPIO DE ACARAPE",
-"municipio": "Acarape",
-"uf": "CE",
-"codigoIbge": "2300150",
-"objeto": "Aquisição de grama sintética para manutenção e revitalização de grama sintética e áreas de lazer no âmbito do município, através da Secretaria de Educação, Cultura, Esporte e Juventude de Acarape/CE.",
-"modalidade": "Pregão - Eletrônico",
-"srp": false,
-"valorEstimado": 80219.81,
-"dataEncerramentoProposta": "2026-08-03T23:59:00",
-"dataPublicacaoPncp": "2026-07-20T11:33:02",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": "https://bllcompras.com/Process/ProcessView?param1=[gkz]eXQyJEvh9p9SuAy_/pn64KsMjHJgB/Kesym3ByJmVAQiS2zb_Fb6ecyR6jMTJyZT95yLs37zJRYb3zbtGjz/xs7EjTTWqLscyiM6MAyQ0PU=",
-"processo": "0207.03/2026"
-},
-{
-"numeroControlePNCP": "37226644000102-1-000086/2026",
-"orgao": "MUNICIPIO DE NOVO HORIZONTE DO SUL",
-"cnpj": "37226644000102",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "PREFEITURA MUNICIPAL DE NOVO HORIZONTE DO SUL - MS",
-"municipio": "Novo Horizonte do Sul",
-"uf": "MS",
-"codigoIbge": "5006259",
-"objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA EXECUÇÃO DAS OBRAS DE CONSTRUÇÃO DE 20 (VINTE) UNIDADES HABITACIONAIS URBANAS, PADRÃO POPULAR, NO MUNICÍPIO DE NOVO HORIZONTE DO SUL/MS, NO ÂMBITO DO PROGRAMA MINHA CASA, MINHA VIDA – MCMV/FNHIS SUB-50, VINCULADA À PROPOSTA TRANSFEREGOV Nº 040044/2025 E À SELEÇÃO NOVO PAC Nº 56000006493/2025, SOB RESPONSABILIDADE DO MINISTÉRIO DAS CIDADES",
-"modalidade": "Concorrência - Eletrônica",
-"srp": false,
-"valorEstimado": 2724425.94,
-"dataEncerramentoProposta": "2026-08-04T00:00:00",
-"dataPublicacaoPncp": "2026-07-17T13:06:00",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": "",
-"processo": "83/2026"
-},
 {
 "numeroControlePNCP": "08184434000109-1-000217/2026",
 "orgao": "MUNICIPIO DE MACAU",
