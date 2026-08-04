@@ -1,31 +1,9 @@
 {
-"build": 1785860668,
+"build": 1785875805,
 "geradoEm": "2026-08-04",
 "modo": "incremental",
-"totalEngenhariaCivil": 1740,
+"totalEngenhariaCivil": 1739,
 "itens": [
-{
-"numeroControlePNCP": "13753471000112-1-000005/2026",
-"orgao": "FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL",
-"cnpj": "13753471000112",
-"esfera": "Municipal",
-"poder": "Executivo",
-"unidade": "FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL",
-"municipio": "Jaguarari",
-"uf": "BA",
-"codigoIbge": "2917706",
-"objeto": "Contratação de pessoa jurídica visando à execução da obra de engenharia civil, para a construção de 40 (quarenta) unidades habitacionais (MCMV-SUB50) na Fazenda Vila Anchieta e São João, neste Município, tudo em conformidade com o Termo de Compromisso nº 995626/2025/MCIDADES/CAIXA, firmado entre a União, por intermédio do Ministério das Cidades, representado pela Caixa Econômica Federal e este Município, atendendo a mais uma necessidade do Fundo de Habitação Local de Interesse Social de Jaguarari.",
-"modalidade": "Concorrência - Eletrônica",
-"srp": false,
-"valorEstimado": 5549986.09,
-"dataEncerramentoProposta": "2026-08-04T17:00:00",
-"dataPublicacaoPncp": "2026-07-20T11:36:05",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": null,
-"processo": "PA082"
-},
 {
 "numeroControlePNCP": "01612617000120-1-000026/2026",
 "orgao": "MUNICIPIO DE CARAUBAS DO PIAUI",
