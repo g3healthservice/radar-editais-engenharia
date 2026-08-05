@@ -1,75 +1,9 @@
 {
-"build": 1785882350,
-"geradoEm": "2026-08-04",
+"build": 1785889006,
+"geradoEm": "2026-08-05",
 "modo": "incremental",
-"totalEngenhariaCivil": 1739,
+"totalEngenhariaCivil": 1736,
 "itens": [
-{
-"numeroControlePNCP": "01612617000120-1-000026/2026",
-"orgao": "MUNICIPIO DE CARAUBAS DO PIAUI",
-"cnpj": "01612617000120",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "Prefeitura de Caraúbas do Piauí",
-"municipio": "Caraúbas do Piauí",
-"uf": "PI",
-"codigoIbge": "2202539",
-"objeto": "[Portal de Compras Públicas] - CONTRATAÇÃO DE EMPRESA DE ENGENHARIA CIVIL PARA EXECUÇÃO DE REFORMAS DE QUADRAS ESPORTIVAS NO MUNICÍPIO DE CARAÚBAS DO PIAUÍ/PI ATRAVÉS DO CONVÊNIO 989804 - MINISTÉRIO DO ESPORTE",
-"modalidade": "Concorrência - Eletrônica",
-"srp": false,
-"valorEstimado": 488995.54,
-"dataEncerramentoProposta": "2026-08-04T23:59:00",
-"dataPublicacaoPncp": "2026-07-21T21:21:35",
-"fonteRecurso": [
-"Convênio"
-],
-"linkEdital": "https://www.portaldecompraspublicas.com.br/processos/PI/Prefeitura-Municipal-de-Caraubas-do-Piaui-2656/CPMP-05-2026-2026-497741",
-"processo": "3305/2026"
-},
-{
-"numeroControlePNCP": "46482840000139-1-000642/2026",
-"orgao": "MUNICIPIO DE CARAGUATATUBA",
-"cnpj": "46482840000139",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "SECRETARIA MUNICIPAL DE HABITAÇÃO",
-"municipio": "Caraguatatuba",
-"uf": "SP",
-"codigoIbge": "3510500",
-"objeto": "Seleção de pessoa jurídica do ramo da construção civil com capacidade técnica para apresentar proposta junto à Caixa Econômica Federal para elaboração de projetos básicos e executivos, execução de obras e o devido registro imobiliário para a implantação de empreendimentos habitacionais de interesse social, selecionados no âmbito do Programa MCMV FAIXA 1 – FAR",
-"modalidade": "Credenciamento",
-"srp": false,
-"valorEstimado": null,
-"dataEncerramentoProposta": "2026-08-05T00:00:00",
-"dataPublicacaoPncp": "2026-07-21T15:38:17",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": null,
-"processo": "PC 001628/2026"
-},
-{
-"numeroControlePNCP": "13702238000100-1-000021/2026",
-"orgao": "MUNICIPIO DE BARRA DO MENDES",
-"cnpj": "13702238000100",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "MUNICIPIO DE BARRA DO MENDES",
-"municipio": "Barra do Mendes",
-"uf": "BA",
-"codigoIbge": "2903003",
-"objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM ENGENHARIA PARA EXECUÇÃO, POR ITEM, EM REGIME DE EMPREITADA POR PREÇO UNITÁRIO, DE SERVIÇOS DE REFORMA EM 3 (TRÊS) UNIDADES ESCOLARES MUNICIPAIS DE BARRA DO MENDES/BA, QUAIS SEJAM: ESCOLA MUNICIPAL DALILA DULCE DE OLIVEIRA, COLÉGIO MUNICIPAL EDÍZIO MENDONÇA E ESCOLA MUNICIPAL MARCIA MARIA DE CARNEIRO MÉCCIA, CONFORME PROJETOS, ESPECIFICAÇÕES TÉCNICAS, MEMORIAL DESCRITIVO E PLANILHAS ORÇAMENTÁRIAS EM ANEXO.",
-"modalidade": "Concorrência - Eletrônica",
-"srp": false,
-"valorEstimado": null,
-"dataEncerramentoProposta": "2026-08-05T00:00:00",
-"dataPublicacaoPncp": "2026-07-22T08:23:41",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": "https://bllcompras.com/Process/ProcessView?param1=[gkz]MxKBu9LUEqQ4M7yBXU4PjB7FFwVa89nsIkN6ejxNjwnxxd7/Ax2pQ6_9vMGfu/k6FsMV9VwdOknAbHDUUHpPHdedWY2yNb8ERnJQHuOHJcM=",
-"processo": "012107/2026"
-},
 {
 "numeroControlePNCP": "77398154000108-1-000045/2026",
 "orgao": "MUNICIPIO DE JESUITAS",
