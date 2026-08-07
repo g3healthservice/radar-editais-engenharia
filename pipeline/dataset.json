@@ -1,31 +1,9 @@
 {
-"build": 1786075329,
+"build": 1786087800,
 "geradoEm": "2026-08-07",
 "modo": "incremental",
-"totalEngenhariaCivil": 1430,
+"totalEngenhariaCivil": 1429,
 "itens": [
-{
-"numeroControlePNCP": "24859316000100-1-000196/2026",
-"orgao": "MUNICIPIO DE APARECIDA DO RIO DOCE",
-"cnpj": "24859316000100",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "PREFEITURA MUNICIPAL DE APARECIDA DO RIO DOCE",
-"municipio": "Aparecida do Rio Doce",
-"uf": "GO",
-"codigoIbge": "5201454",
-"objeto": "CONTRATAÇÃO DE PRESTAÇÃO DE SERVIÇOS DE ENGENHARIA, PARA EXECUÇÃO DE OBRA DE CONSTRUÇÃO DA PORTARIA NO PARQUE AGROPECUÁRIO DE APARECIDA DO RIO DOCE, CONFORME PLANO DE AÇÃO Nº 09032024-069855, EMENDA PARLAMENTAR 202443880012 DE INICIATIVA DO DEPUTADO FEDERAL GUSTAVO GAYER, EM CONTRAPARTIDA COM RECURSO ORDINÁRIO DO TESOURO MUNICIPAL, CONFORME PROJETOS BÁSICOS, PLANILHAS ORÇAMENTÁRIAS E DEMAIS DOCUMENTOS QUE COMPÕEM O ANEXO I DO EDITAL.",
-"modalidade": "Concorrência - Eletrônica",
-"srp": false,
-"valorEstimado": 243121.29,
-"dataEncerramentoProposta": "2026-08-07T07:00:00",
-"dataPublicacaoPncp": "2026-07-13T15:48:06",
-"fonteRecurso": [
-"Emenda parlamentar"
-],
-"linkEdital": "",
-"processo": "15"
-},
 {
 "numeroControlePNCP": "01612614000197-1-000022/2026",
 "orgao": "MUNICIPIO DE VILA NOVA DO PIAUI",
