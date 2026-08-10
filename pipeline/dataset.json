@@ -1,31 +1,9 @@
 {
-"build": 1786378687,
+"build": 1786398869,
 "geradoEm": "2026-08-10",
 "modo": "incremental",
-"totalEngenhariaCivil": 1127,
+"totalEngenhariaCivil": 1126,
 "itens": [
-{
-"numeroControlePNCP": "06716880000183-1-000035/2026",
-"orgao": "MUNICIPIO DE CAMPO MAIOR",
-"cnpj": "06716880000183",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "SECRETARIA MUNICIPAL DE TURISMO, CULTURA E DESENVOLVIMENTO",
-"municipio": "Campo Maior",
-"uf": "PI",
-"codigoIbge": "2202208",
-"objeto": "[Portal de Compras Públicas] - CONTRATAÇÃO DE EMPRESA DE ENGENHARIA PARA EXECUÇÃO DA OBRA DE REFORMA DO TEATRO SIGEFREDO PACHECO NO MUNICÍPIO\nDE CAMPO MAIOR-PI (1ª E 2ª ETAPAS), OBJETO DOS CONVÊNIOS Nºs 972004/2024 E 985096/2025, FIRMADOS ENTRE A PREFEITURA DE CAMPO MAIOR-PI E O MINISTÉRIO DO TURISMO, CONFORME PROJETO BÁSICO E DEMAIS ANEXOS, PARA ATENDER A DEMANDA DO MUNICÍPIO DE CAMPO MAIOR-PI.",
-"modalidade": "Concorrência - Eletrônica",
-"srp": false,
-"valorEstimado": 2587060.79,
-"dataEncerramentoProposta": "2026-08-10T17:00:00",
-"dataPublicacaoPncp": "2026-07-27T11:20:07",
-"fonteRecurso": [
-"Convênio"
-],
-"linkEdital": "https://www.portaldecompraspublicas.com.br/processos/PI/Prefeitura-Municipal-de-Campo-Maior-2460/CPMP-003-2026-2026-498990",
-"processo": "6839/2026"
-},
 {
 "numeroControlePNCP": "25086612000170-1-000022/2026",
 "orgao": "MUNICIPIO DE GOIANORTE",
