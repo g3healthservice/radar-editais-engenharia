@@ -1,31 +1,9 @@
 {
-"build": 1786492408,
-"geradoEm": "2026-08-11",
+"build": 1786510780,
+"geradoEm": "2026-08-12",
 "modo": "incremental",
-"totalEngenhariaCivil": 1000,
+"totalEngenhariaCivil": 999,
 "itens": [
-{
-"numeroControlePNCP": "87842233000110-1-000331/2026",
-"orgao": "MUNICIPIO DE ANTONIO PRADO",
-"cnpj": "87842233000110",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "PREFEITURA MUNICIPAL ANTÔNIO PRADO",
-"municipio": "Antônio Prado",
-"uf": "RS",
-"codigoIbge": "4300802",
-"objeto": "Execução de obra para construção de 11 casas habitacionais do programa FHNIS, destinado às pessoas que perderam ou tiveram suas moradias comprometidas pelos eventos climáticos e enchentes de 2024.",
-"modalidade": "Concorrência - Eletrônica",
-"srp": false,
-"valorEstimado": 1762935.41,
-"dataEncerramentoProposta": "2026-08-11T23:59:00",
-"dataPublicacaoPncp": "2026-07-07T08:58:14",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": "https://www.antonioprado.rs.gov.br/portal.php?pagina=licitacoes_editais",
-"processo": "12"
-},
 {
 "numeroControlePNCP": "01596018000160-1-000012/2026",
 "orgao": "MUNICIPIO DE TAMANDARE",
