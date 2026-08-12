@@ -1,53 +1,9 @@
 {
-"build": 1786547412,
+"build": 1786551301,
 "geradoEm": "2026-08-12",
 "modo": "incremental",
-"totalEngenhariaCivil": 901,
+"totalEngenhariaCivil": 899,
 "itens": [
-{
-"numeroControlePNCP": "18338285000130-1-000059/2026",
-"orgao": "MUNICIPIO DE SANTANA DO GARAMBEU",
-"cnpj": "18338285000130",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "Unidade Única",
-"municipio": "Santana do Garambéu",
-"uf": "MG",
-"codigoIbge": "3158706",
-"objeto": "Contratação de empresa para construção de creche de educação infantil, no Bairro Centro, município de Santana do Garambéu/MG, conforme Termo de Compromisso Nº 977922/2025/FNDE/CAIXA.",
-"modalidade": "Concorrência - Eletrônica",
-"srp": false,
-"valorEstimado": 3413801.69,
-"dataEncerramentoProposta": "2026-08-12T16:00:00",
-"dataPublicacaoPncp": "2026-06-24T12:31:42",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": "https://app2.ammlicita.org.br/pesquisa/102787",
-"processo": "057/2026"
-},
-{
-"numeroControlePNCP": "18675900000102-1-000136/2026",
-"orgao": "MUNICIPIO DE ESPIRITO SANTO DO DOURADO",
-"cnpj": "18675900000102",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "SECRET. MUN. ADM. E PLANEJ., FINANCAS, CONTAB. E GESTAO FISCAL, RH E ASSUNTOS INT. E OUVIDORIA",
-"municipio": "Espírito Santo do Dourado",
-"uf": "MG",
-"codigoIbge": "3124401",
-"objeto": "Credenciamento de interessados para prestação de serviços especializados em instalação, manutenção preventiva e corretiva predial de sistemas elétricos e eletrônicos dos setores da Prefeitura Municipal de Espírito Santo do Dourado/MG.\r\n ***** VALOR TOTAL ESTIMADO DA COMPRA - 258.900,00 *****",
-"modalidade": "Credenciamento",
-"srp": false,
-"valorEstimado": 258900.0,
-"dataEncerramentoProposta": "2026-08-12T16:00:16",
-"dataPublicacaoPncp": "2026-07-23T12:00:17",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": "https://imaq.diretriz.net",
-"processo": "131"
-},
 {
 "numeroControlePNCP": "14215826000182-1-000073/2026",
 "orgao": "MUNICIPIO DE PARIPIRANGA",
