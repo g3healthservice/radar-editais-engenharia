@@ -1,75 +1,9 @@
 {
-"build": 1786551301,
+"build": 1786558184,
 "geradoEm": "2026-08-12",
 "modo": "incremental",
-"totalEngenhariaCivil": 899,
+"totalEngenhariaCivil": 896,
 "itens": [
-{
-"numeroControlePNCP": "14215826000182-1-000073/2026",
-"orgao": "MUNICIPIO DE PARIPIRANGA",
-"cnpj": "14215826000182",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "Prefeitura Municipal de Paripiranga",
-"municipio": "Paripiranga",
-"uf": "BA",
-"codigoIbge": "2923803",
-"objeto": "Credenciamento para contratação de empresa para prestação de serviços de ultrassonografia à Atenção Básica de Paripiranga/BA, incluindo fornecimento de equipamentos, insumos, equipe técnica e emissão de laudos, visando ampliar o acesso aos exames e reduzir a demanda reprimida, em conformidade com as normas vigentes.",
-"modalidade": "Credenciamento",
-"srp": false,
-"valorEstimado": 394189.2,
-"dataEncerramentoProposta": "2026-08-12T17:00:00",
-"dataPublicacaoPncp": "2026-07-13T10:33:02",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": "sai.io.org.br/site/PublicadoPncp/165804?localConsulta=2&cod=122",
-"processo": "148/2026"
-},
-{
-"numeroControlePNCP": "06553564000138-1-000024/2026",
-"orgao": "PIAUI SECRETARIA DE SAUDE",
-"cnpj": "06553564000138",
-"esfera": "Estadual",
-"poder": "Executivo",
-"unidade": "EPI-SECRETARIA DE ESTADO DE SAUDE",
-"municipio": "Teresina",
-"uf": "PI",
-"codigoIbge": "2211001",
-"objeto": "Contratação de empresa especializada em serviços de engenharia para a REFORMA E AMPLIAÇÃO DE UNIDADE HOSPITALAR: HOSPITAL REGIONAL TIBÉRIO NUNES na cidade de Floriano - PI.",
-"modalidade": "Concorrência - Eletrônica",
-"srp": false,
-"valorEstimado": 39255935.39,
-"dataEncerramentoProposta": "2026-08-12T18:00:00",
-"dataPublicacaoPncp": "2026-07-01T09:01:02",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92654303000122026",
-"processo": "00012.028501/2025-69"
-},
-{
-"numeroControlePNCP": "17577524000142-1-000031/2026",
-"orgao": "SECRETARIA MUNICIPAL DE ADMINISTRACAO",
-"cnpj": "17577524000142",
-"esfera": "Municipal",
-"poder": "Executivo",
-"unidade": "SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO - GO",
-"municipio": "Goiânia",
-"uf": "GO",
-"codigoIbge": "5208707",
-"objeto": "Credenciamento de pessoas jurídicas do ramo da construção civil, incorporadoras e/ou construtoras, com comprovada capacidade técnica, para a apresentação de projetos e construção de no mínimo 272 (duzentos e setenta e duas) apartamentos, todos de Interesse Social, no âmbito do Programa Habitacional denominado “Casa Nova Servidor”, com recursos do Programa “Minha Casa Minha Vida” ou qualquer outro Programa Habitacional estadual e/ou municipal, nos termos do preconizado pela Lei Federal 14.620",
-"modalidade": "Credenciamento",
-"srp": false,
-"valorEstimado": 272.0,
-"dataEncerramentoProposta": "2026-08-12T18:00:00",
-"dataPublicacaoPncp": "2026-07-10T14:02:59",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": null,
-"processo": "26.33.000000528-5"
-},
 {
 "numeroControlePNCP": "24859316000100-1-000208/2026",
 "orgao": "MUNICIPIO DE APARECIDA DO RIO DOCE",
