@@ -1,31 +1,9 @@
 {
-"build": 1786713627,
+"build": 1786723524,
 "geradoEm": "2026-08-14",
 "modo": "incremental",
-"totalEngenhariaCivil": 784,
+"totalEngenhariaCivil": 783,
 "itens": [
-{
-"numeroControlePNCP": "13504675000110-1-000203/2026",
-"orgao": "EMPRESA BAIANA DE AGUAS E SANEAMENTO S/A - EMBASA",
-"cnpj": "13504675000110",
-"esfera": "Não informado",
-"poder": "Não informado",
-"unidade": "EMPRESA BAIANA DE AGUAS E SANEAMENTO S/A - EMBASA",
-"municipio": "Salvador",
-"uf": "BA",
-"codigoIbge": "2927408",
-"objeto": "ELABORAÇÃO DO PROJETO BÁSICO DE ENGENHARIA DE AMPLIAÇÃO DO SISTEMA DE ABASTECIMENTO DE ÁGUA (SAA) DE ITUBERÁ, MUNICÍPIO DE ITUBERÁ - BAHIA.\nFonte de recursos: Próprios",
-"modalidade": "Pregão - Eletrônico",
-"srp": false,
-"valorEstimado": 892554.74,
-"dataEncerramentoProposta": "2026-08-14T14:00:00",
-"dataPublicacaoPncp": "2026-07-21T18:31:51",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": "https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1097166",
-"processo": "SEI.2026.0026429-02"
-},
 {
 "numeroControlePNCP": "44935278000126-1-000077/2026",
 "orgao": "MUNICIPIO DE RANCHARIA",
