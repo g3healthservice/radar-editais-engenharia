@@ -1,53 +1,9 @@
 {
-"build": 1787222639,
+"build": 1787225983,
 "geradoEm": "2026-08-20",
 "modo": "incremental",
-"totalEngenhariaCivil": 635,
+"totalEngenhariaCivil": 633,
 "itens": [
-{
-"numeroControlePNCP": "24393108000150-1-000016/2026",
-"orgao": "ESTADO DO MARANHAO - SECRETARIA DE ESTADO DE GOVERNO",
-"cnpj": "24393108000150",
-"esfera": "Estadual",
-"poder": "Executivo",
-"unidade": "EMA-SECRETARIA DE ESTADO DO GOVERNO",
-"municipio": "São Luís",
-"uf": "MA",
-"codigoIbge": "2111300",
-"objeto": "Contratação de empresa de engenharia para a prestação de serviços técnicos especializados de engenharia para a elaboração dos projetos básico e executivo, bem como dos estudos, levantamentos, diagnósticos e peças técnicas correlatas, necessários à reabilitação e à ampliação do Sistema de Abastecimento de Água do Município de Morros/MA, com recursos do Termo de Compromisso nº 968358/2024/MCIDADES/CAIXA firmado com a Secretaria de Estado de Governo.",
-"modalidade": "Concorrência - Eletrônica",
-"srp": false,
-"valorEstimado": 5097957.61,
-"dataEncerramentoProposta": "2026-08-20T11:00:00",
-"dataPublicacaoPncp": "2026-01-30T17:09:29",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": "https://app2-compras.licitama.com.br/pesquisa/6432",
-"processo": "2026111240/0036"
-},
-{
-"numeroControlePNCP": "05245375000135-1-000020/2026",
-"orgao": "SECRETARIA MUNICIPAL DE SEGURANCA URBANA - SMSU",
-"cnpj": "05245375000135",
-"esfera": "Municipal",
-"poder": "Executivo",
-"unidade": "PMSP - SECRETARIA MUNICIPAL SEGURANÇA URBANA",
-"municipio": "São Paulo",
-"uf": "SP",
-"codigoIbge": "3550308",
-"objeto": "Contratação de serviços especializados para execução de Projetos de Engenharia, Arquitetura e Apoio à Fiscalização, no regime de empreitada por preços unitários, para reformas e ampliações de edificações atendendo as demandas da Secretaria Municipal de Segurança Urbana - Prefeitura de São Paulo/SP.",
-"modalidade": "Concorrência - Presencial",
-"srp": false,
-"valorEstimado": 4996629.84,
-"dataEncerramentoProposta": "2026-08-20T11:00:00",
-"dataPublicacaoPncp": "2026-06-25T13:20:01",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": null,
-"processo": "6029202500208780"
-},
 {
 "numeroControlePNCP": "13650403000128-1-000324/2026",
 "orgao": "MUNICIPIO DE TEIXEIRA DE FREITAS",
