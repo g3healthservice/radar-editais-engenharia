@@ -1,97 +1,9 @@
 {
-"build": 1787225983,
+"build": 1787262061,
 "geradoEm": "2026-08-20",
 "modo": "incremental",
-"totalEngenhariaCivil": 633,
+"totalEngenhariaCivil": 629,
 "itens": [
-{
-"numeroControlePNCP": "13650403000128-1-000324/2026",
-"orgao": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-"cnpj": "13650403000128",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "Prefeitura Municipal de Teixeira de Freitas",
-"municipio": "Teixeira de Freitas",
-"uf": "BA",
-"codigoIbge": "2931350",
-"objeto": "Contratação de empresa especializada em execução de obras de microdrenagem e pavimentação em diversas ruas dos bairros Bonadiman, Eixo Sul e Portal Sul, no município de Teixeira de Freitas – BA.",
-"modalidade": "Concorrência - Eletrônica",
-"srp": false,
-"valorEstimado": 31056653.0,
-"dataEncerramentoProposta": "2026-08-20T13:45:00",
-"dataPublicacaoPncp": "2026-07-15T16:02:12",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": "https://bllcompras.com/Process/ProcessView?param1=[gkz]0QXIA9bWcDW7CIMUtFYo2mHKsLpyFTtyWnduWXonU0_CskwMuMe2sNOjNsCdVYROARlJlBEQZj5aztfGzU2At8C_f/K0Cf89R7uFYIEMvfE=",
-"processo": "620/2026"
-},
-{
-"numeroControlePNCP": "27470897000173-1-000036/2026",
-"orgao": "POLICIA CIVIL",
-"cnpj": "27470897000173",
-"esfera": "Estadual",
-"poder": "Executivo",
-"unidade": "POLÍCIA CIVIL DO ESTADO DO ESPÍRITO SANTO",
-"municipio": "Vitória",
-"uf": "ES",
-"codigoIbge": "3205309",
-"objeto": "Contratação de empresa de engenharia para a Execução dos SERVIÇOS DE REFORMA DO PRÉDIO CENTRAL 3 DA PCES- SUPIC- Superintendência de Polícia Interestadual e de Capturas, conforme os procedimentos aqui estabelecidos",
-"modalidade": "Concorrência - Eletrônica",
-"srp": false,
-"valorEstimado": 4683927.57,
-"dataEncerramentoProposta": "2026-08-20T13:55:00",
-"dataPublicacaoPncp": "2026-07-14T15:37:35",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": null,
-"processo": "2026-T6825"
-},
-{
-"numeroControlePNCP": "24393108000150-1-000018/2026",
-"orgao": "ESTADO DO MARANHAO - SECRETARIA DE ESTADO DE GOVERNO",
-"cnpj": "24393108000150",
-"esfera": "Estadual",
-"poder": "Executivo",
-"unidade": "EMA-SECRETARIA DE ESTADO DO GOVERNO",
-"municipio": "São Luís",
-"uf": "MA",
-"codigoIbge": "2111300",
-"objeto": "Contratação de empresa de engenharia para execução integrada de obras e serviços de engenharia destinados à modernização, ampliação e consolidação do Sistema de Abastecimento de Água (SAA) da sede do Município de Poção de Pedras/MA, compreendendo a elaboração dos projetos básico e executivo, bem como a execução das obras civis, instalações eletromecânicas, sistemas elétricos, automação, telemetria, comissionamento e pré-operação, de modo a garantir a plena funcionalidade do sistema, com recursos do Termo de Compromisso nº 969020/2024/MCIDADES/CAIXA firmado com a Secretaria de Estado de Governo. ",
-"modalidade": "Concorrência - Eletrônica",
-"srp": false,
-"valorEstimado": 4225713.1,
-"dataEncerramentoProposta": "2026-08-20T14:30:00",
-"dataPublicacaoPncp": "2026-01-30T17:16:21",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": "https://app2-compras.licitama.com.br/pesquisa/6435",
-"processo": "2026111240/0037"
-},
-{
-"numeroControlePNCP": "24393108000150-1-000023/2026",
-"orgao": "ESTADO DO MARANHAO - SECRETARIA DE ESTADO DE GOVERNO",
-"cnpj": "24393108000150",
-"esfera": "Estadual",
-"poder": "Executivo",
-"unidade": "EMA-SECRETARIA DE ESTADO DO GOVERNO",
-"municipio": "São Luís",
-"uf": "MA",
-"codigoIbge": "2111300",
-"objeto": "Contratação de empresa de engenharia para execução integrada de obras e serviços de engenharia destinados à modernização, ampliação e consolidação do Sistema de Abastecimento de Água (SAA) da sede do Município de Tutóia/MA, compreendendo a elaboração dos Projetos Básico e Executivo e a execução das obras civis, eletromecânicas, elétricas, hidráulicas e de automação necessárias à requalificação do sistema, com recursos do Termo de Compromisso nº 953274/2024/MCIDADES/CAIXA firmado com a Secretaria de Estado de Governo.",
-"modalidade": "Concorrência - Eletrônica",
-"srp": false,
-"valorEstimado": 19153735.0,
-"dataEncerramentoProposta": "2026-08-20T15:00:00",
-"dataPublicacaoPncp": "2026-01-30T17:25:39",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": "https://app2-compras.licitama.com.br/pesquisa/6438",
-"processo": "2026111240/0038"
-},
 {
 "numeroControlePNCP": "77398154000108-1-000052/2026",
 "orgao": "MUNICIPIO DE JESUITAS",
