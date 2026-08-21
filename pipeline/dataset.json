@@ -1,31 +1,9 @@
 {
-"build": 1787265671,
-"geradoEm": "2026-08-20",
+"build": 1787295716,
+"geradoEm": "2026-08-21",
 "modo": "incremental",
-"totalEngenhariaCivil": 629,
+"totalEngenhariaCivil": 628,
 "itens": [
-{
-"numeroControlePNCP": "77398154000108-1-000052/2026",
-"orgao": "MUNICIPIO DE JESUITAS",
-"cnpj": "77398154000108",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "PREFEITURA MUNICIPAL",
-"municipio": "Jesuítas",
-"uf": "PR",
-"codigoIbge": "4112751",
-"objeto": "Contratação de empresa especializada para implantação, ampliação e melhoria da rede de distribuição aérea urbana de energia elétrica de baixa tensão, incluindo o fornecimento de equipamentos, materiais e serviços necessários à execução, com recursos provenientes da Contribuição para Custeio do Servi",
-"modalidade": "Concorrência - Eletrônica",
-"srp": false,
-"valorEstimado": 684533.29,
-"dataEncerramentoProposta": "2026-08-21T07:00:00",
-"dataPublicacaoPncp": "2026-07-16T09:10:24",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": "https://bnccompras.com/Process/ProcessView?param1=[gkz]75M6Q0Ziu00smYlMeufdgIdEJCOa6qB3xP3bCHVTmQ4fAwrEhNI7a3nvqvOpNp5giadu9Dmddp25K8yGy9usVhjziPKnRMwWJcLlpY5AyPc=",
-"processo": "67/2026"
-},
 {
 "numeroControlePNCP": "05666423000169-1-000002/2026",
 "orgao": "CAMARA MUNICIPAL DE DORES DO TURVO",
