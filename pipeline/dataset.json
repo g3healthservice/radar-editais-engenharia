@@ -1,31 +1,9 @@
 {
-"build": 1787590226,
+"build": 1787593373,
 "geradoEm": "2026-08-24",
 "modo": "incremental",
-"totalEngenhariaCivil": 577,
+"totalEngenhariaCivil": 576,
 "itens": [
-{
-"numeroControlePNCP": "01165729000180-1-000275/2026",
-"orgao": "MUNICIPIO DE JATAI",
-"cnpj": "01165729000180",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "GABINETE DO PREFEITO",
-"municipio": "Jataí",
-"uf": "GO",
-"codigoIbge": "5211909",
-"objeto": "Seleção de empresas do ramo de construção civil, incorporadoras e/ou construtoras, com comprovada capacidade técnica, para apresentação de projetos e construção de 300 (trezentas) unidades habitacionais verticais coletivas, de Interesse Social, no âmbito do Programa Minha Casa Minha Vida - MCMV, com recursos do FAR (Fundo de Arrendamento Residencial) e/ou CIDADES nos termos do preconizado pela Lei Federal nº 14.620/2023 e alterações posteriores.",
-"modalidade": "Credenciamento",
-"srp": false,
-"valorEstimado": 165000.0,
-"dataEncerramentoProposta": "2026-08-24T17:00:00",
-"dataPublicacaoPncp": "2026-07-06T08:44:13",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": "www.sigep.com.br",
-"processo": "21212"
-},
 {
 "numeroControlePNCP": "16752446000102-1-000163/2026",
 "orgao": "MUNICIPIO DE CONGONHAS",
