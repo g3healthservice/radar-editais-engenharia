@@ -1,53 +1,9 @@
 {
-"build": 1787673318,
+"build": 1787687098,
 "geradoEm": "2026-08-25",
 "modo": "incremental",
-"totalEngenhariaCivil": 546,
+"totalEngenhariaCivil": 544,
 "itens": [
-{
-"numeroControlePNCP": "11607006000148-1-000031/2026",
-"orgao": "FUNDO MUNICIPAL DE SAUDE DE TIJUCAS",
-"cnpj": "11607006000148",
-"esfera": "Municipal",
-"poder": "Executivo",
-"unidade": "Fundo Municipal de Saúde",
-"municipio": "Tijucas",
-"uf": "SC",
-"codigoIbge": "4218004",
-"objeto": "CREDENCIAMENTO de pessoas jurídicas especializadas para a prestação de serviços de exames audiológicos, destinados ao atendimento complementar dos usuários do Sistema Único de Saúde - SUS do Município de Tijucas/SC, visando à ampliação da oferta assistencial, à garantia da regularidade na prestação dos serviços, à realização de procedimentos com qualidade técnica, à emissão de laudos confiáveis e ao adequado suporte às ações de diagnóstico e acompanhamento clínico",
-"modalidade": "Credenciamento",
-"srp": false,
-"valorEstimado": 570844.0,
-"dataEncerramentoProposta": "2026-08-25T17:00:00",
-"dataPublicacaoPncp": "2026-07-13T11:12:35",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": null,
-"processo": "25/2026"
-},
-{
-"numeroControlePNCP": "11607006000148-1-000032/2026",
-"orgao": "FUNDO MUNICIPAL DE SAUDE DE TIJUCAS",
-"cnpj": "11607006000148",
-"esfera": "Municipal",
-"poder": "Executivo",
-"unidade": "Fundo Municipal de Saúde",
-"municipio": "Tijucas",
-"uf": "SC",
-"codigoIbge": "4218004",
-"objeto": "CREDENCIAMENTO de pessoas jurídicas especializadas para a prestação de serviços de fisioterapia, destinados ao atendimento complementar dos usuários do Sistema Único de Saúde - SUS do Município de Tijucas/SC, visando à ampliação da oferta assistencial e à redução da fila de espera para reabilitação fisioterapêutica",
-"modalidade": "Credenciamento",
-"srp": false,
-"valorEstimado": 560700.0,
-"dataEncerramentoProposta": "2026-08-25T17:00:00",
-"dataPublicacaoPncp": "2026-07-13T13:48:53",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": null,
-"processo": "26/2026"
-},
 {
 "numeroControlePNCP": "01921228000187-1-000018/2025",
 "orgao": "CONSORCIO INTERMUNICIPAL DE SAUDE DO CENTRO LESTE",
