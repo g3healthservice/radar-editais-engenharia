@@ -1,31 +1,9 @@
 {
-"build": 1788299392,
-"geradoEm": "2026-09-01",
+"build": 1788307397,
+"geradoEm": "2026-09-02",
 "modo": "incremental",
-"totalEngenhariaCivil": 430,
+"totalEngenhariaCivil": 429,
 "itens": [
-{
-"numeroControlePNCP": "14232086000192-1-000196/2026",
-"orgao": "MUNICIPIO DE ARACI",
-"cnpj": "14232086000192",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "PREFEITURA MUNICIPAL DE ARACI - BA",
-"municipio": "Araci",
-"uf": "BA",
-"codigoIbge": "2902104",
-"objeto": "CONTRATAÇÃO DE EMPRESA DO RAMO PERTINENTE PARA REFORMA DO ESTÁDIO MUNICIPAL DE ARACI NO ESTADO DA BAHIA, CONVÊNIO Nº 35/2026 COM A SUPERINTENDÊNCIA DOS DESPORTOS DO ESTADO DA BAHIA - SUDESB, COM O FORNECIMENTO DE TODO O MATERIAL E MÃO DE OBRA NECESSÁRIA.",
-"modalidade": "Concorrência - Eletrônica",
-"srp": false,
-"valorEstimado": 1149255.53,
-"dataEncerramentoProposta": "2026-09-01T23:59:00",
-"dataPublicacaoPncp": "2026-07-23T16:15:34",
-"fonteRecurso": [
-"Convênio"
-],
-"linkEdital": "https://bllcompras.com/Process/ProcessView?param1=[gkz]mXPOsH1/K/Z2KWXJNg2yzf1l5LEZmbunHEux2JCXcEjFA4ZF5Xj/L3VGin/Z8vu3LYY3X28_P5mxNIcazxGgmVZ4a1afnBwbUclluKhgxYo=",
-"processo": "261/2026"
-},
 {
 "numeroControlePNCP": "83545244000187-1-000093/2026",
 "orgao": "JOINVILLE CAMARA DE VEREADORES",
