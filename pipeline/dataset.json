@@ -1,31 +1,9 @@
 {
-"build": 1788355916,
+"build": 1788390965,
 "geradoEm": "2026-09-02",
 "modo": "incremental",
-"totalEngenhariaCivil": 409,
+"totalEngenhariaCivil": 408,
 "itens": [
-{
-"numeroControlePNCP": "82951344000140-1-000084/2026",
-"orgao": "SECRETARIA DE ESTADO DE INFRAESTRUTURA E MOBILIDADE (SIE)",
-"cnpj": "82951344000140",
-"esfera": "Estadual",
-"poder": "Executivo",
-"unidade": "Secretaria de Estado da Infraestrutura e Mobilidade",
-"municipio": "Florianópolis",
-"uf": "SC",
-"codigoIbge": "4205407",
-"objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM ELABORAÇÃO DE PROJETOS DE ARQUITETURA E DE ENGENHARIA, UTILIZANDO A METODOLOGIA DA MODELAGEM DA INFORMAÇÃO DA CONSTRUÇÃO (BIM), E EM EXECUÇÃO DE OBRAS PARA CONSTRUÇÃO DA MURALHA PERIMETRAL DA COLÔNIA AGROINDUSTRIAL DE PALHOÇA EQUIPADA POR 5 (CINCO) GUARITAS DE SEGURANÇA, LOCALIZADA NA RUA JOSÉ JOÃO BARCELOS, S/N, BELA VISTA, PALHOÇA.",
-"modalidade": "Concorrência - Eletrônica",
-"srp": false,
-"valorEstimado": 13237269.56,
-"dataEncerramentoProposta": "2026-09-02T13:45:00",
-"dataPublicacaoPncp": "2026-06-15T14:01:32",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": null,
-"processo": "27203"
-},
 {
 "numeroControlePNCP": "76966860000146-1-000223/2026",
 "orgao": "MUNICIPIO DE JACAREZINHO",
